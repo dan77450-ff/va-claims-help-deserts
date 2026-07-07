@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VA Claims-Help Deserts — Trends</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+body{font-family:-apple-system,Segoe UI,sans-serif;margin:20px;max-width:900px}
+h1{font-size:22px;margin-bottom:2px}.sub{color:#555;margin-top:0;font-size:13.5px}
+.card{border:1px solid #ddd;border-radius:8px;padding:14px 16px;margin:14px 0}
+input{font-size:14px;padding:6px 8px;width:320px;border:1px solid #bbb;border-radius:5px}
+.muted{color:#666;font-size:13px} a{color:#1c5f9e}
+</style></head><body>
+<h1>Trends</h1>
+<p class="sub">Weekly snapshots of the accredited-rep roster, archived every Tuesday since July 2026 &middot; <a href="index.html">&larr; back to the map</a></p>
+
+<div class="card"><b>National</b>
+<canvas id="nat" height="90"></canvas>
+<div class="muted">Desert counties = zero accredited reps and ≥1,000 veterans. As snapshots accumulate, this shows whether the gap is closing.</div></div>
+
+<div class="card"><b>County</b><br><br>
+<input list="clist" id="csel" placeholder="Type a county name...">
+<datalist id="clist"></datalist>
+<canvas id="cty" height="90"></canvas></div>
+
+<script>
+const csv = t => { const [h,...rows]=t.trim().split('\n').map(l=>l.split(','));
+  return rows.map(r=>Object.fromEntries(h.map((k,i)=>[k,r[i]]))); };
+let natChart=null, ctyChart=null, trends=[], dates=[];
+
+fetch('trends-summary.csv').then(r=>r.text()).then(t=>{
+  const s=csv(t);
+  natChart=new Chart(document.getElementById('nat'),{type:'line',data:{
+    labels:s.map(r=>r.date),
+    datasets:[{label:'Desert counties',data:s.map(r=>+r.desert_counties),borderColor:'#b2182b',yAxisID:'y'},
+              {label:'Total accredited reps',data:s.map(r=>+r.total_reps),borderColor:'#2166ac',yAxisID:'y2'}]},
+    options:{scales:{y:{position:'left',title:{display:true,text:'desert counties'}},
+                     y2:{position:'right',grid:{drawOnChartArea:false},title:{display:true,text:'total reps'}}}}});
+});
+
+fetch('trends.csv').then(r=>r.text()).then(t=>{
+  trends=csv(t);
+  dates=Object.keys(trends[0]).filter(k=>k!=='FIPS'&&k!=='county');
+  const dl=document.getElementById('clist');
+  trends.forEach(r=>{const o=document.createElement('option');o.value=r.county;dl.appendChild(o);});
+  const fips=new URLSearchParams(location.search).get('fips');
+  if(fips){const row=trends.find(r=>r.FIPS===fips); if(row){document.getElementById('csel').value=row.county; draw(row);}}
+});
+
+function draw(row){
+  if(ctyChart)ctyChart.destroy();
+  ctyChart=new Chart(document.getElementById('cty'),{type:'line',data:{
+    labels:dates,datasets:[{label:row.county+' — accredited reps',data:dates.map(d=>+row[d]),borderColor:'#2166ac'}]},
+    options:{scales:{y:{beginAtZero:true,ticks:{precision:0}}}}});
+}
+document.getElementById('csel').addEventListener('change',e=>{
+  const row=trends.find(r=>r.county===e.target.value); if(row)draw(row);
+});
+</script></body></html>

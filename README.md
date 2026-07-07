@@ -6,9 +6,11 @@ Three-quarters of veterans with pending VA disability claims use an accredited r
 
 **Headline findings (July 2026 data):**
 
-- **338 counties with 1,000+ veterans have zero accredited representatives** registered in the county.
+- **338 counties with 1,000+ veterans have zero accredited representatives** registered in the county — **735,000+ veterans live in these deserts**.
 - **658 counties with 1,000+ veterans have no government service officer** (county CVSO or state department officer) — the free, public-sector help that exists precisely so veterans don't have to pay private consultants.
-- The largest desert: Cochise County, AZ — ~18,900 veterans, zero accredited reps.
+- The largest desert: Cochise County, AZ — ~18,900 veterans, nearest accredited rep ~59 miles away in Tucson.
+
+**Click any county on the map** for its full profile: distance to nearest accredited help, FY24 VA compensation dollars per veteran vs. the state average (below-average dollars in a desert often mean unclaimed benefits), congressional district(s), and a link to its trend over time.
 
 The CVSO Act (§302 of the Dole Act, signed January 2025) requires VA to prioritize outreach grants to areas with a critical shortage of county or tribal veterans service officers. As of July 2026, VA has published no shortage-area determination. This dataset is an independent attempt to identify those areas from public data.
 

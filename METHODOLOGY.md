@@ -1,4 +1,4 @@
-# VA Claims-Help Desert Map — Methodology (v1.1, July 2026)
+# VA Claims-Help Desert Map — Methodology (v1.2, July 2026)
 
 ## What it shows
 County-level density of VA-accredited representatives (VSO representatives, attorneys, claims agents) per 1,000 veterans, with state-level claims backlog context. Built to identify areas where veterans lack nearby free, accredited claims help — the gap the CVSO Act (§302, Dole Act, Jan 2025) requires VA to prioritize in grant-making.
@@ -21,6 +21,12 @@ Rep types: reps affiliated with the National Association of County Veterans Serv
 - **CVSO classification is roster-derived:** CVSOs accredited only through a state department (not NACVSO) appear as `state_vso`; a few counties run CVSO offices whose officers hold no individual VA accreditation and are invisible here.
 - **Backlog is state-level only** (finest published geography, by claimant address). County backlog does not exist publicly.
 - **Point-in-time:** roster changes 3x/week; backlog weekly; VetPop is a projection model, not a count.
+
+## County profiles (click panel), v1.2
+- **Nearest help:** great-circle distance from the county's Census-gazetteer centroid (2023) to the nearest rep's zip centroid; computed only for zero-rep counties. Road distance will be longer.
+- **Dollars:** FY24 GDX "County Direct Exp" Compensation & Pension, divided by FY26 projected veterans (fiscal-year mismatch noted); state benchmark = state C&P total / state veterans. Above/below state average is descriptive - high per-veteran dollars can reflect an older or more service-connected population, not just claiming rates.
+- **Districts:** Census county-CD relationship file, 118th Congress. A few states redrew districts for the 119th (e.g., AL, GA, LA, NC, NY) - verify via the house.gov lookup linked in the panel.
+- **Trends:** weekly roster snapshots (since 2026-07-07) feed docs/trends.csv / trends-summary.csv, rendered at trends.html.
 
 ## Files
 - `desert-map.html` — interactive map (needs internet for base geography)

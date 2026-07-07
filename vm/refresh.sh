@@ -25,9 +25,18 @@ fetch_cached "https://www2.census.gov/geo/docs/maps-data/data/rel2020/zcta520/ta
              "$CACHE_DIR/tab20_zcta520_county20_natl.txt"
 fetch_cached "https://raw.githubusercontent.com/CT-Data-Collaborative/zip-to-planningregion/main/ZIP-to-PlanningRegion.xlsx" \
              "$CACHE_DIR/ZIP-to-PlanningRegion.xlsx"
-cp -n "$CACHE_DIR/VetPop2023_County_Data__9L.csv" data/ 2>/dev/null || true
-cp -n "$CACHE_DIR/tab20_zcta520_county20_natl.txt" data/ 2>/dev/null || true
-cp -n "$CACHE_DIR/ZIP-to-PlanningRegion.xlsx" data/ 2>/dev/null || true
+fetch_cached "https://www.va.gov/VETDATA/docs/GDX/GDX_FY24.xlsx" "$CACHE_DIR/GDX_FY24.xlsx"
+fetch_cached "https://www2.census.gov/geo/docs/maps-data/data/rel2020/cd-sld/tab20_cd11820_county20_natl.txt" \
+             "$CACHE_DIR/tab20_cd11820_county20_natl.txt"
+if [ ! -s "$CACHE_DIR/2023_Gaz_counties_national.txt" ]; then
+  fetch_cached "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2023_Gazetteer/2023_Gaz_counties_national.zip" \
+               "$CACHE_DIR/gaz.zip"
+  python3 -c "import zipfile;zipfile.ZipFile('$CACHE_DIR/gaz.zip').extractall('$CACHE_DIR')"
+fi
+for f in VetPop2023_County_Data__9L.csv tab20_zcta520_county20_natl.txt ZIP-to-PlanningRegion.xlsx \
+         GDX_FY24.xlsx tab20_cd11820_county20_natl.txt 2023_Gaz_counties_national.txt; do
+  cp -n "$CACHE_DIR/$f" data/ 2>/dev/null || true
+done
 
 # ---------- 2. fresh rosters ----------
 for f in attorneyexcellist caexcellist orgsexcellist; do
@@ -61,8 +70,9 @@ python3 code/extract_mmwr_state.py "$MMWR"
 
 # ---------- 4. rebuild ----------
 python3 code/build_density.py
-python3 code/build_map.py
-mv desert-map.html docs/index.html
+python3 code/build_profiles.py
+python3 code/append_trends.py
+python3 code/build_map.py   # writes docs/index.html directly
 
 # ---------- 5. commit & push only if something changed ----------
 git add -A
