@@ -1,0 +1,3151 @@
+FIPS,county,State,Veterans,reps,attorney,agent,vso_rep,cvso,state_vso,reps_per_1k_vets
+01001,"Autauga, AL",Alabama,5799,4,2,0,0,0,2,0.69
+01003,"Baldwin, AL",Alabama,19690,5,2,0,0,0,3,0.254
+01005,"Barbour, AL",Alabama,1437,0,0,0,0,0,0,0.0
+01007,"Bibb, AL",Alabama,1082,1,0,0,0,0,1,0.924
+01009,"Blount, AL",Alabama,2871,0,0,0,0,0,0,0.0
+01011,"Bullock, AL",Alabama,403,1,1,0,0,0,0,2.481
+01013,"Butler, AL",Alabama,1188,1,0,0,0,0,1,0.842
+01015,"Calhoun, AL",Alabama,8330,3,0,0,0,0,3,0.36
+01017,"Chambers, AL",Alabama,1900,2,1,0,0,0,1,1.053
+01019,"Cherokee, AL",Alabama,1342,2,2,0,0,0,0,1.49
+01021,"Chilton, AL",Alabama,1957,1,1,0,0,0,0,0.511
+01023,"Choctaw, AL",Alabama,602,1,0,0,0,0,1,1.661
+01025,"Clarke, AL",Alabama,1276,2,0,0,0,0,2,1.567
+01027,"Clay, AL",Alabama,762,0,0,0,0,0,0,0.0
+01029,"Cleburne, AL",Alabama,849,0,0,0,0,0,0,0.0
+01031,"Coffee, AL",Alabama,7281,4,2,0,0,0,2,0.549
+01033,"Colbert, AL",Alabama,2993,2,0,0,1,0,1,0.668
+01035,"Conecuh, AL",Alabama,651,0,0,0,0,0,0,0.0
+01037,"Coosa, AL",Alabama,715,0,0,0,0,0,0,0.0
+01039,"Covington, AL",Alabama,2526,2,0,0,0,0,2,0.792
+01041,"Crenshaw, AL",Alabama,756,0,0,0,0,0,0,0.0
+01043,"Cullman, AL",Alabama,4964,2,0,0,0,0,2,0.403
+01045,"Dale, AL",Alabama,6748,3,1,0,0,0,2,0.445
+01047,"Dallas, AL",Alabama,2035,4,2,0,0,0,2,1.966
+01049,"De Kalb, AL",Alabama,3323,1,0,0,0,0,1,0.301
+01051,"Elmore, AL",Alabama,7550,4,3,0,0,0,1,0.53
+01053,"Escambia, AL",Alabama,2025,1,0,0,0,0,1,0.494
+01055,"Etowah, AL",Alabama,5506,5,2,0,0,0,3,0.908
+01057,"Fayette, AL",Alabama,953,1,0,0,0,0,1,1.049
+01059,"Franklin, AL",Alabama,1178,0,0,0,0,0,0,0.0
+01061,"Geneva, AL",Alabama,2215,1,0,0,0,0,1,0.451
+01063,"Greene, AL",Alabama,443,0,0,0,0,0,0,0.0
+01065,"Hale, AL",Alabama,797,0,0,0,0,0,0,0.0
+01067,"Henry, AL",Alabama,1251,0,0,0,0,0,0,0.0
+01069,"Houston, AL",Alabama,8511,4,1,0,0,0,3,0.47
+01071,"Jackson, AL",Alabama,2859,3,2,0,0,0,1,1.049
+01073,"Jefferson, AL",Alabama,33777,39,32,0,1,0,6,1.155
+01075,"Lamar, AL",Alabama,686,0,0,0,0,0,0,0.0
+01077,"Lauderdale, AL",Alabama,5298,2,0,0,0,0,2,0.378
+01079,"Lawrence, AL",Alabama,1622,0,0,0,0,0,0,0.0
+01081,"Lee, AL",Alabama,11478,4,2,0,0,0,2,0.348
+01083,"Limestone, AL",Alabama,8902,3,2,0,0,0,1,0.337
+01085,"Lowndes, AL",Alabama,677,0,0,0,0,0,0,0.0
+01087,"Macon, AL",Alabama,1394,0,0,0,0,0,0,0.0
+01089,"Madison, AL",Alabama,37002,24,6,1,9,0,8,0.649
+01091,"Marengo, AL",Alabama,1307,1,0,0,0,0,1,0.765
+01093,"Marion, AL",Alabama,1742,1,0,0,0,0,1,0.574
+01095,"Marshall, AL",Alabama,5498,4,2,0,0,0,2,0.728
+01097,"Mobile, AL",Alabama,26518,17,10,1,0,1,5,0.641
+01099,"Monroe, AL",Alabama,1029,0,0,0,0,0,0,0.0
+01101,"Montgomery, AL",Alabama,18179,32,11,2,8,0,11,1.76
+01103,"Morgan, AL",Alabama,7496,2,0,0,0,0,2,0.267
+01105,"Perry, AL",Alabama,464,0,0,0,0,0,0,0.0
+01107,"Pickens, AL",Alabama,1045,0,0,0,0,0,0,0.0
+01109,"Pike, AL",Alabama,2202,1,0,0,0,0,1,0.454
+01111,"Randolph, AL",Alabama,1096,1,0,0,0,0,1,0.912
+01113,"Russell, AL",Alabama,6516,2,0,1,0,0,1,0.307
+01115,"Saint Clair, AL",Alabama,5156,3,0,0,0,1,2,0.582
+01117,"Shelby, AL",Alabama,11769,7,4,0,0,0,3,0.595
+01119,"Sumter, AL",Alabama,460,0,0,0,0,0,0,0.0
+01121,"Talladega, AL",Alabama,4825,1,0,0,0,0,1,0.207
+01123,"Tallapoosa, AL",Alabama,2724,2,0,0,0,0,2,0.734
+01125,"Tuscaloosa, AL",Alabama,12606,7,4,0,0,0,3,0.555
+01127,"Walker, AL",Alabama,3159,4,1,1,1,0,1,1.266
+01129,"Washington, AL",Alabama,772,0,0,0,0,0,0,0.0
+01131,"Wilcox, AL",Alabama,449,0,0,0,0,0,0,0.0
+01133,"Winston, AL",Alabama,1330,1,0,0,0,0,1,0.752
+02013,"Aleutians East, AK",Alaska,96,0,0,0,0,0,0,0.0
+02016,"Aleutians West, AK",Alaska,147,0,0,0,0,0,0,0.0
+02020,"Anchorage, AK",Alaska,27050,8,2,0,6,0,0,0.296
+02050,"Bethel, AK",Alaska,1003,1,1,0,0,0,0,0.997
+02060,"Bristol Bay, AK",Alaska,58,0,0,0,0,0,0,0.0
+02063,"Chugach, AK",Alaska,533,0,0,0,0,0,0,0.0
+02066,"Copper River, AK",Alaska,270,0,0,0,0,0,0,0.0
+02068,"Denali, AK",Alaska,274,0,0,0,0,0,0,0.0
+02070,"Dillingham, AK",Alaska,190,0,0,0,0,0,0,0.0
+02090,"Fairbanks North Star, AK",Alaska,12719,4,1,1,2,0,0,0.314
+02100,"Haines, AK",Alaska,162,0,0,0,0,0,0,0.0
+02105,"Hoonah-Angoon, AK",Alaska,177,0,0,0,0,0,0,0.0
+02110,"Juneau, AK",Alaska,2263,1,0,0,1,0,0,0.442
+02122,"Kenai Peninsula, AK",Alaska,4927,1,0,0,1,0,0,0.203
+02130,"Ketchikan Gateway, AK",Alaska,904,0,0,0,0,0,0,0.0
+02150,"Kodiak Island, AK",Alaska,1088,2,1,0,1,0,0,1.838
+02158,"Kusilvak, AK",Alaska,336,0,0,0,0,0,0,0.0
+02164,"Lake and Peninsula, AK",Alaska,51,0,0,0,0,0,0,0.0
+02170,"Matanuska-Susitna, AK",Alaska,11922,4,1,0,3,0,0,0.336
+02180,"Nome, AK",Alaska,488,0,0,0,0,0,0,0.0
+02185,"North Slope, AK",Alaska,273,0,0,0,0,0,0,0.0
+02188,"Northwest Arctic, AK",Alaska,295,0,0,0,0,0,0,0.0
+02195,"Petersburg, AK",Alaska,242,0,0,0,0,0,0,0.0
+02198,"Prince of Wales-Hyder, AK",Alaska,329,1,0,0,1,0,0,3.04
+02220,"Sitka, AK",Alaska,594,0,0,0,0,0,0,0.0
+02230,"Skagway, AK",Alaska,57,0,0,0,0,0,0,0.0
+02240,"Southeast Fairbanks, AK",Alaska,894,0,0,0,0,0,0,0.0
+02275,"Wrangell, AK",Alaska,230,0,0,0,0,0,0,0.0
+02282,"Yakutat, AK",Alaska,73,0,0,0,0,0,0,0.0
+02290,"Yukon-Koyukuk, AK",Alaska,377,2,0,0,2,0,0,5.305
+04001,"Apache, AZ",Arizona,2869,1,0,0,0,1,0,0.349
+04003,"Cochise, AZ",Arizona,18913,0,0,0,0,0,0,0.0
+04005,"Coconino, AZ",Arizona,7690,3,0,0,0,3,0,0.39
+04007,"Gila, AZ",Arizona,4426,0,0,0,0,0,0,0.0
+04009,"Graham, AZ",Arizona,1903,0,0,0,0,0,0,0.0
+04011,"Greenlee, AZ",Arizona,459,0,0,0,0,0,0,0.0
+04012,"La Paz, AZ",Arizona,2088,0,0,0,0,0,0,0.0
+04013,"Maricopa, AZ",Arizona,241626,154,55,11,22,0,66,0.637
+04015,"Mohave, AZ",Arizona,20031,1,1,0,0,0,0,0.05
+04017,"Navajo, AZ",Arizona,5964,2,2,0,0,0,0,0.335
+04019,"Pima, AZ",Arizona,82439,23,14,3,5,0,1,0.279
+04021,"Pinal, AZ",Arizona,34873,6,0,1,0,5,0,0.172
+04023,"Santa Cruz, AZ",Arizona,1598,0,0,0,0,0,0,0.0
+04025,"Yavapai, AZ",Arizona,23108,2,1,1,0,0,0,0.087
+04027,"Yuma, AZ",Arizona,15489,1,1,0,0,0,0,0.065
+05001,"Arkansas, AR",Arkansas,808,0,0,0,0,0,0,0.0
+05003,"Ashley, AR",Arkansas,1054,2,0,0,0,0,2,1.898
+05005,"Baxter, AR",Arkansas,4265,3,1,0,0,0,2,0.703
+05007,"Benton, AR",Arkansas,17163,10,5,1,0,0,4,0.583
+05009,"Boone, AR",Arkansas,2570,2,0,0,0,0,2,0.778
+05011,"Bradley, AR",Arkansas,468,1,0,0,0,0,1,2.137
+05013,"Calhoun, AR",Arkansas,272,1,0,0,0,0,1,3.676
+05015,"Carroll, AR",Arkansas,2002,1,0,0,0,0,1,0.5
+05017,"Chicot, AR",Arkansas,471,1,0,0,0,0,1,2.123
+05019,"Clark, AR",Arkansas,1123,2,1,0,0,0,1,1.781
+05021,"Clay, AR",Arkansas,781,1,0,0,0,0,1,1.28
+05023,"Cleburne, AR",Arkansas,2090,1,0,0,0,0,1,0.478
+05025,"Cleveland, AR",Arkansas,452,2,1,0,0,0,1,4.425
+05027,"Columbia, AR",Arkansas,1123,0,0,0,0,0,0,0.0
+05029,"Conway, AR",Arkansas,1403,1,0,0,0,0,1,0.713
+05031,"Craighead, AR",Arkansas,5102,4,0,0,0,0,4,0.784
+05033,"Crawford, AR",Arkansas,4447,1,0,0,0,0,1,0.225
+05035,"Crittenden, AR",Arkansas,2430,2,1,0,0,0,1,0.823
+05037,"Cross, AR",Arkansas,931,0,0,0,0,0,0,0.0
+05039,"Dallas, AR",Arkansas,369,0,0,0,0,0,0,0.0
+05041,"Desha, AR",Arkansas,470,1,0,0,0,0,1,2.128
+05043,"Drew, AR",Arkansas,961,1,0,0,0,0,1,1.041
+05045,"Faulkner, AR",Arkansas,6990,7,5,0,0,0,2,1.001
+05047,"Franklin, AR",Arkansas,1190,1,0,0,0,0,1,0.84
+05049,"Fulton, AR",Arkansas,877,3,0,0,0,0,3,3.421
+05051,"Garland, AR",Arkansas,7164,2,1,0,0,0,1,0.279
+05053,"Grant, AR",Arkansas,1108,0,0,0,0,0,0,0.0
+05055,"Greene, AR",Arkansas,2721,1,0,0,0,0,1,0.368
+05057,"Hempstead, AR",Arkansas,917,1,0,0,0,0,1,1.091
+05059,"Hot Spring, AR",Arkansas,2187,1,0,0,0,0,1,0.457
+05061,"Howard, AR",Arkansas,558,0,0,0,0,0,0,0.0
+05063,"Independence, AR",Arkansas,2052,3,1,1,0,0,1,1.462
+05065,"Izard, AR",Arkansas,1062,0,0,0,0,0,0,0.0
+05067,"Jackson, AR",Arkansas,765,1,0,0,0,0,1,1.307
+05069,"Jefferson, AR",Arkansas,4344,3,1,1,0,0,1,0.691
+05071,"Johnson, AR",Arkansas,1521,2,0,0,0,0,2,1.315
+05073,"Lafayette, AR",Arkansas,458,0,0,0,0,0,0,0.0
+05075,"Lawrence, AR",Arkansas,927,1,0,0,0,0,1,1.079
+05077,"Lee, AR",Arkansas,303,0,0,0,0,0,0,0.0
+05079,"Lincoln, AR",Arkansas,492,1,0,0,0,0,1,2.033
+05081,"Little River, AR",Arkansas,680,0,0,0,0,0,0,0.0
+05083,"Logan, AR",Arkansas,1553,1,0,0,0,0,1,0.644
+05085,"Lonoke, AR",Arkansas,7144,5,3,1,0,0,1,0.7
+05087,"Madison, AR",Arkansas,1047,1,0,0,0,0,1,0.955
+05089,"Marion, AR",Arkansas,1511,1,0,0,0,0,1,0.662
+05091,"Miller, AR",Arkansas,2411,1,0,0,0,0,1,0.415
+05093,"Mississippi, AR",Arkansas,2101,1,0,0,0,0,1,0.476
+05095,"Monroe, AR",Arkansas,386,0,0,0,0,0,0,0.0
+05097,"Montgomery, AR",Arkansas,644,1,0,0,0,0,1,1.553
+05099,"Nevada, AR",Arkansas,576,1,0,0,0,0,1,1.736
+05101,"Newton, AR",Arkansas,556,1,0,0,0,0,1,1.799
+05103,"Ouachita, AR",Arkansas,1710,2,0,0,0,0,2,1.17
+05105,"Perry, AR",Arkansas,798,2,0,0,0,0,2,2.506
+05107,"Phillips, AR",Arkansas,833,0,0,0,0,0,0,0.0
+05109,"Pike, AR",Arkansas,640,1,0,0,0,0,1,1.562
+05111,"Poinsett, AR",Arkansas,1101,2,0,0,0,0,2,1.817
+05113,"Polk, AR",Arkansas,1688,2,0,0,0,0,2,1.185
+05115,"Pope, AR",Arkansas,3992,3,1,0,0,0,2,0.752
+05117,"Prairie, AR",Arkansas,533,1,0,0,0,0,1,1.876
+05119,"Pulaski, AR",Arkansas,30446,64,29,2,21,0,12,2.102
+05121,"Randolph, AR",Arkansas,1048,1,0,0,0,0,1,0.954
+05123,"Saint Francis, AR",Arkansas,1077,0,0,0,0,0,0,0.0
+05125,"Saline, AR",Arkansas,8353,4,2,0,1,0,1,0.479
+05127,"Scott, AR",Arkansas,602,1,0,0,0,0,1,1.661
+05129,"Searcy, AR",Arkansas,590,1,0,0,0,0,1,1.695
+05131,"Sebastian, AR",Arkansas,8460,5,1,0,0,0,4,0.591
+05133,"Sevier, AR",Arkansas,692,1,0,0,0,0,1,1.445
+05135,"Sharp, AR",Arkansas,1484,2,1,0,0,0,1,1.348
+05137,"Stone, AR",Arkansas,1090,0,0,0,0,0,0,0.0
+05139,"Union, AR",Arkansas,2171,2,1,0,0,0,1,0.921
+05141,"Van Buren, AR",Arkansas,1394,1,0,0,0,0,1,0.717
+05143,"Washington, AR",Arkansas,13013,8,5,0,0,0,3,0.615
+05145,"White, AR",Arkansas,5381,8,2,3,0,0,3,1.487
+05147,"Woodruff, AR",Arkansas,289,1,0,0,0,0,1,3.46
+05149,"Yell, AR",Arkansas,1162,1,0,0,0,0,1,0.861
+06001,"Alameda, CA",California,39271,41,7,0,9,1,24,1.044
+06003,"Alpine, CA",California,44,0,0,0,0,0,0,0.0
+06005,"Amador, CA",California,2591,1,0,0,0,1,0,0.386
+06007,"Butte, CA",California,11773,7,3,0,0,3,1,0.595
+06009,"Calaveras, CA",California,3075,3,0,0,0,2,1,0.976
+06011,"Colusa, CA",California,672,1,0,0,0,1,0,1.488
+06013,"Contra Costa, CA",California,36001,20,8,1,1,3,7,0.556
+06015,"Del Norte, CA",California,1646,2,0,0,0,0,2,1.215
+06017,"El Dorado, CA",California,10457,8,0,0,0,1,7,0.765
+06019,"Fresno, CA",California,32123,16,4,0,3,2,7,0.498
+06021,"Glenn, CA",California,996,2,0,0,0,0,2,2.008
+06023,"Humboldt, CA",California,6659,3,2,0,0,1,0,0.451
+06025,"Imperial, CA",California,4637,5,0,1,0,1,3,1.078
+06027,"Inyo, CA",California,960,0,0,0,0,0,0,0.0
+06029,"Kern, CA",California,32097,10,0,0,0,0,10,0.312
+06031,"Kings, CA",California,8385,7,0,0,1,3,3,0.835
+06033,"Lake, CA",California,3611,3,0,0,0,2,1,0.831
+06035,"Lassen, CA",California,1843,1,0,0,0,1,0,0.543
+06037,"Los Angeles, CA",California,214659,207,117,7,26,30,27,0.964
+06039,"Madera, CA",California,5574,2,0,0,0,2,0,0.359
+06041,"Marin, CA",California,7887,6,3,0,0,2,1,0.761
+06043,"Mariposa, CA",California,1414,0,0,0,0,0,0,0.0
+06045,"Mendocino, CA",California,3850,2,0,0,0,1,1,0.519
+06047,"Merced, CA",California,8041,3,0,0,0,0,3,0.373
+06049,"Modoc, CA",California,658,1,0,0,0,0,1,1.52
+06051,"Mono, CA",California,426,1,0,0,0,0,1,2.347
+06053,"Monterey, CA",California,16206,11,2,0,1,1,7,0.679
+06055,"Napa, CA",California,4989,6,1,0,0,3,2,1.203
+06057,"Nevada, CA",California,6049,5,1,0,0,3,1,0.827
+06059,"Orange, CA",California,80298,57,36,4,3,2,12,0.71
+06061,"Placer, CA",California,22026,14,5,1,0,1,7,0.636
+06063,"Plumas, CA",California,1229,4,0,0,0,0,4,3.255
+06065,"Riverside, CA",California,107614,53,18,8,0,3,24,0.493
+06067,"Sacramento, CA",California,69048,41,13,3,7,5,13,0.594
+06069,"San Benito, CA",California,2005,1,0,0,0,0,1,0.499
+06071,"San Bernardino, CA",California,81385,51,10,2,6,32,1,0.627
+06073,"San Diego, CA",California,219050,141,70,8,35,17,11,0.644
+06075,"San Francisco, CA",California,17784,65,48,2,9,3,3,3.655
+06077,"San Joaquin, CA",California,25786,12,2,0,1,5,4,0.465
+06079,"San Luis Obispo, CA",California,13560,9,0,0,0,4,5,0.664
+06081,"San Mateo, CA",California,17692,10,6,0,0,0,4,0.565
+06083,"Santa Barbara, CA",California,16355,7,2,0,0,5,0,0.428
+06085,"Santa Clara, CA",California,40702,41,21,0,1,10,9,1.007
+06087,"Santa Cruz, CA",California,7475,8,4,0,0,2,2,1.07
+06089,"Shasta, CA",California,11784,9,0,0,1,5,3,0.764
+06091,"Sierra, CA",California,182,1,0,0,0,0,1,5.495
+06093,"Siskiyou, CA",California,2769,3,1,0,0,1,1,1.083
+06095,"Solano, CA",California,29092,15,3,3,2,1,6,0.516
+06097,"Sonoma, CA",California,18809,12,5,0,0,4,3,0.638
+06099,"Stanislaus, CA",California,17457,8,1,0,0,6,1,0.458
+06101,"Sutter, CA",California,4515,0,0,0,0,0,0,0.0
+06103,"Tehama, CA",California,3243,3,0,0,1,0,2,0.925
+06105,"Trinity, CA",California,943,1,0,0,0,1,0,1.06
+06107,"Tulare, CA",California,13313,3,0,0,0,2,1,0.225
+06109,"Tuolumne, CA",California,3828,5,0,0,0,1,4,1.306
+06111,"Ventura, CA",California,31288,14,4,0,0,9,1,0.447
+06113,"Yolo, CA",California,6654,3,0,0,0,0,3,0.451
+06115,"Yuba, CA",California,5359,7,0,0,0,3,4,1.306
+08001,"Adams, CO",Colorado,23818,5,1,0,0,2,2,0.21
+08003,"Alamosa, CO",Colorado,715,2,0,0,0,0,2,2.797
+08005,"Arapahoe, CO",Colorado,34618,7,5,0,0,2,0,0.202
+08007,"Archuleta, CO",Colorado,996,1,0,0,0,1,0,1.004
+08009,"Baca, CO",Colorado,155,0,0,0,0,0,0,0.0
+08011,"Bent, CO",Colorado,342,2,0,0,0,1,1,5.848
+08013,"Boulder, CO",Colorado,10997,12,6,1,1,4,0,1.091
+08014,"Broomfield, CO",Colorado,3236,1,0,0,0,1,0,0.309
+08015,"Chaffee, CO",Colorado,1189,1,0,0,0,1,0,0.841
+08017,"Cheyenne, CO",Colorado,77,0,0,0,0,0,0,0.0
+08019,"Clear Creek, CO",Colorado,437,1,0,0,0,0,1,2.288
+08021,"Conejos, CO",Colorado,415,0,0,0,0,0,0,0.0
+08023,"Costilla, CO",Colorado,264,1,0,0,0,0,1,3.788
+08025,"Crowley, CO",Colorado,287,1,0,0,0,0,1,3.484
+08027,"Custer, CO",Colorado,394,2,0,0,0,0,2,5.076
+08029,"Delta, CO",Colorado,2285,4,2,0,0,0,2,1.751
+08031,"Denver, CO",Colorado,26700,60,41,0,17,0,2,2.247
+08033,"Dolores, CO",Colorado,242,1,0,0,0,0,1,4.132
+08035,"Douglas, CO",Colorado,19692,6,1,1,0,2,2,0.305
+08037,"Eagle, CO",Colorado,1406,0,0,0,0,0,0,0.0
+08039,"Elbert, CO",Colorado,2049,1,0,0,0,1,0,0.488
+08041,"El Paso, CO",Colorado,102101,28,12,0,5,8,3,0.274
+08043,"Fremont, CO",Colorado,3856,3,0,0,1,0,2,0.778
+08045,"Garfield, CO",Colorado,2066,1,0,0,0,0,1,0.484
+08047,"Gilpin, CO",Colorado,309,0,0,0,0,0,0,0.0
+08049,"Grand, CO",Colorado,868,1,0,0,0,1,0,1.152
+08051,"Gunnison, CO",Colorado,724,1,0,0,0,0,1,1.381
+08053,"Hinsdale, CO",Colorado,69,1,0,0,0,1,0,14.493
+08055,"Huerfano, CO",Colorado,583,2,0,1,0,0,1,3.431
+08057,"Jackson, CO",Colorado,119,1,0,0,0,0,1,8.403
+08059,"Jefferson, CO",Colorado,30083,35,4,2,16,5,8,1.163
+08061,"Kiowa, CO",Colorado,53,0,0,0,0,0,0,0.0
+08063,"Kit Carson, CO",Colorado,306,2,0,0,0,1,1,6.536
+08065,"Lake, CO",Colorado,337,1,0,0,0,0,1,2.967
+08067,"La Plata, CO",Colorado,2614,2,0,0,0,1,1,0.765
+08069,"Larimer, CO",Colorado,18178,5,0,1,0,4,0,0.275
+08071,"Las Animas, CO",Colorado,1058,3,0,0,1,1,1,2.836
+08073,"Lincoln, CO",Colorado,307,0,0,0,0,0,0,0.0
+08075,"Logan, CO",Colorado,980,0,0,0,0,0,0,0.0
+08077,"Mesa, CO",Colorado,11983,6,0,0,0,1,5,0.501
+08079,"Mineral, CO",Colorado,73,1,0,0,0,0,1,13.699
+08081,"Moffat, CO",Colorado,739,0,0,0,0,0,0,0.0
+08083,"Montezuma, CO",Colorado,1743,4,0,0,0,3,1,2.295
+08085,"Montrose, CO",Colorado,2578,1,0,0,0,1,0,0.388
+08087,"Morgan, CO",Colorado,1153,1,0,0,0,0,1,0.867
+08089,"Otero, CO",Colorado,1157,0,0,0,0,0,0,0.0
+08091,"Ouray, CO",Colorado,379,0,0,0,0,0,0,0.0
+08093,"Park, CO",Colorado,1262,1,0,0,0,0,1,0.792
+08095,"Phillips, CO",Colorado,215,1,0,0,0,1,0,4.651
+08097,"Pitkin, CO",Colorado,628,0,0,0,0,0,0,0.0
+08099,"Prowers, CO",Colorado,553,1,0,0,0,0,1,1.808
+08101,"Pueblo, CO",Colorado,11668,4,0,0,0,3,1,0.343
+08103,"Rio Blanco, CO",Colorado,412,1,0,0,0,0,1,2.427
+08105,"Rio Grande, CO",Colorado,623,1,0,0,0,0,1,1.605
+08107,"Routt, CO",Colorado,865,1,0,0,0,1,0,1.156
+08109,"Saguache, CO",Colorado,331,1,0,0,0,0,1,3.021
+08111,"San Juan, CO",Colorado,63,1,0,0,0,1,0,15.873
+08113,"San Miguel, CO",Colorado,318,1,0,0,0,1,0,3.145
+08115,"Sedgwick, CO",Colorado,137,1,0,0,0,1,0,7.299
+08117,"Summit, CO",Colorado,1269,0,0,0,0,0,0,0.0
+08119,"Teller, CO",Colorado,2701,1,0,0,0,0,1,0.37
+08121,"Washington, CO",Colorado,218,0,0,0,0,0,0,0.0
+08123,"Weld, CO",Colorado,16654,3,0,0,0,3,0,0.18
+08125,"Yuma, CO",Colorado,330,0,0,0,0,0,0,0.0
+09110,"Capitol, CT",Connecticut,36566,48,35,0,6,2,5,1.313
+09120,"Greater Bridgeport, CT",Connecticut,7368,4,2,0,0,0,2,0.543
+09130,"Lower Connecticut River Valley, CT",Connecticut,8364,7,6,1,0,0,0,0.837
+09140,"Naugatuck Valley, CT",Connecticut,17874,5,2,1,0,0,2,0.28
+09150,"Northeastern Connecticut, CT",Connecticut,6254,0,0,0,0,0,0,0.0
+09160,"Northwest Hills, CT",Connecticut,5130,0,0,0,0,0,0,0.0
+09170,"South Central Connecticut, CT",Connecticut,20135,27,25,0,0,0,2,1.341
+09180,"Southeastern Connecticut, CT",Connecticut,20112,8,4,0,0,0,4,0.398
+09190,"Western Connecticut, CT",Connecticut,14579,8,8,0,0,0,0,0.549
+10001,"Kent, DE",Delaware,16946,7,2,0,2,3,0,0.413
+10003,"New Castle, DE",Delaware,26420,28,21,0,7,0,0,1.06
+10005,"Sussex, DE",Delaware,17563,8,7,0,0,1,0,0.456
+11001,"District Of Columbia, DC",District Of Columbia,25925,419,320,2,89,0,8,16.162
+12001,"Alachua, FL",Florida,15655,12,10,0,1,0,1,0.767
+12003,"Baker, FL",Florida,1855,1,0,0,0,0,1,0.539
+12005,"Bay, FL",Florida,21176,14,7,2,4,0,1,0.661
+12007,"Bradford, FL",Florida,1818,0,0,0,0,0,0,0.0
+12009,"Brevard, FL",Florida,64005,29,15,3,7,0,4,0.453
+12011,"Broward, FL",Florida,66191,61,54,4,2,0,1,0.922
+12013,"Calhoun, FL",Florida,945,1,0,0,0,0,1,1.058
+12015,"Charlotte, FL",Florida,18740,4,2,1,0,0,1,0.213
+12017,"Citrus, FL",Florida,17068,2,2,0,0,0,0,0.117
+12019,"Clay, FL",Florida,28159,10,3,5,2,0,0,0.355
+12021,"Collier, FL",Florida,19015,9,9,0,0,0,0,0.473
+12023,"Columbia, FL",Florida,6611,5,2,0,3,0,0,0.756
+12027,"De Soto, FL",Florida,1600,0,0,0,0,0,0,0.0
+12029,"Dixie, FL",Florida,1258,0,0,0,0,0,0,0.0
+12031,"Duval, FL",Florida,85356,118,37,1,77,0,3,1.382
+12033,"Escambia, FL",Florida,39162,22,12,3,6,0,1,0.562
+12035,"Flagler, FL",Florida,11047,2,1,1,0,0,0,0.181
+12037,"Franklin, FL",Florida,832,1,0,0,0,0,1,1.202
+12039,"Gadsden, FL",Florida,2727,1,0,0,0,0,1,0.367
+12041,"Gilchrist, FL",Florida,1351,0,0,0,0,0,0,0.0
+12043,"Glades, FL",Florida,947,0,0,0,0,0,0,0.0
+12045,"Gulf, FL",Florida,1284,0,0,0,0,0,0,0.0
+12047,"Hamilton, FL",Florida,802,0,0,0,0,0,0,0.0
+12049,"Hardee, FL",Florida,932,0,0,0,0,0,0,0.0
+12051,"Hendry, FL",Florida,1252,0,0,0,0,0,0,0.0
+12053,"Hernando, FL",Florida,17616,5,2,1,1,0,1,0.284
+12055,"Highlands, FL",Florida,9097,1,1,0,0,0,0,0.11
+12057,"Hillsborough, FL",Florida,94333,81,67,10,3,0,1,0.859
+12059,"Holmes, FL",Florida,1454,1,0,0,1,0,0,0.688
+12061,"Indian River, FL",Florida,12998,10,4,3,2,0,1,0.769
+12063,"Jackson, FL",Florida,3306,0,0,0,0,0,0,0.0
+12065,"Jefferson, FL",Florida,1039,0,0,0,0,0,0,0.0
+12067,"Lafayette, FL",Florida,468,0,0,0,0,0,0,0.0
+12069,"Lake, FL",Florida,30947,11,8,2,1,0,0,0.355
+12071,"Lee, FL",Florida,50622,29,18,5,4,0,2,0.573
+12073,"Leon, FL",Florida,14899,19,14,1,2,0,2,1.275
+12075,"Levy, FL",Florida,3785,1,0,1,0,0,0,0.264
+12077,"Liberty, FL",Florida,394,0,0,0,0,0,0,0.0
+12079,"Madison, FL",Florida,1136,0,0,0,0,0,0,0.0
+12081,"Manatee, FL",Florida,28993,9,6,2,1,0,0,0.31
+12083,"Marion, FL",Florida,32594,4,3,0,0,0,1,0.123
+12085,"Martin, FL",Florida,11161,2,2,0,0,0,0,0.179
+12086,"Miami-Dade, FL",Florida,54899,76,69,2,5,0,0,1.384
+12087,"Monroe, FL",Florida,6480,2,2,0,0,0,0,0.309
+12089,"Nassau, FL",Florida,8810,5,4,1,0,0,0,0.568
+12091,"Okaloosa, FL",Florida,36961,4,3,0,1,0,0,0.108
+12093,"Okeechobee, FL",Florida,2378,0,0,0,0,0,0,0.0
+12095,"Orange, FL",Florida,66170,80,60,9,10,0,1,1.209
+12097,"Osceola, FL",Florida,21503,5,4,1,0,0,0,0.233
+12099,"Palm Beach, FL",Florida,64777,63,55,7,0,0,1,0.973
+12101,"Pasco, FL",Florida,46443,20,9,3,3,0,5,0.431
+12103,"Pinellas, FL",Florida,67296,453,62,15,56,6,314,6.731
+12105,"Polk, FL",Florida,46297,19,13,3,2,0,1,0.41
+12107,"Putnam, FL",Florida,5650,1,1,0,0,0,0,0.177
+12109,"Saint Johns, FL",Florida,22411,8,6,2,0,0,0,0.357
+12111,"Saint Lucie, FL",Florida,22725,8,6,0,2,0,0,0.352
+12113,"Santa Rosa, FL",Florida,26396,6,5,0,0,0,1,0.227
+12115,"Sarasota, FL",Florida,32736,29,28,1,0,0,0,0.886
+12117,"Seminole, FL",Florida,26741,15,13,1,0,0,1,0.561
+12119,"Sumter, FL",Florida,16457,8,2,0,4,0,2,0.486
+12121,"Suwannee, FL",Florida,3140,1,1,0,0,0,0,0.318
+12123,"Taylor, FL",Florida,1412,0,0,0,0,0,0,0.0
+12125,"Union, FL",Florida,1006,1,0,0,0,0,1,0.994
+12127,"Volusia, FL",Florida,44108,28,19,5,1,1,2,0.635
+12129,"Wakulla, FL",Florida,2523,1,1,0,0,0,0,0.396
+12131,"Walton, FL",Florida,7463,3,2,0,0,0,1,0.402
+12133,"Washington, FL",Florida,2013,2,0,1,0,0,1,0.994
+13001,"Appling, GA",Georgia,775,0,0,0,0,0,0,0.0
+13003,"Atkinson, GA",Georgia,373,0,0,0,0,0,0,0.0
+13005,"Bacon, GA",Georgia,482,0,0,0,0,0,0,0.0
+13007,"Baker, GA",Georgia,215,0,0,0,0,0,0,0.0
+13009,"Baldwin, GA",Georgia,2213,3,0,0,0,0,3,1.356
+13011,"Banks, GA",Georgia,907,0,0,0,0,0,0,0.0
+13013,"Barrow, GA",Georgia,4018,0,0,0,0,0,0,0.0
+13015,"Bartow, GA",Georgia,6115,3,1,1,0,0,1,0.491
+13017,"Ben Hill, GA",Georgia,876,0,0,0,0,0,0,0.0
+13019,"Berrien, GA",Georgia,1181,0,0,0,0,0,0,0.0
+13021,"Bibb, GA",Georgia,10370,9,6,1,0,0,2,0.868
+13023,"Bleckley, GA",Georgia,779,0,0,0,0,0,0,0.0
+13025,"Brantley, GA",Georgia,1032,0,0,0,0,0,0,0.0
+13027,"Brooks, GA",Georgia,997,0,0,0,0,0,0,0.0
+13029,"Bryan, GA",Georgia,5872,1,0,1,0,0,0,0.17
+13031,"Bulloch, GA",Georgia,3988,2,0,1,0,0,1,0.502
+13033,"Burke, GA",Georgia,1711,0,0,0,0,0,0,0.0
+13035,"Butts, GA",Georgia,1302,0,0,0,0,0,0,0.0
+13037,"Calhoun, GA",Georgia,258,0,0,0,0,0,0,0.0
+13039,"Camden, GA",Georgia,8198,1,0,0,1,0,0,0.122
+13043,"Candler, GA",Georgia,581,0,0,0,0,0,0,0.0
+13045,"Carroll, GA",Georgia,6012,3,2,0,0,0,1,0.499
+13047,"Catoosa, GA",Georgia,3427,0,0,0,0,0,0,0.0
+13049,"Charlton, GA",Georgia,744,0,0,0,0,0,0,0.0
+13051,"Chatham, GA",Georgia,24764,8,7,0,0,0,1,0.323
+13053,"Chattahoochee, GA",Georgia,3904,0,0,0,0,0,0,0.0
+13055,"Chattooga, GA",Georgia,1401,0,0,0,0,0,0,0.0
+13057,"Cherokee, GA",Georgia,15215,6,3,1,0,0,2,0.394
+13059,"Clarke, GA",Georgia,4679,13,10,1,0,0,2,2.778
+13061,"Clay, GA",Georgia,184,0,0,0,0,0,0,0.0
+13063,"Clayton, GA",Georgia,16085,5,4,1,0,0,0,0.311
+13065,"Clinch, GA",Georgia,330,0,0,0,0,0,0,0.0
+13067,"Cobb, GA",Georgia,36410,18,15,3,0,0,0,0.494
+13069,"Coffee, GA",Georgia,1743,0,0,0,0,0,0,0.0
+13071,"Colquitt, GA",Georgia,2189,0,0,0,0,0,0,0.0
+13073,"Columbia, GA",Georgia,20430,13,7,2,3,0,1,0.636
+13075,"Cook, GA",Georgia,1030,0,0,0,0,0,0,0.0
+13077,"Coweta, GA",Georgia,10545,5,4,0,0,0,1,0.474
+13079,"Crawford, GA",Georgia,775,0,0,0,0,0,0,0.0
+13081,"Crisp, GA",Georgia,1023,0,0,0,0,0,0,0.0
+13083,"Dade, GA",Georgia,909,0,0,0,0,0,0,0.0
+13085,"Dawson, GA",Georgia,1505,0,0,0,0,0,0,0.0
+13087,"Decatur, GA",Georgia,1595,1,0,0,0,0,1,0.627
+13089,"De Kalb, GA",Georgia,34482,49,18,6,12,0,13,1.421
+13091,"Dodge, GA",Georgia,1147,0,0,0,0,0,0,0.0
+13093,"Dooly, GA",Georgia,600,0,0,0,0,0,0,0.0
+13095,"Dougherty, GA",Georgia,5730,4,3,0,0,0,1,0.698
+13097,"Douglas, GA",Georgia,9725,3,2,1,0,0,0,0.308
+13099,"Early, GA",Georgia,680,0,0,0,0,0,0,0.0
+13101,"Echols, GA",Georgia,180,0,0,0,0,0,0,0.0
+13103,"Effingham, GA",Georgia,5188,2,1,1,0,0,0,0.386
+13105,"Elbert, GA",Georgia,973,0,0,0,0,0,0,0.0
+13107,"Emanuel, GA",Georgia,1069,0,0,0,0,0,0,0.0
+13109,"Evans, GA",Georgia,621,0,0,0,0,0,0,0.0
+13111,"Fannin, GA",Georgia,2126,0,0,0,0,0,0,0.0
+13113,"Fayette, GA",Georgia,9446,7,5,2,0,0,0,0.741
+13115,"Floyd, GA",Georgia,5147,4,1,1,0,0,2,0.777
+13117,"Forsyth, GA",Georgia,8335,2,2,0,0,0,0,0.24
+13119,"Franklin, GA",Georgia,1166,0,0,0,0,0,0,0.0
+13121,"Fulton, GA",Georgia,43437,149,69,7,3,0,70,3.43
+13123,"Gilmer, GA",Georgia,2234,1,1,0,0,0,0,0.448
+13125,"Glascock, GA",Georgia,127,0,0,0,0,0,0,0.0
+13127,"Glynn, GA",Georgia,5965,4,3,0,0,0,1,0.671
+13129,"Gordon, GA",Georgia,2602,0,0,0,0,0,0,0.0
+13131,"Grady, GA",Georgia,1509,0,0,0,0,0,0,0.0
+13133,"Greene, GA",Georgia,1246,0,0,0,0,0,0,0.0
+13135,"Gwinnett, GA",Georgia,37691,12,9,3,0,0,0,0.318
+13137,"Habersham, GA",Georgia,2472,0,0,0,0,0,0,0.0
+13139,"Hall, GA",Georgia,9246,3,2,0,0,0,1,0.324
+13141,"Hancock, GA",Georgia,468,0,0,0,0,0,0,0.0
+13143,"Haralson, GA",Georgia,1528,0,0,0,0,0,0,0.0
+13145,"Harris, GA",Georgia,3897,4,2,2,0,0,0,1.026
+13147,"Hart, GA",Georgia,1493,0,0,0,0,0,0,0.0
+13149,"Heard, GA",Georgia,735,0,0,0,0,0,0,0.0
+13151,"Henry, GA",Georgia,18834,5,5,0,0,0,0,0.265
+13153,"Houston, GA",Georgia,22082,5,1,1,0,0,3,0.226
+13155,"Irwin, GA",Georgia,516,0,0,0,0,0,0,0.0
+13157,"Jackson, GA",Georgia,4010,1,1,0,0,0,0,0.249
+13159,"Jasper, GA",Georgia,805,1,0,1,0,0,0,1.242
+13161,"Jeff Davis, GA",Georgia,848,0,0,0,0,0,0,0.0
+13163,"Jefferson, GA",Georgia,947,0,0,0,0,0,0,0.0
+13165,"Jenkins, GA",Georgia,458,0,0,0,0,0,0,0.0
+13167,"Johnson, GA",Georgia,437,0,0,0,0,0,0,0.0
+13169,"Jones, GA",Georgia,2013,0,0,0,0,0,0,0.0
+13171,"Lamar, GA",Georgia,1168,0,0,0,0,0,0,0.0
+13173,"Lanier, GA",Georgia,829,0,0,0,0,0,0,0.0
+13175,"Laurens, GA",Georgia,3116,3,1,0,0,0,2,0.963
+13177,"Lee, GA",Georgia,2408,0,0,0,0,0,0,0.0
+13179,"Liberty, GA",Georgia,14086,5,0,2,1,0,2,0.355
+13181,"Lincoln, GA",Georgia,543,0,0,0,0,0,0,0.0
+13183,"Long, GA",Georgia,2889,0,0,0,0,0,0,0.0
+13185,"Lowndes, GA",Georgia,9555,5,4,1,0,0,0,0.523
+13187,"Lumpkin, GA",Georgia,2067,0,0,0,0,0,0,0.0
+13189,"McDuffie, GA",Georgia,1523,0,0,0,0,0,0,0.0
+13191,"McIntosh, GA",Georgia,818,0,0,0,0,0,0,0.0
+13193,"Macon, GA",Georgia,589,0,0,0,0,0,0,0.0
+13195,"Madison, GA",Georgia,1410,0,0,0,0,0,0,0.0
+13197,"Marion, GA",Georgia,578,0,0,0,0,0,0,0.0
+13199,"Meriwether, GA",Georgia,1240,0,0,0,0,0,0,0.0
+13201,"Miller, GA",Georgia,276,0,0,0,0,0,0,0.0
+13205,"Mitchell, GA",Georgia,1155,0,0,0,0,0,0,0.0
+13207,"Monroe, GA",Georgia,1613,0,0,0,0,0,0,0.0
+13209,"Montgomery, GA",Georgia,424,0,0,0,0,0,0,0.0
+13211,"Morgan, GA",Georgia,889,0,0,0,0,0,0,0.0
+13213,"Murray, GA",Georgia,1444,1,0,1,0,0,0,0.693
+13215,"Muscogee, GA",Georgia,22035,6,3,1,0,0,2,0.272
+13217,"Newton, GA",Georgia,7362,2,1,1,0,0,0,0.272
+13219,"Oconee, GA",Georgia,1946,5,5,0,0,0,0,2.569
+13221,"Oglethorpe, GA",Georgia,894,0,0,0,0,0,0,0.0
+13223,"Paulding, GA",Georgia,10541,0,0,0,0,0,0,0.0
+13225,"Peach, GA",Georgia,2274,0,0,0,0,0,0,0.0
+13227,"Pickens, GA",Georgia,1959,0,0,0,0,0,0,0.0
+13229,"Pierce, GA",Georgia,1151,0,0,0,0,0,0,0.0
+13231,"Pike, GA",Georgia,1405,2,0,0,1,0,1,1.423
+13233,"Polk, GA",Georgia,1885,1,0,0,0,0,1,0.531
+13235,"Pulaski, GA",Georgia,826,0,0,0,0,0,0,0.0
+13237,"Putnam, GA",Georgia,1495,0,0,0,0,0,0,0.0
+13239,"Quitman, GA",Georgia,215,0,0,0,0,0,0,0.0
+13241,"Rabun, GA",Georgia,1223,0,0,0,0,0,0,0.0
+13243,"Randolph, GA",Georgia,262,0,0,0,0,0,0,0.0
+13245,"Richmond, GA",Georgia,23190,12,5,2,1,0,4,0.517
+13247,"Rockdale, GA",Georgia,6208,3,1,2,0,0,0,0.483
+13249,"Schley, GA",Georgia,186,0,0,0,0,0,0,0.0
+13251,"Screven, GA",Georgia,786,0,0,0,0,0,0,0.0
+13253,"Seminole, GA",Georgia,490,0,0,0,0,0,0,0.0
+13255,"Spalding, GA",Georgia,4691,3,1,0,0,0,2,0.64
+13257,"Stephens, GA",Georgia,1573,0,0,0,0,0,0,0.0
+13259,"Stewart, GA",Georgia,244,0,0,0,0,0,0,0.0
+13261,"Sumter, GA",Georgia,1514,0,0,0,0,0,0,0.0
+13263,"Talbot, GA",Georgia,539,0,0,0,0,0,0,0.0
+13265,"Taliaferro, GA",Georgia,137,0,0,0,0,0,0,0.0
+13267,"Tattnall, GA",Georgia,1342,0,0,0,0,0,0,0.0
+13269,"Taylor, GA",Georgia,444,0,0,0,0,0,0,0.0
+13271,"Telfair, GA",Georgia,599,0,0,0,0,0,0,0.0
+13273,"Terrell, GA",Georgia,554,0,0,0,0,0,0,0.0
+13275,"Thomas, GA",Georgia,2769,1,1,0,0,0,0,0.361
+13277,"Tift, GA",Georgia,1964,0,0,0,0,0,0,0.0
+13279,"Toombs, GA",Georgia,1484,0,0,0,0,0,0,0.0
+13281,"Towns, GA",Georgia,1119,0,0,0,0,0,0,0.0
+13283,"Treutlen, GA",Georgia,326,0,0,0,0,0,0,0.0
+13285,"Troup, GA",Georgia,3674,5,0,0,3,0,2,1.361
+13287,"Turner, GA",Georgia,471,0,0,0,0,0,0,0.0
+13289,"Twiggs, GA",Georgia,642,0,0,0,0,0,0,0.0
+13291,"Union, GA",Georgia,2629,2,0,1,0,0,1,0.761
+13293,"Upson, GA",Georgia,1630,0,0,0,0,0,0,0.0
+13295,"Walker, GA",Georgia,3220,3,1,0,1,0,1,0.932
+13297,"Walton, GA",Georgia,4853,5,3,2,0,0,0,1.03
+13299,"Ware, GA",Georgia,1920,1,0,0,0,0,1,0.521
+13301,"Warren, GA",Georgia,281,0,0,0,0,0,0,0.0
+13303,"Washington, GA",Georgia,1157,0,0,0,0,0,0,0.0
+13305,"Wayne, GA",Georgia,1905,0,0,0,0,0,0,0.0
+13307,"Webster, GA",Georgia,94,0,0,0,0,0,0,0.0
+13309,"Wheeler, GA",Georgia,365,0,0,0,0,0,0,0.0
+13311,"White, GA",Georgia,1838,0,0,0,0,0,0,0.0
+13313,"Whitfield, GA",Georgia,3981,5,4,0,0,0,1,1.256
+13315,"Wilcox, GA",Georgia,320,0,0,0,0,0,0,0.0
+13317,"Wilkes, GA",Georgia,588,0,0,0,0,0,0,0.0
+13319,"Wilkinson, GA",Georgia,504,1,0,0,0,0,1,1.984
+13321,"Worth, GA",Georgia,1164,0,0,0,0,0,0,0.0
+15001,"Hawaii, HI",Hawaii,11702,3,0,0,3,0,0,0.256
+15003,"Honolulu, HI",Hawaii,79529,40,10,1,29,0,0,0.503
+15005,"Kalawao, HI",Hawaii,16,0,0,0,0,0,0,0.0
+15007,"Kauai, HI",Hawaii,4356,2,0,0,2,0,0,0.459
+15009,"Maui, HI",Hawaii,7701,4,2,0,2,0,0,0.519
+16001,"Ada, ID",Idaho,33600,23,10,1,5,0,7,0.685
+16003,"Adams, ID",Idaho,413,0,0,0,0,0,0,0.0
+16005,"Bannock, ID",Idaho,4771,3,0,0,0,1,2,0.629
+16007,"Bear Lake, ID",Idaho,318,0,0,0,0,0,0,0.0
+16009,"Benewah, ID",Idaho,920,0,0,0,0,0,0,0.0
+16011,"Bingham, ID",Idaho,2320,0,0,0,0,0,0,0.0
+16013,"Blaine, ID",Idaho,880,0,0,0,0,0,0,0.0
+16015,"Boise, ID",Idaho,834,0,0,0,0,0,0,0.0
+16017,"Bonner, ID",Idaho,4188,3,1,1,0,1,0,0.716
+16019,"Bonneville, ID",Idaho,7002,0,0,0,0,0,0,0.0
+16021,"Boundary, ID",Idaho,988,0,0,0,0,0,0,0.0
+16023,"Butte, ID",Idaho,190,0,0,0,0,0,0,0.0
+16025,"Camas, ID",Idaho,97,0,0,0,0,0,0,0.0
+16027,"Canyon, ID",Idaho,15390,3,0,1,1,0,1,0.195
+16029,"Caribou, ID",Idaho,304,0,0,0,0,0,0,0.0
+16031,"Cassia, ID",Idaho,908,0,0,0,0,0,0,0.0
+16033,"Clark, ID",Idaho,22,0,0,0,0,0,0,0.0
+16035,"Clearwater, ID",Idaho,806,0,0,0,0,0,0,0.0
+16037,"Custer, ID",Idaho,385,0,0,0,0,0,0,0.0
+16039,"Elmore, ID",Idaho,4653,2,1,0,0,0,1,0.43
+16041,"Franklin, ID",Idaho,461,0,0,0,0,0,0,0.0
+16043,"Fremont, ID",Idaho,568,0,0,0,0,0,0,0.0
+16045,"Gem, ID",Idaho,1551,0,0,0,0,0,0,0.0
+16047,"Gooding, ID",Idaho,830,0,0,0,0,0,0,0.0
+16049,"Idaho, ID",Idaho,1388,0,0,0,0,0,0,0.0
+16051,"Jefferson, ID",Idaho,1186,0,0,0,0,0,0,0.0
+16053,"Jerome, ID",Idaho,997,0,0,0,0,0,0,0.0
+16055,"Kootenai, ID",Idaho,15040,5,0,0,1,3,1,0.332
+16057,"Latah, ID",Idaho,2149,2,2,0,0,0,0,0.931
+16059,"Lemhi, ID",Idaho,690,0,0,0,0,0,0,0.0
+16061,"Lewis, ID",Idaho,339,0,0,0,0,0,0,0.0
+16063,"Lincoln, ID",Idaho,223,0,0,0,0,0,0,0.0
+16065,"Madison, ID",Idaho,979,1,1,0,0,0,0,1.021
+16067,"Minidoka, ID",Idaho,864,0,0,0,0,0,0,0.0
+16069,"Nez Perce, ID",Idaho,3146,3,0,0,2,0,1,0.954
+16071,"Oneida, ID",Idaho,306,0,0,0,0,0,0,0.0
+16073,"Owyhee, ID",Idaho,694,0,0,0,0,0,0,0.0
+16075,"Payette, ID",Idaho,1896,0,0,0,0,0,0,0.0
+16077,"Power, ID",Idaho,280,0,0,0,0,0,0,0.0
+16079,"Shoshone, ID",Idaho,1130,0,0,0,0,0,0,0.0
+16081,"Teton, ID",Idaho,385,0,0,0,0,0,0,0.0
+16083,"Twin Falls, ID",Idaho,4929,2,0,0,0,0,2,0.406
+16085,"Valley, ID",Idaho,939,0,0,0,0,0,0,0.0
+16087,"Washington, ID",Idaho,790,0,0,0,0,0,0,0.0
+17001,"Adams, IL",Illinois,4007,8,2,1,0,3,2,1.997
+17003,"Alexander, IL",Illinois,336,0,0,0,0,0,0,0.0
+17005,"Bond, IL",Illinois,910,1,0,0,0,1,0,1.099
+17007,"Boone, IL",Illinois,2268,4,1,0,0,3,0,1.764
+17009,"Brown, IL",Illinois,277,0,0,0,0,0,0,0.0
+17011,"Bureau, IL",Illinois,1697,0,0,0,0,0,0,0.0
+17013,"Calhoun, IL",Illinois,317,0,0,0,0,0,0,0.0
+17015,"Carroll, IL",Illinois,1066,3,0,0,0,3,0,2.814
+17017,"Cass, IL",Illinois,598,0,0,0,0,0,0,0.0
+17019,"Champaign, IL",Illinois,7694,8,4,2,0,1,1,1.04
+17021,"Christian, IL",Illinois,1976,0,0,0,0,0,0,0.0
+17023,"Clark, IL",Illinois,931,0,0,0,0,0,0,0.0
+17025,"Clay, IL",Illinois,846,0,0,0,0,0,0,0.0
+17027,"Clinton, IL",Illinois,2398,1,0,0,0,1,0,0.417
+17029,"Coles, IL",Illinois,2615,1,0,0,0,0,1,0.382
+17031,"Cook, IL",Illinois,133292,193,135,5,35,6,12,1.448
+17033,"Crawford, IL",Illinois,1050,1,0,0,0,0,1,0.952
+17035,"Cumberland, IL",Illinois,580,0,0,0,0,0,0,0.0
+17037,"De Kalb, IL",Illinois,4474,9,1,0,0,8,0,2.012
+17039,"De Witt, IL",Illinois,949,0,0,0,0,0,0,0.0
+17041,"Douglas, IL",Illinois,993,0,0,0,0,0,0,0.0
+17043,"Du Page, IL",Illinois,24014,27,20,0,0,6,1,1.124
+17045,"Edgar, IL",Illinois,923,0,0,0,0,0,0,0.0
+17047,"Edwards, IL",Illinois,342,0,0,0,0,0,0,0.0
+17049,"Effingham, IL",Illinois,1989,2,0,0,0,1,1,1.006
+17051,"Fayette, IL",Illinois,1041,0,0,0,0,0,0,0.0
+17053,"Ford, IL",Illinois,693,0,0,0,0,0,0,0.0
+17055,"Franklin, IL",Illinois,2635,2,0,0,0,1,1,0.759
+17057,"Fulton, IL",Illinois,2054,1,0,0,0,1,0,0.487
+17059,"Gallatin, IL",Illinois,318,0,0,0,0,0,0,0.0
+17061,"Greene, IL",Illinois,777,0,0,0,0,0,0,0.0
+17063,"Grundy, IL",Illinois,2566,2,0,0,0,2,0,0.779
+17065,"Hamilton, IL",Illinois,388,1,0,0,1,0,0,2.577
+17067,"Hancock, IL",Illinois,1049,1,0,0,0,1,0,0.953
+17069,"Hardin, IL",Illinois,280,0,0,0,0,0,0,0.0
+17071,"Henderson, IL",Illinois,489,0,0,0,0,0,0,0.0
+17073,"Henry, IL",Illinois,2754,2,0,0,0,2,0,0.726
+17075,"Iroquois, IL",Illinois,1390,3,1,0,0,2,0,2.158
+17077,"Jackson, IL",Illinois,3240,1,0,0,0,0,1,0.309
+17079,"Jasper, IL",Illinois,476,0,0,0,0,0,0,0.0
+17081,"Jefferson, IL",Illinois,2081,2,0,0,0,1,1,0.961
+17083,"Jersey, IL",Illinois,1326,0,0,0,0,0,0,0.0
+17085,"Jo Daviess, IL",Illinois,1284,1,1,0,0,0,0,0.779
+17087,"Johnson, IL",Illinois,832,0,0,0,0,0,0,0.0
+17089,"Kane, IL",Illinois,16131,6,1,0,0,5,0,0.372
+17091,"Kankakee, IL",Illinois,4685,7,0,0,0,5,2,1.494
+17093,"Kendall, IL",Illinois,4330,5,0,0,0,5,0,1.155
+17095,"Knox, IL",Illinois,2884,6,1,0,0,4,1,2.08
+17097,"Lake, IL",Illinois,112342,27,4,1,2,17,3,0.24
+17099,"La Salle, IL",Illinois,5198,4,0,0,0,3,1,0.77
+17101,"Lawrence, IL",Illinois,859,0,0,0,0,0,0,0.0
+17103,"Lee, IL",Illinois,1999,0,0,0,0,0,0,0.0
+17105,"Livingston, IL",Illinois,1926,4,1,0,0,2,1,2.077
+17107,"Logan, IL",Illinois,1424,2,0,0,0,2,0,1.404
+17109,"McDonough, IL",Illinois,1588,2,0,0,0,0,2,1.259
+17111,"McHenry, IL",Illinois,12177,11,2,0,0,8,1,0.903
+17113,"McLean, IL",Illinois,7177,8,0,0,4,2,2,1.115
+17115,"Macon, IL",Illinois,5843,6,0,0,0,4,2,1.027
+17117,"Macoupin, IL",Illinois,2866,2,0,0,0,1,1,0.698
+17119,"Madison, IL",Illinois,17141,24,18,1,0,5,0,1.4
+17121,"Marion, IL",Illinois,2409,2,0,0,0,1,1,0.83
+17123,"Marshall, IL",Illinois,735,0,0,0,0,0,0,0.0
+17125,"Mason, IL",Illinois,890,3,0,0,1,2,0,3.371
+17127,"Massac, IL",Illinois,859,0,0,0,0,0,0,0.0
+17129,"Menard, IL",Illinois,942,0,0,0,0,0,0,0.0
+17131,"Mercer, IL",Illinois,1044,3,0,0,0,3,0,2.874
+17133,"Monroe, IL",Illinois,2139,0,0,0,0,0,0,0.0
+17135,"Montgomery, IL",Illinois,1763,6,3,0,0,3,0,3.403
+17137,"Morgan, IL",Illinois,2101,1,0,0,0,0,1,0.476
+17139,"Moultrie, IL",Illinois,735,0,0,0,0,0,0,0.0
+17141,"Ogle, IL",Illinois,3102,3,0,0,0,3,0,0.967
+17143,"Peoria, IL",Illinois,8872,17,4,1,0,9,3,1.916
+17145,"Perry, IL",Illinois,1242,0,0,0,0,0,0,0.0
+17147,"Piatt, IL",Illinois,870,0,0,0,0,0,0,0.0
+17149,"Pike, IL",Illinois,843,0,0,0,0,0,0,0.0
+17151,"Pope, IL",Illinois,307,0,0,0,0,0,0,0.0
+17153,"Pulaski, IL",Illinois,410,0,0,0,0,0,0,0.0
+17155,"Putnam, IL",Illinois,379,0,0,0,0,0,0,0.0
+17157,"Randolph, IL",Illinois,1833,1,0,0,0,0,1,0.546
+17159,"Richland, IL",Illinois,926,1,0,0,0,1,0,1.08
+17161,"Rock Island, IL",Illinois,8140,13,4,0,0,8,1,1.597
+17163,"Saint Clair, IL",Illinois,25405,20,6,8,0,5,1,0.787
+17165,"Saline, IL",Illinois,1347,1,0,0,0,0,1,0.742
+17167,"Sangamon, IL",Illinois,11640,14,3,0,1,5,5,1.203
+17169,"Schuyler, IL",Illinois,428,0,0,0,0,0,0,0.0
+17171,"Scott, IL",Illinois,268,0,0,0,0,0,0,0.0
+17173,"Shelby, IL",Illinois,1354,0,0,0,0,0,0,0.0
+17175,"Stark, IL",Illinois,304,0,0,0,0,0,0,0.0
+17177,"Stephenson, IL",Illinois,2460,3,0,0,0,2,1,1.22
+17179,"Tazewell, IL",Illinois,7387,2,0,0,0,2,0,0.271
+17181,"Union, IL",Illinois,992,0,0,0,0,0,0,0.0
+17183,"Vermilion, IL",Illinois,4449,5,0,0,2,3,0,1.124
+17185,"Wabash, IL",Illinois,643,0,0,0,0,0,0,0.0
+17187,"Warren, IL",Illinois,912,0,0,0,0,0,0,0.0
+17189,"Washington, IL",Illinois,965,1,0,0,0,1,0,1.036
+17191,"Wayne, IL",Illinois,793,0,0,0,0,0,0,0.0
+17193,"White, IL",Illinois,835,0,0,0,0,0,0,0.0
+17195,"Whiteside, IL",Illinois,3444,0,0,0,0,0,0,0.0
+17197,"Will, IL",Illinois,25578,23,8,2,0,11,2,0.899
+17199,"Williamson, IL",Illinois,5319,11,5,0,5,0,1,2.068
+17201,"Winnebago, IL",Illinois,13893,13,5,1,0,3,4,0.936
+17203,"Woodford, IL",Illinois,1870,2,0,0,0,2,0,1.07
+18001,"Adams, IN",Indiana,1127,1,0,0,0,0,1,0.887
+18003,"Allen, IN",Indiana,19332,14,10,0,2,0,2,0.724
+18005,"Bartholomew, IN",Indiana,4069,5,1,0,0,1,3,1.229
+18007,"Benton, IN",Indiana,469,3,0,0,1,0,2,6.397
+18009,"Blackford, IN",Indiana,790,2,0,0,0,0,2,2.532
+18011,"Boone, IN",Indiana,2602,1,0,0,0,0,1,0.384
+18013,"Brown, IN",Indiana,1050,2,0,0,0,0,2,1.905
+18015,"Carroll, IN",Indiana,1245,2,1,0,0,1,0,1.606
+18017,"Cass, IN",Indiana,2137,1,0,0,0,0,1,0.468
+18019,"Clark, IN",Indiana,7376,6,2,0,1,2,1,0.813
+18021,"Clay, IN",Indiana,1747,2,0,0,1,0,1,1.145
+18023,"Clinton, IN",Indiana,1481,2,0,0,0,1,1,1.35
+18025,"Crawford, IN",Indiana,777,0,0,0,0,0,0,0.0
+18027,"Daviess, IN",Indiana,1489,1,0,0,0,0,1,0.672
+18029,"Dearborn, IN",Indiana,3221,1,0,0,0,1,0,0.31
+18031,"Decatur, IN",Indiana,1385,2,0,0,0,0,2,1.444
+18033,"De Kalb, IN",Indiana,2169,4,2,0,0,0,2,1.844
+18035,"Delaware, IN",Indiana,5962,5,0,1,0,0,4,0.839
+18037,"Dubois, IN",Indiana,2022,2,0,0,1,0,1,0.989
+18039,"Elkhart, IN",Indiana,7447,1,0,0,0,0,1,0.134
+18041,"Fayette, IN",Indiana,1507,0,0,0,0,0,0,0.0
+18043,"Floyd, IN",Indiana,4397,6,5,0,0,0,1,1.365
+18045,"Fountain, IN",Indiana,1059,2,0,0,1,0,1,1.889
+18047,"Franklin, IN",Indiana,1259,2,0,0,1,0,1,1.589
+18049,"Fulton, IN",Indiana,1103,3,0,0,1,0,2,2.72
+18051,"Gibson, IN",Indiana,1859,2,0,1,0,1,0,1.076
+18053,"Grant, IN",Indiana,4587,4,1,0,1,0,2,0.872
+18055,"Greene, IN",Indiana,2152,3,0,0,0,3,0,1.394
+18057,"Hamilton, IN",Indiana,14231,10,5,1,0,2,2,0.703
+18059,"Hancock, IN",Indiana,4917,4,0,0,2,2,0,0.814
+18061,"Harrison, IN",Indiana,2694,1,0,0,0,1,0,0.371
+18063,"Hendricks, IN",Indiana,8779,7,3,0,1,3,0,0.797
+18065,"Henry, IN",Indiana,3168,1,0,0,0,1,0,0.316
+18067,"Howard, IN",Indiana,5428,3,1,0,0,0,2,0.553
+18069,"Huntington, IN",Indiana,2160,1,0,0,0,0,1,0.463
+18071,"Jackson, IN",Indiana,2177,3,1,0,0,1,1,1.378
+18073,"Jasper, IN",Indiana,1800,2,0,0,0,1,1,1.111
+18075,"Jay, IN",Indiana,1077,1,0,0,0,0,1,0.929
+18077,"Jefferson, IN",Indiana,1743,3,0,0,1,1,1,1.721
+18079,"Jennings, IN",Indiana,1754,1,0,0,0,0,1,0.57
+18081,"Johnson, IN",Indiana,8647,4,2,0,0,0,2,0.463
+18083,"Knox, IN",Indiana,1902,3,0,0,0,1,2,1.577
+18085,"Kosciusko, IN",Indiana,4146,2,1,0,0,1,0,0.482
+18087,"Lagrange, IN",Indiana,1018,2,1,0,0,1,0,1.965
+18089,"Lake, IN",Indiana,23556,10,7,0,1,0,2,0.425
+18091,"La Porte, IN",Indiana,6174,4,1,0,0,1,2,0.648
+18093,"Lawrence, IN",Indiana,3237,2,0,0,0,0,2,0.618
+18095,"Madison, IN",Indiana,8112,5,1,1,0,0,3,0.616
+18097,"Marion, IN",Indiana,46784,96,32,3,49,3,9,2.052
+18099,"Marshall, IN",Indiana,1837,1,0,0,0,0,1,0.544
+18101,"Martin, IN",Indiana,825,1,0,0,0,0,1,1.212
+18103,"Miami, IN",Indiana,2854,1,0,0,0,1,0,0.35
+18105,"Monroe, IN",Indiana,5396,6,2,1,0,3,0,1.112
+18107,"Montgomery, IN",Indiana,2189,2,0,0,0,1,1,0.914
+18109,"Morgan, IN",Indiana,5180,3,0,0,0,2,1,0.579
+18111,"Newton, IN",Indiana,927,3,0,0,0,0,3,3.236
+18113,"Noble, IN",Indiana,2357,2,0,0,0,1,1,0.849
+18115,"Ohio, IN",Indiana,397,2,0,0,0,0,2,5.038
+18117,"Orange, IN",Indiana,1095,1,0,0,0,0,1,0.913
+18119,"Owen, IN",Indiana,1628,3,0,0,0,0,3,1.843
+18121,"Parke, IN",Indiana,984,1,0,0,0,0,1,1.016
+18123,"Perry, IN",Indiana,1228,1,0,0,0,0,1,0.814
+18125,"Pike, IN",Indiana,758,1,0,0,0,0,1,1.319
+18127,"Porter, IN",Indiana,9383,17,7,1,1,3,5,1.812
+18129,"Posey, IN",Indiana,1356,1,1,0,0,0,0,0.737
+18131,"Pulaski, IN",Indiana,627,2,0,0,0,0,2,3.19
+18133,"Putnam, IN",Indiana,2310,4,0,0,1,0,3,1.732
+18135,"Randolph, IN",Indiana,1622,1,0,0,0,0,1,0.617
+18137,"Ripley, IN",Indiana,1622,2,0,0,0,0,2,1.233
+18139,"Rush, IN",Indiana,911,1,0,0,0,0,1,1.098
+18141,"St Joseph, IN",Indiana,12675,9,4,0,4,0,1,0.71
+18143,"Scott, IN",Indiana,1591,4,0,0,0,1,3,2.514
+18145,"Shelby, IN",Indiana,2484,1,0,0,0,0,1,0.403
+18147,"Spencer, IN",Indiana,1169,2,1,0,0,0,1,1.711
+18149,"Starke, IN",Indiana,1372,2,0,0,0,1,1,1.458
+18151,"Steuben, IN",Indiana,2050,3,2,0,0,0,1,1.463
+18153,"Sullivan, IN",Indiana,1236,1,0,0,0,0,1,0.809
+18155,"Switzerland, IN",Indiana,628,1,0,0,0,1,0,1.592
+18157,"Tippecanoe, IN",Indiana,7022,5,3,0,0,1,1,0.712
+18159,"Tipton, IN",Indiana,809,1,0,0,0,1,0,1.236
+18161,"Union, IN",Indiana,454,1,0,0,0,0,1,2.203
+18163,"Vanderburgh, IN",Indiana,10309,28,21,4,0,1,2,2.716
+18165,"Vermillion, IN",Indiana,886,1,0,0,0,0,1,1.129
+18167,"Vigo, IN",Indiana,6329,6,2,0,1,0,3,0.948
+18169,"Wabash, IN",Indiana,1712,2,0,0,1,0,1,1.168
+18171,"Warren, IN",Indiana,473,2,0,0,0,0,2,4.228
+18173,"Warrick, IN",Indiana,2827,2,0,0,0,0,2,0.707
+18175,"Washington, IN",Indiana,1569,2,0,0,1,0,1,1.275
+18177,"Wayne, IN",Indiana,4167,3,1,0,0,0,2,0.72
+18179,"Wells, IN",Indiana,1466,3,1,0,0,0,2,2.046
+18181,"White, IN",Indiana,1506,2,0,0,0,0,2,1.328
+18183,"Whitley, IN",Indiana,1851,2,1,0,0,0,1,1.08
+19001,"Adair, IA",Iowa,402,1,0,0,0,1,0,2.488
+19003,"Adams, IA",Iowa,239,1,0,0,0,1,0,4.184
+19005,"Allamakee, IA",Iowa,774,1,0,0,0,1,0,1.292
+19007,"Appanoose, IA",Iowa,805,1,0,0,0,1,0,1.242
+19009,"Audubon, IA",Iowa,326,2,0,0,1,1,0,6.135
+19011,"Benton, IA",Iowa,1432,1,0,0,0,1,0,0.698
+19013,"Black Hawk, IA",Iowa,5827,4,0,0,0,4,0,0.686
+19015,"Boone, IA",Iowa,1569,2,0,0,0,2,0,1.275
+19017,"Bremer, IA",Iowa,1340,2,0,0,0,2,0,1.493
+19019,"Buchanan, IA",Iowa,1070,1,0,0,0,1,0,0.935
+19021,"Buena Vista, IA",Iowa,712,2,0,0,0,2,0,2.809
+19023,"Butler, IA",Iowa,834,1,0,0,0,1,0,1.199
+19025,"Calhoun, IA",Iowa,602,1,0,0,0,1,0,1.661
+19027,"Carroll, IA",Iowa,960,1,0,0,0,1,0,1.042
+19029,"Cass, IA",Iowa,812,1,0,0,0,1,0,1.232
+19031,"Cedar, IA",Iowa,1123,1,0,0,0,1,0,0.89
+19033,"Cerro Gordo, IA",Iowa,2394,1,0,0,0,1,0,0.418
+19035,"Cherokee, IA",Iowa,660,1,0,0,0,1,0,1.515
+19037,"Chickasaw, IA",Iowa,613,2,0,0,1,1,0,3.263
+19039,"Clarke, IA",Iowa,613,1,0,0,0,1,0,1.631
+19041,"Clay, IA",Iowa,1015,1,0,0,0,1,0,0.985
+19043,"Clayton, IA",Iowa,971,1,0,0,0,1,0,1.03
+19045,"Clinton, IA",Iowa,2827,4,0,0,0,4,0,1.415
+19047,"Crawford, IA",Iowa,697,1,0,0,0,1,0,1.435
+19049,"Dallas, IA",Iowa,4164,4,0,0,0,4,0,0.961
+19051,"Davis, IA",Iowa,350,1,0,0,0,1,0,2.857
+19053,"Decatur, IA",Iowa,389,1,0,0,0,1,0,2.571
+19055,"Delaware, IA",Iowa,747,2,0,0,0,2,0,2.677
+19057,"Des Moines, IA",Iowa,2431,1,0,0,0,1,0,0.411
+19059,"Dickinson, IA",Iowa,1068,1,0,0,0,1,0,0.936
+19061,"Dubuque, IA",Iowa,4954,10,5,0,0,5,0,2.019
+19063,"Emmet, IA",Iowa,491,1,0,0,0,1,0,2.037
+19065,"Fayette, IA",Iowa,1107,2,0,0,0,2,0,1.807
+19067,"Floyd, IA",Iowa,1023,1,0,0,0,1,0,0.978
+19069,"Franklin, IA",Iowa,505,1,0,0,0,1,0,1.98
+19071,"Fremont, IA",Iowa,429,1,0,0,0,1,0,2.331
+19073,"Greene, IA",Iowa,492,1,0,0,0,1,0,2.033
+19075,"Grundy, IA",Iowa,597,1,0,0,0,1,0,1.675
+19077,"Guthrie, IA",Iowa,629,1,0,0,0,1,0,1.59
+19079,"Hamilton, IA",Iowa,768,1,0,0,0,1,0,1.302
+19081,"Hancock, IA",Iowa,635,1,0,0,0,1,0,1.575
+19083,"Hardin, IA",Iowa,1078,2,1,0,0,1,0,1.855
+19085,"Harrison, IA",Iowa,954,1,0,0,0,1,0,1.048
+19087,"Henry, IA",Iowa,1223,1,0,0,0,1,0,0.818
+19089,"Howard, IA",Iowa,508,1,0,0,0,1,0,1.969
+19091,"Humboldt, IA",Iowa,537,1,0,0,0,1,0,1.862
+19093,"Ida, IA",Iowa,330,2,0,0,0,2,0,6.061
+19095,"Iowa, IA",Iowa,842,1,0,0,0,1,0,1.188
+19097,"Jackson, IA",Iowa,1232,2,0,0,0,2,0,1.623
+19099,"Jasper, IA",Iowa,1986,2,0,0,0,2,0,1.007
+19101,"Jefferson, IA",Iowa,895,1,0,0,0,1,0,1.117
+19103,"Johnson, IA",Iowa,5925,11,5,1,3,2,0,1.857
+19105,"Jones, IA",Iowa,1315,1,0,0,0,1,0,0.76
+19107,"Keokuk, IA",Iowa,569,1,0,0,0,1,0,1.757
+19109,"Kossuth, IA",Iowa,870,1,0,0,0,1,0,1.149
+19111,"Lee, IA",Iowa,2245,2,0,0,0,2,0,0.891
+19113,"Linn, IA",Iowa,13080,5,0,0,0,5,0,0.382
+19115,"Louisa, IA",Iowa,479,1,0,0,0,1,0,2.088
+19117,"Lucas, IA",Iowa,555,1,0,0,0,1,0,1.802
+19119,"Lyon, IA",Iowa,521,2,0,0,0,2,0,3.839
+19121,"Madison, IA",Iowa,900,1,0,0,0,1,0,1.111
+19123,"Mahaska, IA",Iowa,1001,1,0,0,0,1,0,0.999
+19125,"Marion, IA",Iowa,1774,1,0,0,0,1,0,0.564
+19127,"Marshall, IA",Iowa,2509,2,0,0,0,2,0,0.797
+19129,"Mills, IA",Iowa,1233,3,0,0,0,3,0,2.433
+19131,"Mitchell, IA",Iowa,639,1,0,0,0,1,0,1.565
+19133,"Monona, IA",Iowa,618,1,0,0,0,1,0,1.618
+19135,"Monroe, IA",Iowa,429,1,0,0,0,1,0,2.331
+19137,"Montgomery, IA",Iowa,616,1,0,0,0,1,0,1.623
+19139,"Muscatine, IA",Iowa,2122,1,0,0,0,1,0,0.471
+19141,"O'Brien, IA",Iowa,717,1,0,0,0,1,0,1.395
+19143,"Osceola, IA",Iowa,344,2,0,0,0,1,1,5.814
+19145,"Page, IA",Iowa,1007,4,0,0,0,3,1,3.972
+19147,"Palo Alto, IA",Iowa,500,1,0,0,0,1,0,2.0
+19149,"Plymouth, IA",Iowa,1549,1,0,0,0,1,0,0.646
+19151,"Pocahontas, IA",Iowa,404,1,0,0,0,1,0,2.475
+19153,"Polk, IA",Iowa,23619,31,8,0,13,6,4,1.313
+19155,"Pottawattamie, IA",Iowa,5986,7,1,0,0,6,0,1.169
+19157,"Poweshiek, IA",Iowa,994,2,0,0,0,2,0,2.012
+19159,"Ringgold, IA",Iowa,227,1,0,0,0,1,0,4.405
+19161,"Sac, IA",Iowa,576,1,0,0,0,1,0,1.736
+19163,"Scott, IA",Iowa,11102,4,1,0,1,2,0,0.36
+19165,"Shelby, IA",Iowa,712,1,0,0,0,1,0,1.404
+19167,"Sioux, IA",Iowa,1085,2,1,0,0,1,0,1.843
+19169,"Story, IA",Iowa,3977,2,0,0,0,2,0,0.503
+19171,"Tama, IA",Iowa,992,2,0,0,0,2,0,2.016
+19173,"Taylor, IA",Iowa,345,0,0,0,0,0,0,0.0
+19175,"Union, IA",Iowa,762,1,0,0,0,1,0,1.312
+19177,"Van Buren, IA",Iowa,474,2,0,0,0,2,0,4.219
+19179,"Wapello, IA",Iowa,1711,1,0,0,0,1,0,0.584
+19181,"Warren, IA",Iowa,3186,3,0,0,0,3,0,0.942
+19183,"Washington, IA",Iowa,1231,1,0,0,0,1,0,0.812
+19185,"Wayne, IA",Iowa,299,1,0,0,0,1,0,3.344
+19187,"Webster, IA",Iowa,1976,2,0,0,0,2,0,1.012
+19189,"Winnebago, IA",Iowa,491,1,0,0,0,1,0,2.037
+19191,"Winneshiek, IA",Iowa,904,2,0,0,0,2,0,2.212
+19193,"Woodbury, IA",Iowa,5579,2,0,0,0,2,0,0.358
+19195,"Worth, IA",Iowa,501,1,0,0,0,1,0,1.996
+19197,"Wright, IA",Iowa,743,2,0,0,0,2,0,2.692
+20001,"Allen, KS",Kansas,745,0,0,0,0,0,0,0.0
+20003,"Anderson, KS",Kansas,397,0,0,0,0,0,0,0.0
+20005,"Atchison, KS",Kansas,855,0,0,0,0,0,0,0.0
+20007,"Barber, KS",Kansas,223,0,0,0,0,0,0,0.0
+20009,"Barton, KS",Kansas,1444,0,0,0,0,0,0,0.0
+20011,"Bourbon, KS",Kansas,791,0,0,0,0,0,0,0.0
+20013,"Brown, KS",Kansas,652,0,0,0,0,0,0,0.0
+20015,"Butler, KS",Kansas,4515,0,0,0,0,0,0,0.0
+20017,"Chase, KS",Kansas,122,0,0,0,0,0,0,0.0
+20019,"Chautauqua, KS",Kansas,240,0,0,0,0,0,0,0.0
+20021,"Cherokee, KS",Kansas,1062,0,0,0,0,0,0,0.0
+20023,"Cheyenne, KS",Kansas,85,0,0,0,0,0,0,0.0
+20025,"Clark, KS",Kansas,145,0,0,0,0,0,0,0.0
+20027,"Clay, KS",Kansas,777,0,0,0,0,0,0,0.0
+20029,"Cloud, KS",Kansas,456,0,0,0,0,0,0,0.0
+20031,"Coffey, KS",Kansas,594,0,0,0,0,0,0,0.0
+20033,"Comanche, KS",Kansas,79,0,0,0,0,0,0,0.0
+20035,"Cowley, KS",Kansas,2178,1,0,0,1,0,0,0.459
+20037,"Crawford, KS",Kansas,1801,1,0,1,0,0,0,0.555
+20039,"Decatur, KS",Kansas,122,0,0,0,0,0,0,0.0
+20041,"Dickinson, KS",Kansas,1984,0,0,0,0,0,0,0.0
+20043,"Doniphan, KS",Kansas,425,0,0,0,0,0,0,0.0
+20045,"Douglas, KS",Kansas,5324,17,15,2,0,0,0,3.193
+20047,"Edwards, KS",Kansas,151,0,0,0,0,0,0,0.0
+20049,"Elk, KS",Kansas,138,0,0,0,0,0,0,0.0
+20051,"Ellis, KS",Kansas,1023,7,1,0,6,0,0,6.843
+20053,"Ellsworth, KS",Kansas,391,0,0,0,0,0,0,0.0
+20055,"Finney, KS",Kansas,1019,0,0,0,0,0,0,0.0
+20057,"Ford, KS",Kansas,885,1,0,0,1,0,0,1.13
+20059,"Franklin, KS",Kansas,1720,0,0,0,0,0,0,0.0
+20061,"Geary, KS",Kansas,7669,1,0,0,1,0,0,0.13
+20063,"Gove, KS",Kansas,119,0,0,0,0,0,0,0.0
+20065,"Graham, KS",Kansas,123,0,0,0,0,0,0,0.0
+20067,"Grant, KS",Kansas,154,0,0,0,0,0,0,0.0
+20069,"Gray, KS",Kansas,169,0,0,0,0,0,0,0.0
+20071,"Greeley, KS",Kansas,53,0,0,0,0,0,0,0.0
+20073,"Greenwood, KS",Kansas,410,0,0,0,0,0,0,0.0
+20075,"Hamilton, KS",Kansas,87,0,0,0,0,0,0,0.0
+20077,"Harper, KS",Kansas,252,0,0,0,0,0,0,0.0
+20079,"Harvey, KS",Kansas,1765,0,0,0,0,0,0,0.0
+20081,"Haskell, KS",Kansas,66,0,0,0,0,0,0,0.0
+20083,"Hodgeman, KS",Kansas,95,0,0,0,0,0,0,0.0
+20085,"Jackson, KS",Kansas,998,0,0,0,0,0,0,0.0
+20087,"Jefferson, KS",Kansas,1350,0,0,0,0,0,0,0.0
+20089,"Jewell, KS",Kansas,176,0,0,0,0,0,0,0.0
+20091,"Johnson, KS",Kansas,26734,14,13,0,1,0,0,0.524
+20093,"Kearny, KS",Kansas,116,0,0,0,0,0,0,0.0
+20095,"Kingman, KS",Kansas,397,0,0,0,0,0,0,0.0
+20097,"Kiowa, KS",Kansas,100,0,0,0,0,0,0,0.0
+20099,"Labette, KS",Kansas,1064,1,1,0,0,0,0,0.94
+20101,"Lane, KS",Kansas,115,0,0,0,0,0,0,0.0
+20103,"Leavenworth, KS",Kansas,12181,11,3,1,7,0,0,0.903
+20105,"Lincoln, KS",Kansas,208,0,0,0,0,0,0,0.0
+20107,"Linn, KS",Kansas,586,0,0,0,0,0,0,0.0
+20109,"Logan, KS",Kansas,106,0,0,0,0,0,0,0.0
+20111,"Lyon, KS",Kansas,1546,2,0,0,2,0,0,1.294
+20113,"McPherson, KS",Kansas,1422,0,0,0,0,0,0,0.0
+20115,"Marion, KS",Kansas,582,0,0,0,0,0,0,0.0
+20117,"Marshall, KS",Kansas,533,0,0,0,0,0,0,0.0
+20119,"Meade, KS",Kansas,158,0,0,0,0,0,0,0.0
+20121,"Miami, KS",Kansas,1947,0,0,0,0,0,0,0.0
+20123,"Mitchell, KS",Kansas,268,0,0,0,0,0,0,0.0
+20125,"Montgomery, KS",Kansas,1806,1,0,0,1,0,0,0.554
+20127,"Morris, KS",Kansas,476,0,0,0,0,0,0,0.0
+20129,"Morton, KS",Kansas,69,0,0,0,0,0,0,0.0
+20131,"Nemaha, KS",Kansas,360,0,0,0,0,0,0,0.0
+20133,"Neosho, KS",Kansas,846,0,0,0,0,0,0,0.0
+20135,"Ness, KS",Kansas,117,0,0,0,0,0,0,0.0
+20137,"Norton, KS",Kansas,234,0,0,0,0,0,0,0.0
+20139,"Osage, KS",Kansas,1208,0,0,0,0,0,0,0.0
+20141,"Osborne, KS",Kansas,172,0,0,0,0,0,0,0.0
+20143,"Ottawa, KS",Kansas,312,0,0,0,0,0,0,0.0
+20145,"Pawnee, KS",Kansas,350,0,0,0,0,0,0,0.0
+20147,"Phillips, KS",Kansas,252,0,0,0,0,0,0,0.0
+20149,"Pottawatomie, KS",Kansas,2027,0,0,0,0,0,0,0.0
+20151,"Pratt, KS",Kansas,474,0,0,0,0,0,0,0.0
+20153,"Rawlins, KS",Kansas,143,0,0,0,0,0,0,0.0
+20155,"Reno, KS",Kansas,3100,2,1,0,1,0,0,0.645
+20157,"Republic, KS",Kansas,282,0,0,0,0,0,0,0.0
+20159,"Rice, KS",Kansas,498,0,0,0,0,0,0,0.0
+20161,"Riley, KS",Kansas,6992,2,0,0,2,0,0,0.286
+20163,"Rooks, KS",Kansas,254,0,0,0,0,0,0,0.0
+20165,"Rush, KS",Kansas,210,0,0,0,0,0,0,0.0
+20167,"Russell, KS",Kansas,445,0,0,0,0,0,0,0.0
+20169,"Saline, KS",Kansas,3278,3,0,0,3,0,0,0.915
+20171,"Scott, KS",Kansas,177,0,0,0,0,0,0,0.0
+20173,"Sedgwick, KS",Kansas,31297,26,2,1,23,0,0,0.831
+20175,"Seward, KS",Kansas,432,0,0,0,0,0,0,0.0
+20177,"Shawnee, KS",Kansas,11719,33,18,2,13,0,0,2.816
+20179,"Sheridan, KS",Kansas,113,0,0,0,0,0,0,0.0
+20181,"Sherman, KS",Kansas,256,0,0,0,0,0,0,0.0
+20183,"Smith, KS",Kansas,274,0,0,0,0,0,0,0.0
+20185,"Stafford, KS",Kansas,193,0,0,0,0,0,0,0.0
+20187,"Stanton, KS",Kansas,91,0,0,0,0,0,0,0.0
+20189,"Stevens, KS",Kansas,188,0,0,0,0,0,0,0.0
+20191,"Sumner, KS",Kansas,1433,1,0,1,0,0,0,0.698
+20193,"Thomas, KS",Kansas,325,1,0,0,1,0,0,3.077
+20195,"Trego, KS",Kansas,188,0,0,0,0,0,0,0.0
+20197,"Wabaunsee, KS",Kansas,433,0,0,0,0,0,0,0.0
+20199,"Wallace, KS",Kansas,105,0,0,0,0,0,0,0.0
+20201,"Washington, KS",Kansas,330,0,0,0,0,0,0,0.0
+20203,"Wichita, KS",Kansas,71,0,0,0,0,0,0,0.0
+20205,"Wilson, KS",Kansas,516,0,0,0,0,0,0,0.0
+20207,"Woodson, KS",Kansas,207,0,0,0,0,0,0,0.0
+20209,"Wyandotte, KS",Kansas,6584,4,2,0,2,0,0,0.608
+21001,"Adair, KY",Kentucky,895,0,0,0,0,0,0,0.0
+21003,"Allen, KY",Kentucky,1049,0,0,0,0,0,0,0.0
+21005,"Anderson, KY",Kentucky,1427,1,0,0,1,0,0,0.701
+21007,"Ballard, KY",Kentucky,457,0,0,0,0,0,0,0.0
+21009,"Barren, KY",Kentucky,2081,1,0,0,0,0,1,0.481
+21011,"Bath, KY",Kentucky,524,0,0,0,0,0,0,0.0
+21013,"Bell, KY",Kentucky,965,0,0,0,0,0,0,0.0
+21015,"Boone, KY",Kentucky,8002,1,0,0,1,0,0,0.125
+21017,"Bourbon, KY",Kentucky,910,0,0,0,0,0,0,0.0
+21019,"Boyd, KY",Kentucky,3026,0,0,0,0,0,0,0.0
+21021,"Boyle, KY",Kentucky,1593,1,0,0,1,0,0,0.628
+21023,"Bracken, KY",Kentucky,451,0,0,0,0,0,0,0.0
+21025,"Breathitt, KY",Kentucky,488,1,1,0,0,0,0,2.049
+21027,"Breckinridge, KY",Kentucky,1352,0,0,0,0,0,0,0.0
+21029,"Bullitt, KY",Kentucky,5347,0,0,0,0,0,0,0.0
+21031,"Butler, KY",Kentucky,656,0,0,0,0,0,0,0.0
+21033,"Caldwell, KY",Kentucky,709,0,0,0,0,0,0,0.0
+21035,"Calloway, KY",Kentucky,1827,2,1,0,1,0,0,1.095
+21037,"Campbell, KY",Kentucky,4027,2,2,0,0,0,0,0.497
+21039,"Carlisle, KY",Kentucky,241,0,0,0,0,0,0,0.0
+21041,"Carroll, KY",Kentucky,547,0,0,0,0,0,0,0.0
+21043,"Carter, KY",Kentucky,1318,1,0,0,1,0,0,0.759
+21045,"Casey, KY",Kentucky,833,1,0,0,1,0,0,1.2
+21047,"Christian, KY",Kentucky,11145,4,3,0,0,0,1,0.359
+21049,"Clark, KY",Kentucky,2228,0,0,0,0,0,0,0.0
+21051,"Clay, KY",Kentucky,660,0,0,0,0,0,0,0.0
+21053,"Clinton, KY",Kentucky,503,0,0,0,0,0,0,0.0
+21055,"Crittenden, KY",Kentucky,403,0,0,0,0,0,0,0.0
+21057,"Cumberland, KY",Kentucky,356,0,0,0,0,0,0,0.0
+21059,"Daviess, KY",Kentucky,5709,4,1,1,0,0,2,0.701
+21061,"Edmonson, KY",Kentucky,685,0,0,0,0,0,0,0.0
+21063,"Elliott, KY",Kentucky,345,0,0,0,0,0,0,0.0
+21065,"Estill, KY",Kentucky,691,0,0,0,0,0,0,0.0
+21067,"Fayette, KY",Kentucky,14824,10,8,0,2,0,0,0.675
+21069,"Fleming, KY",Kentucky,670,0,0,0,0,0,0,0.0
+21071,"Floyd, KY",Kentucky,1258,1,1,0,0,0,0,0.795
+21073,"Franklin, KY",Kentucky,2844,18,1,0,1,0,16,6.329
+21075,"Fulton, KY",Kentucky,333,0,0,0,0,0,0,0.0
+21077,"Gallatin, KY",Kentucky,449,0,0,0,0,0,0,0.0
+21079,"Garrard, KY",Kentucky,1062,0,0,0,0,0,0,0.0
+21081,"Grant, KY",Kentucky,1333,0,0,0,0,0,0,0.0
+21083,"Graves, KY",Kentucky,1887,0,0,0,0,0,0,0.0
+21085,"Grayson, KY",Kentucky,1346,2,0,0,1,0,1,1.486
+21087,"Green, KY",Kentucky,602,0,0,0,0,0,0,0.0
+21089,"Greenup, KY",Kentucky,2061,1,1,0,0,0,0,0.485
+21091,"Hancock, KY",Kentucky,550,0,0,0,0,0,0,0.0
+21093,"Hardin, KY",Kentucky,17019,7,4,0,3,0,0,0.411
+21095,"Harlan, KY",Kentucky,1040,0,0,0,0,0,0,0.0
+21097,"Harrison, KY",Kentucky,958,1,1,0,0,0,0,1.044
+21099,"Hart, KY",Kentucky,1018,0,0,0,0,0,0,0.0
+21101,"Henderson, KY",Kentucky,2113,2,2,0,0,0,0,0.947
+21103,"Henry, KY",Kentucky,870,0,0,0,0,0,0,0.0
+21105,"Hickman, KY",Kentucky,205,0,0,0,0,0,0,0.0
+21107,"Hopkins, KY",Kentucky,2088,0,0,0,0,0,0,0.0
+21109,"Jackson, KY",Kentucky,530,0,0,0,0,0,0,0.0
+21111,"Jefferson, KY",Kentucky,39327,39,18,2,12,0,7,0.992
+21113,"Jessamine, KY",Kentucky,2871,1,0,0,1,0,0,0.348
+21115,"Johnson, KY",Kentucky,839,0,0,0,0,0,0,0.0
+21117,"Kenton, KY",Kentucky,8300,6,4,0,2,0,0,0.723
+21119,"Knott, KY",Kentucky,477,0,0,0,0,0,0,0.0
+21121,"Knox, KY",Kentucky,1315,1,1,0,0,0,0,0.76
+21123,"Larue, KY",Kentucky,796,1,1,0,0,0,0,1.256
+21125,"Laurel, KY",Kentucky,2912,0,0,0,0,0,0,0.0
+21127,"Lawrence, KY",Kentucky,668,0,0,0,0,0,0,0.0
+21129,"Lee, KY",Kentucky,372,0,0,0,0,0,0,0.0
+21131,"Leslie, KY",Kentucky,303,0,0,0,0,0,0,0.0
+21133,"Letcher, KY",Kentucky,745,0,0,0,0,0,0,0.0
+21135,"Lewis, KY",Kentucky,712,0,0,0,0,0,0,0.0
+21137,"Lincoln, KY",Kentucky,1427,0,0,0,0,0,0,0.0
+21139,"Livingston, KY",Kentucky,467,0,0,0,0,0,0,0.0
+21141,"Logan, KY",Kentucky,1451,0,0,0,0,0,0,0.0
+21143,"Lyon, KY",Kentucky,652,0,0,0,0,0,0,0.0
+21145,"McCracken, KY",Kentucky,4257,2,1,0,0,0,1,0.47
+21147,"McCreary, KY",Kentucky,927,0,0,0,0,0,0,0.0
+21149,"McLean, KY",Kentucky,536,0,0,0,0,0,0,0.0
+21151,"Madison, KY",Kentucky,5564,9,8,0,1,0,0,1.618
+21153,"Magoffin, KY",Kentucky,349,0,0,0,0,0,0,0.0
+21155,"Marion, KY",Kentucky,923,0,0,0,0,0,0,0.0
+21157,"Marshall, KY",Kentucky,1888,1,1,0,0,0,0,0.53
+21159,"Martin, KY",Kentucky,248,0,0,0,0,0,0,0.0
+21161,"Mason, KY",Kentucky,789,0,0,0,0,0,0,0.0
+21163,"Meade, KY",Kentucky,3442,3,1,0,2,0,0,0.872
+21165,"Menifee, KY",Kentucky,312,0,0,0,0,0,0,0.0
+21167,"Mercer, KY",Kentucky,1440,0,0,0,0,0,0,0.0
+21169,"Metcalfe, KY",Kentucky,514,0,0,0,0,0,0,0.0
+21171,"Monroe, KY",Kentucky,452,0,0,0,0,0,0,0.0
+21173,"Montgomery, KY",Kentucky,1640,0,0,0,0,0,0,0.0
+21175,"Morgan, KY",Kentucky,528,0,0,0,0,0,0,0.0
+21177,"Muhlenberg, KY",Kentucky,1369,0,0,0,0,0,0,0.0
+21179,"Nelson, KY",Kentucky,3131,6,0,0,6,0,0,1.916
+21181,"Nicholas, KY",Kentucky,289,0,0,0,0,0,0,0.0
+21183,"Ohio, KY",Kentucky,1170,1,1,0,0,0,0,0.855
+21185,"Oldham, KY",Kentucky,3379,2,0,0,2,0,0,0.592
+21187,"Owen, KY",Kentucky,627,0,0,0,0,0,0,0.0
+21189,"Owsley, KY",Kentucky,150,0,0,0,0,0,0,0.0
+21191,"Pendleton, KY",Kentucky,771,0,0,0,0,0,0,0.0
+21193,"Perry, KY",Kentucky,1112,1,1,0,0,0,0,0.899
+21195,"Pike, KY",Kentucky,2003,1,0,0,0,0,1,0.499
+21197,"Powell, KY",Kentucky,761,1,1,0,0,0,0,1.314
+21199,"Pulaski, KY",Kentucky,4132,0,0,0,0,0,0,0.0
+21201,"Robertson, KY",Kentucky,124,0,0,0,0,0,0,0.0
+21203,"Rockcastle, KY",Kentucky,728,0,0,0,0,0,0,0.0
+21205,"Rowan, KY",Kentucky,1042,2,0,1,1,0,0,1.919
+21207,"Russell, KY",Kentucky,907,0,0,0,0,0,0,0.0
+21209,"Scott, KY",Kentucky,3073,2,0,0,1,0,1,0.651
+21211,"Shelby, KY",Kentucky,2592,2,2,0,0,0,0,0.772
+21213,"Simpson, KY",Kentucky,1019,0,0,0,0,0,0,0.0
+21215,"Spencer, KY",Kentucky,1035,0,0,0,0,0,0,0.0
+21217,"Taylor, KY",Kentucky,1412,1,0,0,1,0,0,0.708
+21219,"Todd, KY",Kentucky,673,1,1,0,0,0,0,1.486
+21221,"Trigg, KY",Kentucky,1199,1,0,0,1,0,0,0.834
+21223,"Trimble, KY",Kentucky,550,0,0,0,0,0,0,0.0
+21225,"Union, KY",Kentucky,654,0,0,0,0,0,0,0.0
+21227,"Warren, KY",Kentucky,6330,3,2,1,0,0,0,0.474
+21229,"Washington, KY",Kentucky,521,0,0,0,0,0,0,0.0
+21231,"Wayne, KY",Kentucky,1017,0,0,0,0,0,0,0.0
+21233,"Webster, KY",Kentucky,598,0,0,0,0,0,0,0.0
+21235,"Whitley, KY",Kentucky,1658,1,1,0,0,0,0,0.603
+21237,"Wolfe, KY",Kentucky,282,0,0,0,0,0,0,0.0
+21239,"Woodford, KY",Kentucky,1407,3,1,1,1,0,0,2.132
+22001,"Acadia, LA",Louisiana,2204,3,0,1,0,0,2,1.361
+22003,"Allen, LA",Louisiana,937,0,0,0,0,0,0,0.0
+22005,"Ascension, LA",Louisiana,6083,2,1,0,0,0,1,0.329
+22007,"Assumption, LA",Louisiana,913,0,0,0,0,0,0,0.0
+22009,"Avoyelles, LA",Louisiana,1924,0,0,0,0,0,0,0.0
+22011,"Beauregard, LA",Louisiana,3031,1,0,0,0,0,1,0.33
+22013,"Bienville, LA",Louisiana,715,0,0,0,0,0,0,0.0
+22015,"Bossier, LA",Louisiana,12477,8,0,1,1,0,6,0.641
+22017,"Caddo, LA",Louisiana,15307,9,8,1,0,0,0,0.588
+22019,"Calcasieu, LA",Louisiana,10987,3,2,1,0,0,0,0.273
+22021,"Caldwell, LA",Louisiana,445,0,0,0,0,0,0,0.0
+22023,"Cameron, LA",Louisiana,168,0,0,0,0,0,0,0.0
+22025,"Catahoula, LA",Louisiana,387,1,0,0,0,0,1,2.584
+22027,"Claiborne, LA",Louisiana,734,1,0,0,0,0,1,1.362
+22029,"Concordia, LA",Louisiana,1001,1,0,0,0,0,1,0.999
+22031,"De Soto, LA",Louisiana,1302,1,1,0,0,0,0,0.768
+22033,"East Baton Rouge, LA",Louisiana,18396,56,16,1,4,0,35,3.044
+22035,"East Carroll, LA",Louisiana,234,0,0,0,0,0,0,0.0
+22037,"East Feliciana, LA",Louisiana,957,2,0,0,0,0,2,2.09
+22039,"Evangeline, LA",Louisiana,1305,0,0,0,0,0,0,0.0
+22041,"Franklin, LA",Louisiana,864,0,0,0,0,0,0,0.0
+22043,"Grant, LA",Louisiana,1347,0,0,0,0,0,0,0.0
+22045,"Iberia, LA",Louisiana,2992,2,0,0,0,0,2,0.668
+22047,"Iberville, LA",Louisiana,1249,0,0,0,0,0,0,0.0
+22049,"Jackson, LA",Louisiana,778,0,0,0,0,0,0,0.0
+22051,"Jefferson, LA",Louisiana,19169,14,8,1,3,0,2,0.73
+22053,"Jefferson Davis, LA",Louisiana,1649,2,0,0,0,0,2,1.213
+22055,"Lafayette, LA",Louisiana,13246,9,4,0,3,0,2,0.679
+22057,"Lafourche, LA",Louisiana,3451,1,0,0,0,0,1,0.29
+22059,"LaSalle, LA",Louisiana,537,1,0,0,0,0,1,1.862
+22061,"Lincoln, LA",Louisiana,2187,2,1,0,0,0,1,0.914
+22063,"Livingston, LA",Louisiana,7936,0,0,0,0,0,0,0.0
+22065,"Madison, LA",Louisiana,457,1,0,0,0,0,1,2.188
+22067,"Morehouse, LA",Louisiana,1217,0,0,0,0,0,0,0.0
+22069,"Natchitoches, LA",Louisiana,1938,2,0,0,1,0,1,1.032
+22071,"Orleans, LA",Louisiana,17162,35,26,1,5,0,3,2.039
+22073,"Ouachita, LA",Louisiana,8499,9,3,1,1,0,4,1.059
+22075,"Plaquemines, LA",Louisiana,1613,0,0,0,0,0,0,0.0
+22077,"Pointe Coupee, LA",Louisiana,933,1,0,0,0,0,1,1.072
+22079,"Rapides, LA",Louisiana,9263,3,1,0,0,0,2,0.324
+22081,"Red River, LA",Louisiana,292,0,0,0,0,0,0,0.0
+22083,"Richland, LA",Louisiana,842,0,0,0,0,0,0,0.0
+22085,"Sabine, LA",Louisiana,1350,1,0,0,0,0,1,0.741
+22087,"Saint Bernard, LA",Louisiana,1777,5,1,0,1,0,3,2.814
+22089,"Saint Charles, LA",Louisiana,2408,1,0,1,0,0,0,0.415
+22091,"Saint Helena, LA",Louisiana,478,0,0,0,0,0,0,0.0
+22093,"Saint James, LA",Louisiana,584,0,0,0,0,0,0,0.0
+22095,"Saint John The Baptist, LA",Louisiana,1805,3,1,0,0,0,2,1.662
+22097,"Saint Landry, LA",Louisiana,3692,0,0,0,0,0,0,0.0
+22099,"Saint Martin, LA",Louisiana,2489,0,0,0,0,0,0,0.0
+22101,"Saint Mary, LA",Louisiana,2226,0,0,0,0,0,0,0.0
+22103,"Saint Tammany, LA",Louisiana,17333,12,8,0,1,0,3,0.692
+22105,"Tangipahoa, LA",Louisiana,6358,4,3,0,0,0,1,0.629
+22107,"Tensas, LA",Louisiana,141,0,0,0,0,0,0,0.0
+22109,"Terrebonne, LA",Louisiana,5247,1,1,0,0,0,0,0.191
+22111,"Union, LA",Louisiana,1154,0,0,0,0,0,0,0.0
+22113,"Vermilion, LA",Louisiana,2347,1,0,0,0,1,0,0.426
+22115,"Vernon, LA",Louisiana,7619,3,0,0,0,0,3,0.394
+22117,"Washington, LA",Louisiana,2518,3,0,1,0,0,2,1.191
+22119,"Webster, LA",Louisiana,2224,0,0,0,0,0,0,0.0
+22121,"West Baton Rouge, LA",Louisiana,1172,0,0,0,0,0,0,0.0
+22123,"West Carroll, LA",Louisiana,400,0,0,0,0,0,0,0.0
+22125,"West Feliciana, LA",Louisiana,731,0,0,0,0,0,0,0.0
+22127,"Winn, LA",Louisiana,781,0,0,0,0,0,0,0.0
+23001,"Androscoggin, ME",Maine,7927,0,0,0,0,0,0,0.0
+23003,"Aroostook, ME",Maine,5212,1,0,0,1,0,0,0.192
+23005,"Cumberland, ME",Maine,17560,62,57,3,0,2,0,3.531
+23007,"Franklin, ME",Maine,2396,0,0,0,0,0,0,0.0
+23009,"Hancock, ME",Maine,3890,1,1,0,0,0,0,0.257
+23011,"Kennebec, ME",Maine,10998,35,2,1,32,0,0,3.182
+23013,"Knox, ME",Maine,2745,1,1,0,0,0,0,0.364
+23015,"Lincoln, ME",Maine,2832,1,0,0,1,0,0,0.353
+23017,"Oxford, ME",Maine,4748,2,2,0,0,0,0,0.421
+23019,"Penobscot, ME",Maine,11678,8,6,0,2,0,0,0.685
+23021,"Piscataquis, ME",Maine,1444,1,1,0,0,0,0,0.693
+23023,"Sagadahoc, ME",Maine,3452,1,0,0,1,0,0,0.29
+23025,"Somerset, ME",Maine,4222,0,0,0,0,0,0,0.0
+23027,"Waldo, ME",Maine,2795,2,1,0,1,0,0,0.716
+23029,"Washington, ME",Maine,3070,0,0,0,0,0,0,0.0
+23031,"York, ME",Maine,15208,0,0,0,0,0,0,0.0
+24001,"Allegany, MD",Maryland,4365,2,1,0,0,0,1,0.458
+24003,"Anne Arundel, MD",Maryland,47400,22,13,3,4,1,1,0.464
+24005,"Baltimore, MD",Maryland,37825,18,14,1,2,0,1,0.476
+24009,"Calvert, MD",Maryland,8255,0,0,0,0,0,0,0.0
+24011,"Caroline, MD",Maryland,1741,0,0,0,0,0,0,0.0
+24013,"Carroll, MD",Maryland,8119,3,1,0,0,0,2,0.37
+24015,"Cecil, MD",Maryland,6865,1,0,0,0,0,1,0.146
+24017,"Charles, MD",Maryland,16494,9,1,1,3,0,4,0.546
+24019,"Dorchester, MD",Maryland,2337,1,0,0,1,0,0,0.428
+24021,"Frederick, MD",Maryland,15914,7,2,1,1,1,2,0.44
+24023,"Garrett, MD",Maryland,1871,0,0,0,0,0,0,0.0
+24025,"Harford, MD",Maryland,18757,3,0,1,0,0,2,0.16
+24027,"Howard, MD",Maryland,15738,12,11,0,0,0,1,0.762
+24029,"Kent, MD",Maryland,1188,0,0,0,0,0,0,0.0
+24031,"Montgomery, MD",Maryland,32356,46,21,3,20,0,2,1.422
+24033,"Prince George's, MD",Maryland,54405,22,15,1,5,0,1,0.404
+24035,"Queen Anne's, MD",Maryland,3324,1,1,0,0,0,0,0.301
+24037,"Saint Mary's, MD",Maryland,13033,1,0,0,1,0,0,0.077
+24039,"Somerset, MD",Maryland,1461,0,0,0,0,0,0,0.0
+24041,"Talbot, MD",Maryland,2411,1,0,0,0,0,1,0.415
+24043,"Washington, MD",Maryland,9157,3,1,0,1,0,1,0.328
+24045,"Wicomico, MD",Maryland,5115,3,0,1,1,0,1,0.587
+24047,"Worcester, MD",Maryland,4373,1,0,0,1,0,0,0.229
+24510,"Baltimore City, MD",Maryland,24437,38,17,0,14,0,7,1.555
+25001,"Barnstable, MA",Massachusetts,14208,7,0,0,0,0,7,0.493
+25003,"Berkshire, MA",Massachusetts,5433,7,1,0,4,1,1,1.288
+25005,"Bristol, MA",Massachusetts,23735,26,7,4,1,4,10,1.095
+25007,"Dukes, MA",Massachusetts,874,1,0,0,0,0,1,1.144
+25009,"Essex, MA",Massachusetts,26663,27,7,0,2,4,14,1.013
+25011,"Franklin, MA",Massachusetts,3805,7,3,0,0,4,0,1.84
+25013,"Hampden, MA",Massachusetts,22144,27,10,1,5,10,1,1.219
+25015,"Hampshire, MA",Massachusetts,6811,11,4,0,0,6,1,1.615
+25017,"Middlesex, MA",Massachusetts,43541,57,16,3,4,6,28,1.309
+25019,"Nantucket, MA",Massachusetts,521,0,0,0,0,0,0,0.0
+25021,"Norfolk, MA",Massachusetts,22008,38,18,0,0,8,12,1.727
+25023,"Plymouth, MA",Massachusetts,23715,36,11,1,1,5,18,1.518
+25025,"Suffolk, MA",Massachusetts,16673,80,51,1,13,5,10,4.798
+25027,"Worcester, MA",Massachusetts,36498,43,14,1,5,11,12,1.178
+26001,"Alcona, MI",Michigan,1126,1,0,0,0,1,0,0.888
+26003,"Alger, MI",Michigan,684,1,0,0,0,1,0,1.462
+26005,"Allegan, MI",Michigan,5018,2,0,0,0,2,0,0.399
+26007,"Alpena, MI",Michigan,2252,3,0,0,1,2,0,1.332
+26009,"Antrim, MI",Michigan,1755,3,1,0,0,2,0,1.709
+26011,"Arenac, MI",Michigan,991,1,0,0,0,1,0,1.009
+26013,"Baraga, MI",Michigan,686,2,0,0,0,2,0,2.915
+26015,"Barry, MI",Michigan,3365,0,0,0,0,0,0,0.0
+26017,"Bay, MI",Michigan,6104,4,0,0,2,2,0,0.655
+26019,"Benzie, MI",Michigan,1208,2,1,0,0,1,0,1.656
+26021,"Berrien, MI",Michigan,6801,5,1,0,0,4,0,0.735
+26023,"Branch, MI",Michigan,2167,2,1,0,1,0,0,0.923
+26025,"Calhoun, MI",Michigan,8443,9,2,0,4,3,0,1.066
+26027,"Cass, MI",Michigan,2788,1,0,0,0,1,0,0.359
+26029,"Charlevoix, MI",Michigan,1631,3,1,0,0,2,0,1.839
+26031,"Cheboygan, MI",Michigan,1988,3,0,0,0,3,0,1.509
+26033,"Chippewa, MI",Michigan,2513,2,0,0,0,2,0,0.796
+26035,"Clare, MI",Michigan,2472,4,1,0,1,2,0,1.618
+26037,"Clinton, MI",Michigan,3844,6,0,0,5,1,0,1.561
+26039,"Crawford, MI",Michigan,1265,3,0,0,0,3,0,2.372
+26041,"Delta, MI",Michigan,3156,2,0,0,0,2,0,0.634
+26043,"Dickinson, MI",Michigan,2092,5,1,0,2,2,0,2.39
+26045,"Eaton, MI",Michigan,6501,2,1,0,1,0,0,0.308
+26047,"Emmet, MI",Michigan,1896,4,2,0,0,2,0,2.11
+26049,"Genesee, MI",Michigan,20271,14,5,0,1,8,0,0.691
+26051,"Gladwin, MI",Michigan,1912,3,0,0,0,3,0,1.569
+26053,"Gogebic, MI",Michigan,1241,2,0,0,0,2,0,1.612
+26055,"Grand Traverse, MI",Michigan,5275,4,1,0,0,3,0,0.758
+26057,"Gratiot, MI",Michigan,1890,3,0,0,0,3,0,1.587
+26059,"Hillsdale, MI",Michigan,2560,1,0,0,1,0,0,0.391
+26061,"Houghton, MI",Michigan,2019,3,0,0,0,3,0,1.486
+26063,"Huron, MI",Michigan,1691,2,0,0,0,2,0,1.183
+26065,"Ingham, MI",Michigan,10666,19,10,0,2,7,0,1.781
+26067,"Ionia, MI",Michigan,3301,0,0,0,0,0,0,0.0
+26069,"Iosco, MI",Michigan,2591,2,0,0,0,2,0,0.772
+26071,"Iron, MI",Michigan,968,1,0,0,0,1,0,1.033
+26073,"Isabella, MI",Michigan,2819,2,1,0,0,1,0,0.709
+26075,"Jackson, MI",Michigan,8523,3,1,0,2,0,0,0.352
+26077,"Kalamazoo, MI",Michigan,11934,15,9,1,0,5,0,1.257
+26079,"Kalkaska, MI",Michigan,1414,1,0,0,0,1,0,0.707
+26081,"Kent, MI",Michigan,25155,28,11,1,7,9,0,1.113
+26083,"Keweenaw, MI",Michigan,213,2,0,0,0,2,0,9.39
+26085,"Lake, MI",Michigan,926,3,0,0,0,3,0,3.24
+26087,"Lapeer, MI",Michigan,5467,6,1,0,1,4,0,1.097
+26089,"Leelanau, MI",Michigan,1343,1,1,0,0,0,0,0.745
+26091,"Lenawee, MI",Michigan,5511,3,0,0,0,3,0,0.544
+26093,"Livingston, MI",Michigan,9366,9,4,1,3,1,0,0.961
+26095,"Luce, MI",Michigan,499,1,0,0,0,1,0,2.004
+26097,"Mackinac, MI",Michigan,895,3,0,1,0,2,0,3.352
+26099,"Macomb, MI",Michigan,34241,30,19,0,1,10,0,0.876
+26101,"Manistee, MI",Michigan,1735,3,0,0,0,3,0,1.729
+26103,"Marquette, MI",Michigan,4994,6,1,0,1,4,0,1.201
+26105,"Mason, MI",Michigan,1991,0,0,0,0,0,0,0.0
+26107,"Mecosta, MI",Michigan,2355,1,0,0,0,1,0,0.425
+26109,"Menominee, MI",Michigan,1978,4,0,0,1,3,0,2.022
+26111,"Midland, MI",Michigan,4582,4,1,0,0,3,0,0.873
+26113,"Missaukee, MI",Michigan,881,0,0,0,0,0,0,0.0
+26115,"Monroe, MI",Michigan,7888,6,1,0,2,3,0,0.761
+26117,"Montcalm, MI",Michigan,3785,4,0,0,0,4,0,1.057
+26119,"Montmorency, MI",Michigan,925,3,0,0,0,3,0,3.243
+26121,"Muskegon, MI",Michigan,9770,8,4,0,1,3,0,0.819
+26123,"Newaygo, MI",Michigan,3054,2,0,0,0,2,0,0.655
+26125,"Oakland, MI",Michigan,41721,70,52,1,3,14,0,1.678
+26127,"Oceana, MI",Michigan,1726,2,0,0,0,2,0,1.159
+26129,"Ogemaw, MI",Michigan,1714,2,0,0,0,2,0,1.167
+26131,"Ontonagon, MI",Michigan,690,1,0,0,0,1,0,1.449
+26133,"Osceola, MI",Michigan,1680,3,0,0,1,2,0,1.786
+26135,"Oscoda, MI",Michigan,702,1,0,0,0,1,0,1.425
+26137,"Otsego, MI",Michigan,1890,3,0,0,0,3,0,1.587
+26139,"Ottawa, MI",Michigan,10684,4,1,0,0,3,0,0.374
+26141,"Presque Isle, MI",Michigan,1147,2,0,0,0,2,0,1.744
+26143,"Roscommon, MI",Michigan,2292,4,0,0,2,2,0,1.745
+26145,"Saginaw, MI",Michigan,9501,6,5,0,1,0,0,0.632
+26147,"Saint Clair, MI",Michigan,9290,5,0,0,1,4,0,0.538
+26149,"Saint Joseph, MI",Michigan,3067,5,0,0,0,5,0,1.63
+26151,"Sanilac, MI",Michigan,2312,1,0,0,0,1,0,0.433
+26153,"Schoolcraft, MI",Michigan,624,3,0,0,0,3,0,4.808
+26155,"Shiawassee, MI",Michigan,4086,4,0,1,0,3,0,0.979
+26157,"Tuscola, MI",Michigan,2825,2,0,0,0,2,0,0.708
+26159,"Van Buren, MI",Michigan,3864,7,1,1,0,5,0,1.812
+26161,"Washtenaw, MI",Michigan,13017,17,7,1,1,8,0,1.306
+26163,"Wayne, MI",Michigan,68054,101,40,5,55,1,0,1.484
+26165,"Wexford, MI",Michigan,2335,3,0,0,1,2,0,1.285
+27001,"Aitkin, MN",Minnesota,1246,2,0,0,0,2,0,1.605
+27003,"Anoka, MN",Minnesota,17960,8,2,0,1,4,1,0.445
+27005,"Becker, MN",Minnesota,2387,2,0,0,0,2,0,0.838
+27007,"Beltrami, MN",Minnesota,2546,3,0,0,0,2,1,1.178
+27009,"Benton, MN",Minnesota,2207,1,0,0,0,1,0,0.453
+27011,"Big Stone, MN",Minnesota,282,1,0,0,0,1,0,3.546
+27013,"Blue Earth, MN",Minnesota,2789,5,1,0,0,4,0,1.793
+27015,"Brown, MN",Minnesota,1252,3,0,0,0,3,0,2.396
+27017,"Carlton, MN",Minnesota,2417,3,0,0,0,2,1,1.241
+27019,"Carver, MN",Minnesota,4009,3,0,0,0,3,0,0.748
+27021,"Cass, MN",Minnesota,2260,1,0,0,0,1,0,0.442
+27023,"Chippewa, MN",Minnesota,772,2,0,0,0,2,0,2.591
+27025,"Chisago, MN",Minnesota,3530,3,0,0,0,2,1,0.85
+27027,"Clay, MN",Minnesota,3196,4,0,0,0,3,1,1.252
+27029,"Clearwater, MN",Minnesota,592,2,0,1,0,1,0,3.378
+27031,"Cook, MN",Minnesota,285,1,0,0,0,1,0,3.509
+27033,"Cottonwood, MN",Minnesota,494,1,0,0,0,1,0,2.024
+27035,"Crow Wing, MN",Minnesota,4481,2,0,0,0,2,0,0.446
+27037,"Dakota, MN",Minnesota,20863,9,1,1,0,7,0,0.431
+27039,"Dodge, MN",Minnesota,971,2,0,0,0,2,0,2.06
+27041,"Douglas, MN",Minnesota,2296,3,0,0,1,1,1,1.307
+27043,"Faribault, MN",Minnesota,857,4,0,0,1,2,1,4.667
+27045,"Fillmore, MN",Minnesota,1094,4,0,0,0,1,3,3.656
+27047,"Freeborn, MN",Minnesota,1766,2,0,0,0,1,1,1.133
+27049,"Goodhue, MN",Minnesota,2691,5,0,0,0,2,3,1.858
+27051,"Grant, MN",Minnesota,343,1,0,0,0,1,0,2.915
+27053,"Hennepin, MN",Minnesota,45243,125,45,2,23,16,39,2.763
+27055,"Houston, MN",Minnesota,1026,2,0,0,0,1,1,1.949
+27057,"Hubbard, MN",Minnesota,1764,2,0,0,0,1,1,1.134
+27059,"Isanti, MN",Minnesota,2467,3,0,0,0,3,0,1.216
+27061,"Itasca, MN",Minnesota,3195,6,0,0,0,5,1,1.878
+27063,"Jackson, MN",Minnesota,573,2,0,0,1,0,1,3.49
+27065,"Kanabec, MN",Minnesota,1204,3,0,0,0,2,1,2.492
+27067,"Kandiyohi, MN",Minnesota,2041,2,0,0,0,1,1,0.98
+27069,"Kittson, MN",Minnesota,188,2,0,0,0,0,2,10.638
+27071,"Koochiching, MN",Minnesota,887,3,0,0,0,2,1,3.382
+27073,"Lac Qui Parle, MN",Minnesota,445,1,0,0,0,1,0,2.247
+27075,"Lake, MN",Minnesota,721,2,0,0,0,2,0,2.774
+27077,"Lake of the Woods, MN",Minnesota,272,1,0,0,0,0,1,3.676
+27079,"Le Sueur, MN",Minnesota,1498,3,0,0,0,1,2,2.003
+27081,"Lincoln, MN",Minnesota,335,1,0,0,0,1,0,2.985
+27083,"Lyon, MN",Minnesota,1292,2,1,0,0,1,0,1.548
+27085,"McLeod, MN",Minnesota,1928,3,0,0,0,3,0,1.556
+27087,"Mahnomen, MN",Minnesota,226,1,0,0,0,1,0,4.425
+27089,"Marshall, MN",Minnesota,473,0,0,0,0,0,0,0.0
+27091,"Martin, MN",Minnesota,1227,1,0,0,0,1,0,0.815
+27093,"Meeker, MN",Minnesota,1215,2,0,0,0,1,1,1.646
+27095,"Mille Lacs, MN",Minnesota,1813,3,0,0,0,2,1,1.655
+27097,"Morrison, MN",Minnesota,2546,7,0,0,0,4,3,2.749
+27099,"Mower, MN",Minnesota,1992,1,0,0,0,1,0,0.502
+27101,"Murray, MN",Minnesota,471,1,0,0,0,0,1,2.123
+27103,"Nicollet, MN",Minnesota,1574,3,0,0,0,3,0,1.906
+27105,"Nobles, MN",Minnesota,853,1,0,0,0,1,0,1.172
+27107,"Norman, MN",Minnesota,367,1,0,0,0,1,0,2.725
+27109,"Olmsted, MN",Minnesota,7984,4,0,0,0,4,0,0.501
+27111,"Otter Tail, MN",Minnesota,3694,5,0,0,0,5,0,1.354
+27113,"Pennington, MN",Minnesota,675,2,0,0,0,2,0,2.963
+27115,"Pine, MN",Minnesota,2137,3,0,0,0,3,0,1.404
+27117,"Pipestone, MN",Minnesota,430,1,0,0,0,1,0,2.326
+27119,"Polk, MN",Minnesota,1581,4,0,0,0,4,0,2.53
+27121,"Pope, MN",Minnesota,826,1,0,0,0,1,0,1.211
+27123,"Ramsey, MN",Minnesota,19939,27,2,0,3,5,17,1.354
+27125,"Red Lake, MN",Minnesota,240,0,0,0,0,0,0,0.0
+27127,"Redwood, MN",Minnesota,716,3,0,0,0,1,2,4.19
+27129,"Renville, MN",Minnesota,788,4,0,0,0,2,2,5.076
+27131,"Rice, MN",Minnesota,3392,1,0,0,0,1,0,0.295
+27133,"Rock, MN",Minnesota,486,1,0,0,0,1,0,2.058
+27135,"Roseau, MN",Minnesota,792,1,0,0,0,1,0,1.263
+27137,"Saint Louis, MN",Minnesota,12934,13,2,0,0,7,4,1.005
+27139,"Scott, MN",Minnesota,5926,3,0,0,0,1,2,0.506
+27141,"Sherburne, MN",Minnesota,5289,6,0,0,0,6,0,1.134
+27143,"Sibley, MN",Minnesota,813,2,0,0,0,2,0,2.46
+27145,"Stearns, MN",Minnesota,8805,14,0,0,1,6,7,1.59
+27147,"Steele, MN",Minnesota,1891,1,0,0,0,1,0,0.529
+27149,"Stevens, MN",Minnesota,331,0,0,0,0,0,0,0.0
+27151,"Swift, MN",Minnesota,522,2,0,0,0,1,1,3.831
+27153,"Todd, MN",Minnesota,1614,2,0,0,0,2,0,1.239
+27155,"Traverse, MN",Minnesota,214,1,0,0,0,0,1,4.673
+27157,"Wabasha, MN",Minnesota,1195,2,0,0,0,2,0,1.674
+27159,"Wadena, MN",Minnesota,841,2,0,0,0,2,0,2.378
+27161,"Waseca, MN",Minnesota,1004,2,0,0,0,2,0,1.992
+27163,"Washington, MN",Minnesota,12416,9,3,1,0,5,0,0.725
+27165,"Watonwan, MN",Minnesota,531,1,0,0,0,1,0,1.883
+27167,"Wilkin, MN",Minnesota,338,2,0,0,0,0,2,5.917
+27169,"Winona, MN",Minnesota,2285,4,0,0,0,3,1,1.751
+27171,"Wright, MN",Minnesota,6894,4,1,0,0,3,0,0.58
+27173,"Yellow Medicine, MN",Minnesota,557,2,0,0,0,1,1,3.591
+28001,"Adams, MS",Mississippi,1594,2,1,0,1,0,0,1.255
+28003,"Alcorn, MS",Mississippi,1613,1,0,0,0,1,0,0.62
+28005,"Amite, MS",Mississippi,654,0,0,0,0,0,0,0.0
+28007,"Attala, MS",Mississippi,868,2,0,0,2,0,0,2.304
+28009,"Benton, MS",Mississippi,338,1,0,0,1,0,0,2.959
+28011,"Bolivar, MS",Mississippi,1036,2,0,0,1,1,0,1.931
+28013,"Calhoun, MS",Mississippi,579,0,0,0,0,0,0,0.0
+28015,"Carroll, MS",Mississippi,379,0,0,0,0,0,0,0.0
+28017,"Chickasaw, MS",Mississippi,526,0,0,0,0,0,0,0.0
+28019,"Choctaw, MS",Mississippi,429,1,1,0,0,0,0,2.331
+28021,"Claiborne, MS",Mississippi,351,1,0,0,1,0,0,2.849
+28023,"Clarke, MS",Mississippi,812,0,0,0,0,0,0,0.0
+28025,"Clay, MS",Mississippi,946,0,0,0,0,0,0,0.0
+28027,"Coahoma, MS",Mississippi,846,1,1,0,0,0,0,1.182
+28029,"Copiah, MS",Mississippi,1267,0,0,0,0,0,0,0.0
+28031,"Covington, MS",Mississippi,1030,1,0,0,1,0,0,0.971
+28033,"De Soto, MS",Mississippi,11244,5,2,0,3,0,0,0.445
+28035,"Forrest, MS",Mississippi,5042,5,0,0,5,0,0,0.992
+28037,"Franklin, MS",Mississippi,480,0,0,0,0,0,0,0.0
+28039,"George, MS",Mississippi,1214,2,0,0,2,0,0,1.647
+28041,"Greene, MS",Mississippi,589,1,0,1,0,0,0,1.698
+28043,"Grenada, MS",Mississippi,1036,1,0,0,1,0,0,0.965
+28045,"Hancock, MS",Mississippi,3675,2,0,0,2,0,0,0.544
+28047,"Harrison, MS",Mississippi,26508,12,4,2,5,1,0,0.453
+28049,"Hinds, MS",Mississippi,12944,38,9,1,28,0,0,2.936
+28051,"Holmes, MS",Mississippi,597,1,0,0,0,1,0,1.675
+28053,"Humphreys, MS",Mississippi,297,0,0,0,0,0,0,0.0
+28055,"Issaquena, MS",Mississippi,42,0,0,0,0,0,0,0.0
+28057,"Itawamba, MS",Mississippi,1153,3,0,0,3,0,0,2.602
+28059,"Jackson, MS",Mississippi,12408,3,1,0,2,0,0,0.242
+28061,"Jasper, MS",Mississippi,850,1,0,0,1,0,0,1.176
+28063,"Jefferson, MS",Mississippi,192,0,0,0,0,0,0,0.0
+28065,"Jefferson Davis, MS",Mississippi,547,0,0,0,0,0,0,0.0
+28067,"Jones, MS",Mississippi,2955,1,0,0,1,0,0,0.338
+28069,"Kemper, MS",Mississippi,537,0,0,0,0,0,0,0.0
+28071,"Lafayette, MS",Mississippi,1934,8,4,0,4,0,0,4.137
+28073,"Lamar, MS",Mississippi,3966,3,1,0,2,0,0,0.756
+28075,"Lauderdale, MS",Mississippi,5207,4,2,1,1,0,0,0.768
+28077,"Lawrence, MS",Mississippi,644,1,0,0,1,0,0,1.553
+28079,"Leake, MS",Mississippi,1083,0,0,0,0,0,0,0.0
+28081,"Lee, MS",Mississippi,3932,4,3,0,1,0,0,1.017
+28083,"Leflore, MS",Mississippi,844,1,0,0,0,1,0,1.185
+28085,"Lincoln, MS",Mississippi,1493,2,1,0,1,0,0,1.34
+28087,"Lowndes, MS",Mississippi,4365,2,1,0,1,0,0,0.458
+28089,"Madison, MS",Mississippi,4711,4,3,0,1,0,0,0.849
+28091,"Marion, MS",Mississippi,1325,0,0,0,0,0,0,0.0
+28093,"Marshall, MS",Mississippi,1563,0,0,0,0,0,0,0.0
+28095,"Monroe, MS",Mississippi,1925,3,1,0,2,0,0,1.558
+28097,"Montgomery, MS",Mississippi,550,1,0,0,1,0,0,1.818
+28099,"Neshoba, MS",Mississippi,1466,0,0,0,0,0,0,0.0
+28101,"Newton, MS",Mississippi,1384,0,0,0,0,0,0,0.0
+28103,"Noxubee, MS",Mississippi,367,0,0,0,0,0,0,0.0
+28105,"Oktibbeha, MS",Mississippi,1851,2,0,0,1,1,0,1.08
+28107,"Panola, MS",Mississippi,1426,1,0,0,1,0,0,0.701
+28109,"Pearl River, MS",Mississippi,3855,3,1,0,1,1,0,0.778
+28111,"Perry, MS",Mississippi,790,1,0,0,1,0,0,1.266
+28113,"Pike, MS",Mississippi,2163,0,0,0,0,0,0,0.0
+28115,"Pontotoc, MS",Mississippi,1380,1,0,0,1,0,0,0.725
+28117,"Prentiss, MS",Mississippi,1183,1,0,0,1,0,0,0.845
+28119,"Quitman, MS",Mississippi,305,0,0,0,0,0,0,0.0
+28121,"Rankin, MS",Mississippi,9629,4,2,1,1,0,0,0.415
+28123,"Scott, MS",Mississippi,1063,1,0,0,1,0,0,0.941
+28125,"Sharkey, MS",Mississippi,140,0,0,0,0,0,0,0.0
+28127,"Simpson, MS",Mississippi,1368,0,0,0,0,0,0,0.0
+28129,"Smith, MS",Mississippi,628,1,0,0,1,0,0,1.592
+28131,"Stone, MS",Mississippi,1272,1,0,0,1,0,0,0.786
+28133,"Sunflower, MS",Mississippi,849,1,0,0,0,1,0,1.178
+28135,"Tallahatchie, MS",Mississippi,516,4,3,0,1,0,0,7.752
+28137,"Tate, MS",Mississippi,1408,1,0,0,1,0,0,0.71
+28139,"Tippah, MS",Mississippi,744,1,0,1,0,0,0,1.344
+28141,"Tishomingo, MS",Mississippi,877,1,0,0,1,0,0,1.14
+28143,"Tunica, MS",Mississippi,366,0,0,0,0,0,0,0.0
+28145,"Union, MS",Mississippi,1112,2,1,0,1,0,0,1.799
+28147,"Walthall, MS",Mississippi,570,1,0,0,1,0,0,1.754
+28149,"Warren, MS",Mississippi,2526,3,1,0,2,0,0,1.188
+28151,"Washington, MS",Mississippi,2051,0,0,0,0,0,0,0.0
+28153,"Wayne, MS",Mississippi,802,2,0,0,2,0,0,2.494
+28155,"Webster, MS",Mississippi,469,0,0,0,0,0,0,0.0
+28157,"Wilkinson, MS",Mississippi,327,0,0,0,0,0,0,0.0
+28159,"Winston, MS",Mississippi,1115,1,0,0,1,0,0,0.897
+28161,"Yalobusha, MS",Mississippi,734,1,0,0,1,0,0,1.362
+28163,"Yazoo, MS",Mississippi,1255,1,0,0,1,0,0,0.797
+29001,"Adair, MO",Missouri,1046,3,1,0,0,0,2,2.868
+29003,"Andrew, MO",Missouri,1107,0,0,0,0,0,0,0.0
+29005,"Atchison, MO",Missouri,337,0,0,0,0,0,0,0.0
+29007,"Audrain, MO",Missouri,1259,1,0,0,0,0,1,0.794
+29009,"Barry, MO",Missouri,2369,0,0,0,0,0,0,0.0
+29011,"Barton, MO",Missouri,588,0,0,0,0,0,0,0.0
+29013,"Bates, MO",Missouri,898,1,1,0,0,0,0,1.114
+29015,"Benton, MO",Missouri,1768,0,0,0,0,0,0,0.0
+29017,"Bollinger, MO",Missouri,716,0,0,0,0,0,0,0.0
+29019,"Boone, MO",Missouri,9397,21,9,1,4,0,7,2.235
+29021,"Buchanan, MO",Missouri,5215,3,1,0,0,0,2,0.575
+29023,"Butler, MO",Missouri,3547,3,0,0,2,0,1,0.846
+29025,"Caldwell, MO",Missouri,703,0,0,0,0,0,0,0.0
+29027,"Callaway, MO",Missouri,3206,0,0,0,0,0,0,0.0
+29029,"Camden, MO",Missouri,3618,1,0,0,0,0,1,0.276
+29031,"Cape Girardeau, MO",Missouri,4805,5,0,0,2,0,3,1.041
+29033,"Carroll, MO",Missouri,461,0,0,0,0,0,0,0.0
+29035,"Carter, MO",Missouri,446,0,0,0,0,0,0,0.0
+29037,"Cass, MO",Missouri,7404,0,0,0,0,0,0,0.0
+29039,"Cedar, MO",Missouri,1006,0,0,0,0,0,0,0.0
+29041,"Chariton, MO",Missouri,531,0,0,0,0,0,0,0.0
+29043,"Christian, MO",Missouri,5882,0,0,0,0,0,0,0.0
+29045,"Clark, MO",Missouri,307,0,0,0,0,0,0,0.0
+29047,"Clay, MO",Missouri,14348,4,3,0,1,0,0,0.279
+29049,"Clinton, MO",Missouri,1558,0,0,0,0,0,0,0.0
+29051,"Cole, MO",Missouri,5013,9,1,0,6,0,2,1.795
+29053,"Cooper, MO",Missouri,1001,0,0,0,0,0,0,0.0
+29055,"Crawford, MO",Missouri,1563,0,0,0,0,0,0,0.0
+29057,"Dade, MO",Missouri,467,0,0,0,0,0,0,0.0
+29059,"Dallas, MO",Missouri,1208,0,0,0,0,0,0,0.0
+29061,"Daviess, MO",Missouri,511,1,1,0,0,0,0,1.957
+29063,"De Kalb, MO",Missouri,676,2,0,0,0,0,2,2.959
+29065,"Dent, MO",Missouri,1195,0,0,0,0,0,0,0.0
+29067,"Douglas, MO",Missouri,792,0,0,0,0,0,0,0.0
+29069,"Dunklin, MO",Missouri,1516,0,0,0,0,0,0,0.0
+29071,"Franklin, MO",Missouri,5629,0,0,0,0,0,0,0.0
+29073,"Gasconade, MO",Missouri,836,1,1,0,0,0,0,1.196
+29075,"Gentry, MO",Missouri,337,0,0,0,0,0,0,0.0
+29077,"Greene, MO",Missouri,17994,17,8,1,5,0,3,0.945
+29079,"Grundy, MO",Missouri,569,0,0,0,0,0,0,0.0
+29081,"Harrison, MO",Missouri,451,0,0,0,0,0,0,0.0
+29083,"Henry, MO",Missouri,1727,0,0,0,0,0,0,0.0
+29085,"Hickory, MO",Missouri,756,0,0,0,0,0,0,0.0
+29087,"Holt, MO",Missouri,308,0,0,0,0,0,0,0.0
+29089,"Howard, MO",Missouri,593,0,0,0,0,0,0,0.0
+29091,"Howell, MO",Missouri,2855,2,1,0,0,0,1,0.701
+29093,"Iron, MO",Missouri,706,0,0,0,0,0,0,0.0
+29095,"Jackson, MO",Missouri,37924,37,21,0,12,0,4,0.976
+29097,"Jasper, MO",Missouri,6959,5,1,1,0,0,3,0.718
+29099,"Jefferson, MO",Missouri,14075,1,0,0,0,0,1,0.071
+29101,"Johnson, MO",Missouri,6485,2,0,0,0,0,2,0.308
+29103,"Knox, MO",Missouri,216,0,0,0,0,0,0,0.0
+29105,"Laclede, MO",Missouri,2765,1,0,0,0,0,1,0.362
+29107,"Lafayette, MO",Missouri,1985,0,0,0,0,0,0,0.0
+29109,"Lawrence, MO",Missouri,2472,0,0,0,0,0,0,0.0
+29111,"Lewis, MO",Missouri,586,1,1,0,0,0,0,1.706
+29113,"Lincoln, MO",Missouri,3372,0,0,0,0,0,0,0.0
+29115,"Linn, MO",Missouri,670,0,0,0,0,0,0,0.0
+29117,"Livingston, MO",Missouri,854,0,0,0,0,0,0,0.0
+29119,"McDonald, MO",Missouri,1339,0,0,0,0,0,0,0.0
+29121,"Macon, MO",Missouri,817,0,0,0,0,0,0,0.0
+29123,"Madison, MO",Missouri,992,0,0,0,0,0,0,0.0
+29125,"Maries, MO",Missouri,751,2,0,0,0,0,2,2.663
+29127,"Marion, MO",Missouri,1735,2,1,0,0,0,1,1.153
+29129,"Mercer, MO",Missouri,237,0,0,0,0,0,0,0.0
+29131,"Miller, MO",Missouri,1684,0,0,0,0,0,0,0.0
+29133,"Mississippi, MO",Missouri,549,0,0,0,0,0,0,0.0
+29135,"Moniteau, MO",Missouri,793,0,0,0,0,0,0,0.0
+29137,"Monroe, MO",Missouri,612,0,0,0,0,0,0,0.0
+29139,"Montgomery, MO",Missouri,807,0,0,0,0,0,0,0.0
+29141,"Morgan, MO",Missouri,1586,3,1,0,2,0,0,1.892
+29143,"New Madrid, MO",Missouri,950,0,0,0,0,0,0,0.0
+29145,"Newton, MO",Missouri,3879,1,1,0,0,0,0,0.258
+29147,"Nodaway, MO",Missouri,1015,0,0,0,0,0,0,0.0
+29149,"Oregon, MO",Missouri,669,0,0,0,0,0,0,0.0
+29151,"Osage, MO",Missouri,756,0,0,0,0,0,0,0.0
+29153,"Ozark, MO",Missouri,798,0,0,0,0,0,0,0.0
+29155,"Pemiscot, MO",Missouri,698,1,0,0,0,1,0,1.433
+29157,"Perry, MO",Missouri,1082,0,0,0,0,0,0,0.0
+29159,"Pettis, MO",Missouri,2975,1,0,0,0,0,1,0.336
+29161,"Phelps, MO",Missouri,3497,0,0,0,0,0,0,0.0
+29163,"Pike, MO",Missouri,906,1,0,0,1,0,0,1.104
+29165,"Platte, MO",Missouri,7074,1,0,1,0,0,0,0.141
+29167,"Polk, MO",Missouri,1829,0,0,0,0,0,0,0.0
+29169,"Pulaski, MO",Missouri,14192,3,0,0,0,0,3,0.211
+29171,"Putnam, MO",Missouri,251,0,0,0,0,0,0,0.0
+29173,"Ralls, MO",Missouri,638,0,0,0,0,0,0,0.0
+29175,"Randolph, MO",Missouri,1372,1,0,0,0,0,1,0.729
+29177,"Ray, MO",Missouri,1403,0,0,0,0,0,0,0.0
+29179,"Reynolds, MO",Missouri,510,0,0,0,0,0,0,0.0
+29181,"Ripley, MO",Missouri,891,1,1,0,0,0,0,1.122
+29183,"Saint Charles, MO",Missouri,21835,11,8,3,0,0,0,0.504
+29185,"Saint Clair, MO",Missouri,672,0,0,0,0,0,0,0.0
+29186,"Sainte Genevieve, MO",Missouri,1074,0,0,0,0,0,0,0.0
+29187,"St. Francois, MO",Missouri,4696,2,0,0,1,0,1,0.426
+29189,"Saint Louis, MO",Missouri,45718,68,36,1,22,2,7,1.487
+29195,"Saline, MO",Missouri,1068,0,0,0,0,0,0,0.0
+29197,"Schuyler, MO",Missouri,206,0,0,0,0,0,0,0.0
+29199,"Scotland, MO",Missouri,185,0,0,0,0,0,0,0.0
+29201,"Scott, MO",Missouri,2272,1,0,0,0,0,1,0.44
+29203,"Shannon, MO",Missouri,530,0,0,0,0,0,0,0.0
+29205,"Shelby, MO",Missouri,355,0,0,0,0,0,0,0.0
+29207,"Stoddard, MO",Missouri,2021,0,0,0,0,0,0,0.0
+29209,"Stone, MO",Missouri,2693,2,2,0,0,0,0,0.743
+29211,"Sullivan, MO",Missouri,317,0,0,0,0,0,0,0.0
+29213,"Taney, MO",Missouri,3937,1,0,0,0,0,1,0.254
+29215,"Texas, MO",Missouri,2248,1,0,0,1,0,0,0.445
+29217,"Vernon, MO",Missouri,981,1,0,0,0,0,1,1.019
+29219,"Warren, MO",Missouri,2502,0,0,0,0,0,0,0.0
+29221,"Washington, MO",Missouri,1556,0,0,0,0,0,0,0.0
+29223,"Wayne, MO",Missouri,957,0,0,0,0,0,0,0.0
+29225,"Webster, MO",Missouri,2763,0,0,0,0,0,0,0.0
+29227,"Worth, MO",Missouri,114,0,0,0,0,0,0,0.0
+29229,"Wright, MO",Missouri,1309,0,0,0,0,0,0,0.0
+29510,"Saint Louis City, MO",Missouri,15950,23,7,1,14,1,0,1.442
+30001,"Beaverhead, MT",Montana,695,0,0,0,0,0,0,0.0
+30003,"Big Horn, MT",Montana,571,0,0,0,0,0,0,0.0
+30005,"Blaine, MT",Montana,380,1,0,0,1,0,0,2.632
+30007,"Broadwater, MT",Montana,845,0,0,0,0,0,0,0.0
+30009,"Carbon, MT",Montana,816,0,0,0,0,0,0,0.0
+30011,"Carter, MT",Montana,68,0,0,0,0,0,0,0.0
+30013,"Cascade, MT",Montana,10376,8,4,0,4,0,0,0.771
+30015,"Chouteau, MT",Montana,360,0,0,0,0,0,0,0.0
+30017,"Custer, MT",Montana,852,1,0,0,1,0,0,1.174
+30019,"Daniels, MT",Montana,105,0,0,0,0,0,0,0.0
+30021,"Dawson, MT",Montana,568,0,0,0,0,0,0,0.0
+30023,"Deer Lodge, MT",Montana,825,0,0,0,0,0,0,0.0
+30025,"Fallon, MT",Montana,135,0,0,0,0,0,0,0.0
+30027,"Fergus, MT",Montana,913,0,0,0,0,0,0,0.0
+30029,"Flathead, MT",Montana,7803,4,1,0,3,0,0,0.513
+30031,"Gallatin, MT",Montana,6220,7,3,0,4,0,0,1.125
+30033,"Garfield, MT",Montana,50,0,0,0,0,0,0,0.0
+30035,"Glacier, MT",Montana,746,0,0,0,0,0,0,0.0
+30037,"Golden Valley, MT",Montana,81,0,0,0,0,0,0,0.0
+30039,"Granite, MT",Montana,327,0,0,0,0,0,0,0.0
+30041,"Hill, MT",Montana,912,1,0,0,1,0,0,1.096
+30043,"Jefferson, MT",Montana,1138,0,0,0,0,0,0,0.0
+30045,"Judith Basin, MT",Montana,167,0,0,0,0,0,0,0.0
+30047,"Lake, MT",Montana,2217,0,0,0,0,0,0,0.0
+30049,"Lewis and Clark, MT",Montana,6930,3,1,0,2,0,0,0.433
+30051,"Liberty, MT",Montana,149,0,0,0,0,0,0,0.0
+30053,"Lincoln, MT",Montana,2251,0,0,0,0,0,0,0.0
+30055,"McCone, MT",Montana,159,0,0,0,0,0,0,0.0
+30057,"Madison, MT",Montana,652,0,0,0,0,0,0,0.0
+30059,"Meagher, MT",Montana,190,0,0,0,0,0,0,0.0
+30061,"Mineral, MT",Montana,530,0,0,0,0,0,0,0.0
+30063,"Missoula, MT",Montana,9025,9,6,0,2,1,0,0.997
+30065,"Musselshell, MT",Montana,435,0,0,0,0,0,0,0.0
+30067,"Park, MT",Montana,1226,0,0,0,0,0,0,0.0
+30069,"Petroleum, MT",Montana,37,0,0,0,0,0,0,0.0
+30071,"Phillips, MT",Montana,219,0,0,0,0,0,0,0.0
+30073,"Pondera, MT",Montana,339,0,0,0,0,0,0,0.0
+30075,"Powder River, MT",Montana,104,0,0,0,0,0,0,0.0
+30077,"Powell, MT",Montana,690,0,0,0,0,0,0,0.0
+30079,"Prairie, MT",Montana,98,0,0,0,0,0,0,0.0
+30081,"Ravalli, MT",Montana,3739,6,2,0,0,4,0,1.605
+30083,"Richland, MT",Montana,576,0,0,0,0,0,0,0.0
+30085,"Roosevelt, MT",Montana,635,0,0,0,0,0,0,0.0
+30087,"Rosebud, MT",Montana,588,0,0,0,0,0,0,0.0
+30089,"Sanders, MT",Montana,1398,0,0,0,0,0,0,0.0
+30091,"Sheridan, MT",Montana,243,0,0,0,0,0,0,0.0
+30093,"Silver Bow, MT",Montana,2718,1,0,0,1,0,0,0.368
+30095,"Stillwater, MT",Montana,771,0,0,0,0,0,0,0.0
+30097,"Sweet Grass, MT",Montana,265,0,0,0,0,0,0,0.0
+30099,"Teton, MT",Montana,401,0,0,0,0,0,0,0.0
+30101,"Toole, MT",Montana,402,0,0,0,0,0,0,0.0
+30103,"Treasure, MT",Montana,43,0,0,0,0,0,0,0.0
+30105,"Valley, MT",Montana,514,0,0,0,0,0,0,0.0
+30107,"Wheatland, MT",Montana,167,0,0,0,0,0,0,0.0
+30109,"Wibaux, MT",Montana,62,0,0,0,0,0,0,0.0
+30111,"Yellowstone, MT",Montana,11830,5,1,0,4,0,0,0.423
+31001,"Adams, NE",Nebraska,1579,2,0,1,0,1,0,1.267
+31003,"Antelope, NE",Nebraska,347,1,0,0,0,1,0,2.882
+31005,"Arthur, NE",Nebraska,29,0,0,0,0,0,0,0.0
+31007,"Banner, NE",Nebraska,38,0,0,0,0,0,0,0.0
+31009,"Blaine, NE",Nebraska,61,0,0,0,0,0,0,0.0
+31011,"Boone, NE",Nebraska,267,2,0,0,0,2,0,7.491
+31013,"Box Butte, NE",Nebraska,556,1,0,0,0,1,0,1.799
+31015,"Boyd, NE",Nebraska,142,0,0,0,0,0,0,0.0
+31017,"Brown, NE",Nebraska,160,2,0,0,1,1,0,12.5
+31019,"Buffalo, NE",Nebraska,2511,7,0,4,0,3,0,2.788
+31021,"Burt, NE",Nebraska,434,1,0,0,0,1,0,2.304
+31023,"Butler, NE",Nebraska,451,1,0,0,0,1,0,2.217
+31025,"Cass, NE",Nebraska,2407,1,0,0,0,1,0,0.415
+31027,"Cedar, NE",Nebraska,435,1,0,0,0,1,0,2.299
+31029,"Chase, NE",Nebraska,150,1,0,0,0,1,0,6.667
+31031,"Cherry, NE",Nebraska,278,1,0,0,0,1,0,3.597
+31033,"Cheyenne, NE",Nebraska,623,1,0,0,0,1,0,1.605
+31035,"Clay, NE",Nebraska,317,0,0,0,0,0,0,0.0
+31037,"Colfax, NE",Nebraska,300,0,0,0,0,0,0,0.0
+31039,"Cuming, NE",Nebraska,393,2,0,0,1,1,0,5.089
+31041,"Custer, NE",Nebraska,597,1,0,0,1,0,0,1.675
+31043,"Dakota, NE",Nebraska,727,1,0,0,0,1,0,1.376
+31045,"Dawes, NE",Nebraska,555,1,0,0,0,1,0,1.802
+31047,"Dawson, NE",Nebraska,848,2,0,0,0,2,0,2.358
+31049,"Deuel, NE",Nebraska,155,1,0,0,0,1,0,6.452
+31051,"Dixon, NE",Nebraska,347,0,0,0,0,0,0,0.0
+31053,"Dodge, NE",Nebraska,2257,1,0,0,0,1,0,0.443
+31055,"Douglas, NE",Nebraska,28122,33,24,1,1,7,0,1.173
+31057,"Dundy, NE",Nebraska,81,0,0,0,0,0,0,0.0
+31059,"Fillmore, NE",Nebraska,353,1,0,0,0,1,0,2.833
+31061,"Franklin, NE",Nebraska,161,0,0,0,0,0,0,0.0
+31063,"Frontier, NE",Nebraska,117,0,0,0,0,0,0,0.0
+31065,"Furnas, NE",Nebraska,326,0,0,0,0,0,0,0.0
+31067,"Gage, NE",Nebraska,1268,3,0,0,0,3,0,2.366
+31069,"Garden, NE",Nebraska,151,0,0,0,0,0,0,0.0
+31071,"Garfield, NE",Nebraska,101,1,0,0,0,1,0,9.901
+31073,"Gosper, NE",Nebraska,114,1,0,0,0,1,0,8.772
+31075,"Grant, NE",Nebraska,28,0,0,0,0,0,0,0.0
+31077,"Greeley, NE",Nebraska,173,0,0,0,0,0,0,0.0
+31079,"Hall, NE",Nebraska,2669,3,0,0,0,3,0,1.124
+31081,"Hamilton, NE",Nebraska,581,1,0,0,0,1,0,1.721
+31083,"Harlan, NE",Nebraska,195,1,0,0,0,1,0,5.128
+31085,"Hayes, NE",Nebraska,59,0,0,0,0,0,0,0.0
+31087,"Hitchcock, NE",Nebraska,158,1,0,0,0,1,0,6.329
+31089,"Holt, NE",Nebraska,551,1,0,0,0,1,0,1.815
+31091,"Hooker, NE",Nebraska,28,0,0,0,0,0,0,0.0
+31093,"Howard, NE",Nebraska,332,0,0,0,0,0,0,0.0
+31095,"Jefferson, NE",Nebraska,411,1,0,0,0,1,0,2.433
+31097,"Johnson, NE",Nebraska,279,1,0,0,0,1,0,3.584
+31099,"Kearney, NE",Nebraska,312,1,0,0,0,1,0,3.205
+31101,"Keith, NE",Nebraska,526,1,0,0,0,1,0,1.901
+31103,"Keya Paha, NE",Nebraska,60,0,0,0,0,0,0,0.0
+31105,"Kimball, NE",Nebraska,238,1,0,0,0,1,0,4.202
+31107,"Knox, NE",Nebraska,507,2,0,0,0,2,0,3.945
+31109,"Lancaster, NE",Nebraska,16462,85,46,6,4,14,15,5.163
+31111,"Lincoln, NE",Nebraska,2316,2,0,0,0,2,0,0.864
+31113,"Logan, NE",Nebraska,48,2,0,0,0,2,0,41.667
+31115,"Loup, NE",Nebraska,39,0,0,0,0,0,0,0.0
+31117,"McPherson, NE",Nebraska,35,0,0,0,0,0,0,0.0
+31119,"Madison, NE",Nebraska,1702,1,0,0,0,1,0,0.588
+31121,"Merrick, NE",Nebraska,436,2,0,1,0,1,0,4.587
+31123,"Morrill, NE",Nebraska,272,2,0,0,0,2,0,7.353
+31125,"Nance, NE",Nebraska,196,0,0,0,0,0,0,0.0
+31127,"Nemaha, NE",Nebraska,484,3,1,0,0,2,0,6.198
+31129,"Nuckolls, NE",Nebraska,292,1,0,0,0,1,0,3.425
+31131,"Otoe, NE",Nebraska,976,2,0,0,0,2,0,2.049
+31133,"Pawnee, NE",Nebraska,152,1,0,0,0,1,0,6.579
+31135,"Perkins, NE",Nebraska,189,2,0,0,0,2,0,10.582
+31137,"Phelps, NE",Nebraska,538,1,0,0,0,1,0,1.859
+31139,"Pierce, NE",Nebraska,381,1,0,0,0,1,0,2.625
+31141,"Platte, NE",Nebraska,1302,2,0,0,0,2,0,1.536
+31143,"Polk, NE",Nebraska,302,2,0,0,0,2,0,6.623
+31145,"Red Willow, NE",Nebraska,565,1,0,0,0,1,0,1.77
+31147,"Richardson, NE",Nebraska,524,2,0,0,0,2,0,3.817
+31149,"Rock, NE",Nebraska,64,0,0,0,0,0,0,0.0
+31151,"Saline, NE",Nebraska,562,1,0,0,0,1,0,1.779
+31153,"Sarpy, NE",Nebraska,20998,14,3,1,0,9,1,0.667
+31155,"Saunders, NE",Nebraska,1248,0,0,0,0,0,0,0.0
+31157,"Scotts Bluff, NE",Nebraska,1983,4,1,0,0,3,0,2.017
+31159,"Seward, NE",Nebraska,992,2,0,0,0,2,0,2.016
+31161,"Sheridan, NE",Nebraska,364,1,0,0,0,1,0,2.747
+31163,"Sherman, NE",Nebraska,158,0,0,0,0,0,0,0.0
+31165,"Sioux, NE",Nebraska,78,0,0,0,0,0,0,0.0
+31167,"Stanton, NE",Nebraska,342,1,0,0,0,1,0,2.924
+31169,"Thayer, NE",Nebraska,284,0,0,0,0,0,0,0.0
+31171,"Thomas, NE",Nebraska,44,0,0,0,0,0,0,0.0
+31173,"Thurston, NE",Nebraska,294,0,0,0,0,0,0,0.0
+31175,"Valley, NE",Nebraska,244,0,0,0,0,0,0,0.0
+31177,"Washington, NE",Nebraska,1166,2,1,0,0,1,0,1.715
+31179,"Wayne, NE",Nebraska,427,1,0,0,0,1,0,2.342
+31181,"Webster, NE",Nebraska,179,1,0,0,0,1,0,5.587
+31183,"Wheeler, NE",Nebraska,57,0,0,0,0,0,0,0.0
+31185,"York, NE",Nebraska,764,3,0,0,0,3,0,3.927
+32001,"Churchill, NV",Nevada,3322,6,0,0,5,0,1,1.806
+32003,"Clark, NV",Nevada,145847,70,35,10,17,3,5,0.48
+32005,"Douglas, NV",Nevada,4155,0,0,0,0,0,0,0.0
+32007,"Elko, NV",Nevada,2699,3,0,0,1,1,1,1.112
+32009,"Esmeralda, NV",Nevada,76,0,0,0,0,0,0,0.0
+32011,"Eureka, NV",Nevada,105,0,0,0,0,0,0,0.0
+32013,"Humboldt, NV",Nevada,1045,1,0,0,0,0,1,0.957
+32015,"Lander, NV",Nevada,323,0,0,0,0,0,0,0.0
+32017,"Lincoln, NV",Nevada,313,0,0,0,0,0,0,0.0
+32019,"Lyon, NV",Nevada,5683,0,0,0,0,0,0,0.0
+32021,"Mineral, NV",Nevada,425,0,0,0,0,0,0,0.0
+32023,"Nye, NV",Nevada,6137,1,0,0,1,0,0,0.163
+32027,"Pershing, NV",Nevada,375,0,0,0,0,0,0,0.0
+32029,"Storey, NV",Nevada,472,0,0,0,0,0,0,0.0
+32031,"Washoe, NV",Nevada,29864,17,3,1,9,0,4,0.569
+32033,"White Pine, NV",Nevada,637,1,0,0,1,0,0,1.57
+32510,"Carson City, NV",Nevada,3982,0,0,0,0,0,0,0.0
+33001,"Belknap, NH",New Hampshire,5020,1,1,0,0,0,0,0.199
+33003,"Carroll, NH",New Hampshire,3686,1,0,0,1,0,0,0.271
+33005,"Cheshire, NH",New Hampshire,4374,0,0,0,0,0,0,0.0
+33007,"Coos, NH",New Hampshire,2471,0,0,0,0,0,0,0.0
+33009,"Grafton, NH",New Hampshire,5495,1,1,0,0,0,0,0.182
+33011,"Hillsborough, NH",New Hampshire,24882,27,9,1,17,0,0,1.085
+33013,"Merrimack, NH",New Hampshire,9901,7,5,1,1,0,0,0.707
+33015,"Rockingham, NH",New Hampshire,19545,6,6,0,0,0,0,0.307
+33017,"Strafford, NH",New Hampshire,8441,1,1,0,0,0,0,0.118
+33019,"Sullivan, NH",New Hampshire,2910,0,0,0,0,0,0,0.0
+34001,"Atlantic, NJ",New Jersey,11643,8,1,1,1,4,1,0.687
+34003,"Bergen, NJ",New Jersey,18943,20,12,1,0,5,2,1.056
+34005,"Burlington, NJ",New Jersey,25745,14,5,2,0,4,3,0.544
+34007,"Camden, NJ",New Jersey,19058,24,17,0,3,4,0,1.259
+34009,"Cape May, NJ",New Jersey,12802,7,1,0,1,5,0,0.547
+34011,"Cumberland, NJ",New Jersey,5443,8,1,0,0,6,1,1.47
+34013,"Essex, NJ",New Jersey,17612,22,14,0,5,0,3,1.249
+34015,"Gloucester, NJ",New Jersey,13233,11,5,1,1,3,1,0.831
+34017,"Hudson, NJ",New Jersey,11578,7,6,0,0,0,1,0.605
+34019,"Hunterdon, NJ",New Jersey,4163,3,2,0,0,1,0,0.721
+34021,"Mercer, NJ",New Jersey,9171,26,11,1,3,4,7,2.835
+34023,"Middlesex, NJ",New Jersey,18747,7,4,0,0,1,2,0.373
+34025,"Monmouth, NJ",New Jersey,19406,15,5,0,1,8,1,0.773
+34027,"Morris, NJ",New Jersey,13489,18,11,1,0,6,0,1.334
+34029,"Ocean, NJ",New Jersey,27101,14,3,1,0,9,1,0.517
+34031,"Passaic, NJ",New Jersey,10045,5,1,0,0,4,0,0.498
+34033,"Salem, NJ",New Jersey,3621,4,1,0,0,2,1,1.105
+34035,"Somerset, NJ",New Jersey,8459,12,6,0,0,4,2,1.419
+34037,"Sussex, NJ",New Jersey,5480,6,4,1,0,0,1,1.095
+34039,"Union, NJ",New Jersey,13592,11,6,1,1,2,1,0.809
+34041,"Warren, NJ",New Jersey,4627,11,6,1,0,3,1,2.377
+35001,"Bernalillo, NM",New Mexico,55401,39,18,0,10,11,0,0.704
+35003,"Catron, NM",New Mexico,417,0,0,0,0,0,0,0.0
+35005,"Chaves, NM",New Mexico,3281,2,0,0,0,2,0,0.61
+35006,"Cibola, NM",New Mexico,1476,2,0,0,0,2,0,1.355
+35007,"Colfax, NM",New Mexico,880,0,0,0,0,0,0,0.0
+35009,"Curry, NM",New Mexico,4592,2,0,0,0,2,0,0.436
+35011,"De Baca, NM",New Mexico,103,0,0,0,0,0,0,0.0
+35013,"Dona Ana, NM",New Mexico,13823,4,1,0,0,3,0,0.289
+35015,"Eddy, NM",New Mexico,2931,0,0,0,0,0,0,0.0
+35017,"Grant, NM",New Mexico,2132,2,0,0,1,1,0,0.938
+35019,"Guadalupe, NM",New Mexico,200,0,0,0,0,0,0,0.0
+35021,"Harding, NM",New Mexico,56,0,0,0,0,0,0,0.0
+35023,"Hidalgo, NM",New Mexico,256,0,0,0,0,0,0,0.0
+35025,"Lea, NM",New Mexico,2156,1,0,0,0,1,0,0.464
+35027,"Lincoln, NM",New Mexico,1366,1,1,0,0,0,0,0.732
+35028,"Los Alamos, NM",New Mexico,1035,0,0,0,0,0,0,0.0
+35029,"Luna, NM",New Mexico,1359,0,0,0,0,0,0,0.0
+35031,"McKinley, NM",New Mexico,2392,8,0,0,0,8,0,3.344
+35033,"Mora, NM",New Mexico,304,0,0,0,0,0,0,0.0
+35035,"Otero, NM",New Mexico,8077,2,0,0,0,2,0,0.248
+35037,"Quay, NM",New Mexico,536,0,0,0,0,0,0,0.0
+35039,"Rio Arriba, NM",New Mexico,1869,1,0,0,0,1,0,0.535
+35041,"Roosevelt, NM",New Mexico,875,0,0,0,0,0,0,0.0
+35043,"Sandoval, NM",New Mexico,12570,4,1,1,0,1,1,0.318
+35045,"San Juan, NM",New Mexico,6432,3,0,0,0,1,2,0.466
+35047,"San Miguel, NM",New Mexico,1598,2,0,0,0,1,1,1.252
+35049,"Santa Fe, NM",New Mexico,8697,4,1,0,0,2,1,0.46
+35051,"Sierra, NM",New Mexico,1091,1,1,0,0,0,0,0.917
+35053,"Socorro, NM",New Mexico,1129,0,0,0,0,0,0,0.0
+35055,"Taos, NM",New Mexico,2090,1,0,0,0,1,0,0.478
+35057,"Torrance, NM",New Mexico,1097,0,0,0,0,0,0,0.0
+35059,"Union, NM",New Mexico,261,0,0,0,0,0,0,0.0
+35061,"Valencia, NM",New Mexico,5502,1,0,0,0,1,0,0.182
+36001,"Albany, NY",New York,13598,30,7,1,6,0,16,2.206
+36003,"Allegany, NY",New York,2881,4,0,0,2,2,0,1.388
+36005,"Bronx, NY",New York,22834,7,4,0,1,0,2,0.307
+36007,"Broome, NY",New York,9283,4,0,0,1,0,3,0.431
+36009,"Cattaraugus, NY",New York,5005,2,0,0,0,0,2,0.4
+36011,"Cayuga, NY",New York,4440,3,0,0,0,1,2,0.676
+36013,"Chautauqua, NY",New York,7240,3,0,0,0,0,3,0.414
+36015,"Chemung, NY",New York,5099,4,0,0,0,0,4,0.784
+36017,"Chenango, NY",New York,2810,1,0,0,0,0,1,0.356
+36019,"Clinton, NY",New York,5145,3,0,0,2,0,1,0.583
+36021,"Columbia, NY",New York,2824,2,0,0,0,0,2,0.708
+36023,"Cortland, NY",New York,2261,2,0,0,1,0,1,0.885
+36025,"Delaware, NY",New York,2289,1,0,0,1,0,0,0.437
+36027,"Dutchess, NY",New York,11589,12,3,0,2,0,7,1.035
+36029,"Erie, NY",New York,44368,61,28,2,15,0,16,1.375
+36031,"Essex, NY",New York,2251,1,0,0,0,0,1,0.444
+36033,"Franklin, NY",New York,2868,0,0,0,0,0,0,0.0
+36035,"Fulton, NY",New York,3125,1,0,0,0,0,1,0.32
+36037,"Genesee, NY",New York,3365,3,0,0,0,0,3,0.892
+36039,"Greene, NY",New York,2686,3,0,0,3,0,0,1.117
+36041,"Hamilton, NY",New York,330,0,0,0,0,0,0,0.0
+36043,"Herkimer, NY",New York,3521,1,0,0,0,0,1,0.284
+36045,"Jefferson, NY",New York,14398,8,0,0,1,0,7,0.556
+36047,"Kings, NY",New York,38317,16,9,0,0,0,7,0.418
+36049,"Lewis, NY",New York,1653,0,0,0,0,0,0,0.0
+36051,"Livingston, NY",New York,3094,3,0,0,0,1,2,0.97
+36053,"Madison, NY",New York,4104,3,0,0,1,0,2,0.731
+36055,"Monroe, NY",New York,28998,21,9,1,1,1,9,0.724
+36057,"Montgomery, NY",New York,2567,3,1,0,0,2,0,1.169
+36059,"Nassau, NY",New York,28757,28,14,2,4,7,1,0.974
+36061,"New York, NY",New York,24651,301,271,1,15,0,14,12.21
+36063,"Niagara, NY",New York,13339,7,2,0,3,2,0,0.525
+36065,"Oneida, NY",New York,12796,8,3,0,2,0,3,0.625
+36067,"Onondaga, NY",New York,22180,15,7,0,1,2,5,0.676
+36069,"Ontario, NY",New York,6004,4,0,0,0,0,4,0.666
+36071,"Orange, NY",New York,16400,13,7,3,2,1,0,0.793
+36073,"Orleans, NY",New York,2231,3,0,0,1,0,2,1.345
+36075,"Oswego, NY",New York,7833,5,1,0,1,0,3,0.638
+36077,"Otsego, NY",New York,3179,4,0,0,1,0,3,1.258
+36079,"Putnam, NY",New York,3646,4,1,0,2,0,1,1.097
+36081,"Queens, NY",New York,34503,13,5,0,2,0,6,0.377
+36083,"Rensselaer, NY",New York,8211,3,0,0,1,0,2,0.365
+36085,"Richmond, NY",New York,11071,4,2,0,1,0,1,0.361
+36087,"Rockland, NY",New York,6141,8,4,0,4,0,0,1.303
+36089,"Saint Lawrence, NY",New York,5845,6,0,0,1,0,5,1.027
+36091,"Saratoga, NY",New York,13747,7,0,0,1,2,4,0.509
+36093,"Schenectady, NY",New York,6940,7,2,0,2,0,3,1.009
+36095,"Schoharie, NY",New York,1771,1,0,0,1,0,0,0.565
+36097,"Schuyler, NY",New York,1117,4,0,0,1,2,1,3.581
+36099,"Seneca, NY",New York,2001,3,0,0,1,1,1,1.499
+36101,"Steuben, NY",New York,6544,8,2,0,1,0,5,1.222
+36103,"Suffolk, NY",New York,44985,49,35,2,9,0,3,1.089
+36105,"Sullivan, NY",New York,3470,6,1,0,1,4,0,1.729
+36107,"Tioga, NY",New York,2853,3,0,0,0,3,0,1.052
+36109,"Tompkins, NY",New York,3398,4,2,0,0,1,1,1.177
+36111,"Ulster, NY",New York,7566,4,0,0,1,0,3,0.529
+36113,"Warren, NY",New York,4392,2,0,0,1,1,0,0.455
+36115,"Washington, NY",New York,3570,4,0,0,2,1,1,1.12
+36117,"Wayne, NY",New York,4768,5,1,0,1,0,3,1.049
+36119,"Westchester, NY",New York,20929,31,16,2,8,0,5,1.481
+36121,"Wyoming, NY",New York,2212,2,0,0,2,0,0,0.904
+36123,"Yates, NY",New York,1306,2,0,0,0,0,2,1.531
+37001,"Alamance, NC",North Carolina,9265,5,1,0,2,2,0,0.54
+37003,"Alexander, NC",North Carolina,1808,0,0,0,0,0,0,0.0
+37005,"Alleghany, NC",North Carolina,691,0,0,0,0,0,0,0.0
+37007,"Anson, NC",North Carolina,1303,1,0,0,0,1,0,0.767
+37009,"Ashe, NC",North Carolina,1584,2,0,0,2,0,0,1.263
+37011,"Avery, NC",North Carolina,922,1,0,0,0,1,0,1.085
+37013,"Beaufort, NC",North Carolina,3227,1,0,0,1,0,0,0.31
+37015,"Bertie, NC",North Carolina,861,1,0,0,0,1,0,1.161
+37017,"Bladen, NC",North Carolina,1998,4,2,0,1,1,0,2.002
+37019,"Brunswick, NC",North Carolina,14714,9,2,2,4,1,0,0.612
+37021,"Buncombe, NC",North Carolina,15313,15,9,0,5,1,0,0.98
+37023,"Burke, NC",North Carolina,5541,4,0,0,4,0,0,0.722
+37025,"Cabarrus, NC",North Carolina,11587,10,2,0,4,4,0,0.863
+37027,"Caldwell, NC",North Carolina,4339,4,1,0,1,2,0,0.922
+37029,"Camden, NC",North Carolina,1238,0,0,0,0,0,0,0.0
+37031,"Carteret, NC",North Carolina,7461,5,1,0,1,3,0,0.67
+37033,"Caswell, NC",North Carolina,1275,0,0,0,0,0,0,0.0
+37035,"Catawba, NC",North Carolina,8727,7,1,1,5,0,0,0.802
+37037,"Chatham, NC",North Carolina,3683,4,1,1,2,0,0,1.086
+37039,"Cherokee, NC",North Carolina,2708,2,0,0,0,2,0,0.739
+37041,"Chowan, NC",North Carolina,947,1,0,0,1,0,0,1.056
+37043,"Clay, NC",North Carolina,795,1,0,0,1,0,0,1.258
+37045,"Cleveland, NC",North Carolina,5191,5,2,1,0,2,0,0.963
+37047,"Columbus, NC",North Carolina,2772,2,0,0,2,0,0,0.722
+37049,"Craven, NC",North Carolina,14087,3,0,0,1,2,0,0.213
+37051,"Cumberland, NC",North Carolina,57282,20,5,5,9,1,0,0.349
+37053,"Currituck, NC",North Carolina,3352,1,0,0,1,0,0,0.298
+37055,"Dare, NC",North Carolina,2565,2,1,0,1,0,0,0.78
+37057,"Davidson, NC",North Carolina,9773,1,0,0,1,0,0,0.102
+37059,"Davie, NC",North Carolina,2634,1,0,0,0,1,0,0.38
+37061,"Duplin, NC",North Carolina,2733,5,0,0,5,0,0,1.829
+37063,"Durham, NC",North Carolina,13655,28,18,2,6,1,1,2.051
+37065,"Edgecombe, NC",North Carolina,2708,1,0,0,1,0,0,0.369
+37067,"Forsyth, NC",North Carolina,18287,39,8,1,30,0,0,2.133
+37069,"Franklin, NC",North Carolina,4686,2,0,0,0,2,0,0.427
+37071,"Gaston, NC",North Carolina,13048,5,1,0,1,3,0,0.383
+37073,"Gates, NC",North Carolina,908,0,0,0,0,0,0,0.0
+37075,"Graham, NC",North Carolina,311,0,0,0,0,0,0,0.0
+37077,"Granville, NC",North Carolina,3344,3,0,0,1,2,0,0.897
+37079,"Greene, NC",North Carolina,828,2,0,0,2,0,0,2.415
+37081,"Guilford, NC",North Carolina,26688,32,19,5,7,1,0,1.199
+37083,"Halifax, NC",North Carolina,2467,1,0,0,1,0,0,0.405
+37085,"Harnett, NC",North Carolina,13973,10,3,0,3,4,0,0.716
+37087,"Haywood, NC",North Carolina,4693,4,0,0,3,1,0,0.852
+37089,"Henderson, NC",North Carolina,7889,7,3,0,4,0,0,0.887
+37091,"Hertford, NC",North Carolina,1251,1,0,0,1,0,0,0.799
+37093,"Hoke, NC",North Carolina,8516,2,0,1,0,1,0,0.235
+37095,"Hyde, NC",North Carolina,197,0,0,0,0,0,0,0.0
+37097,"Iredell, NC",North Carolina,10407,5,2,0,3,0,0,0.48
+37099,"Jackson, NC",North Carolina,2193,2,0,0,1,1,0,0.912
+37101,"Johnston, NC",North Carolina,13696,5,2,0,0,3,0,0.365
+37103,"Jones, NC",North Carolina,909,2,0,0,0,2,0,2.2
+37105,"Lee, NC",North Carolina,4061,3,1,0,2,0,0,0.739
+37107,"Lenoir, NC",North Carolina,4086,9,3,0,6,0,0,2.203
+37109,"Lincoln, NC",North Carolina,5010,2,0,0,2,0,0,0.399
+37111,"McDowell, NC",North Carolina,3064,1,0,0,1,0,0,0.326
+37113,"Macon, NC",North Carolina,3248,3,1,0,2,0,0,0.924
+37115,"Madison, NC",North Carolina,1289,1,0,0,1,0,0,0.776
+37117,"Martin, NC",North Carolina,1230,1,0,0,0,1,0,0.813
+37119,"Mecklenburg, NC",North Carolina,47280,74,43,8,10,13,0,1.565
+37121,"Mitchell, NC",North Carolina,1063,1,0,0,1,0,0,0.941
+37123,"Montgomery, NC",North Carolina,1332,1,0,0,1,0,0,0.751
+37125,"Moore, NC",North Carolina,11329,12,5,1,0,6,0,1.059
+37127,"Nash, NC",North Carolina,5566,2,0,0,2,0,0,0.359
+37129,"New Hanover, NC",North Carolina,14955,18,6,3,5,4,0,1.204
+37131,"Northampton, NC",North Carolina,955,1,0,0,1,0,0,1.047
+37133,"Onslow, NC",North Carolina,40487,26,8,2,16,0,0,0.642
+37135,"Orange, NC",North Carolina,5473,5,3,0,2,0,0,0.914
+37137,"Pamlico, NC",North Carolina,1120,2,0,0,2,0,0,1.786
+37139,"Pasquotank, NC",North Carolina,3736,7,2,0,5,0,0,1.874
+37141,"Pender, NC",North Carolina,4994,4,0,0,1,3,0,0.801
+37143,"Perquimans, NC",North Carolina,1190,1,0,0,1,0,0,0.84
+37145,"Person, NC",North Carolina,2249,1,0,0,1,0,0,0.445
+37147,"Pitt, NC",North Carolina,10037,8,3,0,2,3,0,0.797
+37149,"Polk, NC",North Carolina,1378,0,0,0,0,0,0,0.0
+37151,"Randolph, NC",North Carolina,7042,5,0,0,1,4,0,0.71
+37153,"Richmond, NC",North Carolina,2451,1,0,0,0,1,0,0.408
+37155,"Robeson, NC",North Carolina,6500,5,1,0,2,2,0,0.769
+37157,"Rockingham, NC",North Carolina,5189,2,0,1,1,0,0,0.385
+37159,"Rowan, NC",North Carolina,9091,7,1,0,1,5,0,0.77
+37161,"Rutherford, NC",North Carolina,3915,4,1,0,3,0,0,1.022
+37163,"Sampson, NC",North Carolina,2958,2,0,0,0,2,0,0.676
+37165,"Scotland, NC",North Carolina,1972,3,0,0,2,1,0,1.521
+37167,"Stanly, NC",North Carolina,3140,2,0,0,2,0,0,0.637
+37169,"Stokes, NC",North Carolina,2698,2,1,0,1,0,0,0.741
+37171,"Surry, NC",North Carolina,3403,4,1,0,0,3,0,1.175
+37173,"Swain, NC",North Carolina,905,1,1,0,0,0,0,1.105
+37175,"Transylvania, NC",North Carolina,2727,1,0,0,1,0,0,0.367
+37177,"Tyrrell, NC",North Carolina,250,0,0,0,0,0,0,0.0
+37179,"Union, NC",North Carolina,10699,4,0,0,3,1,0,0.374
+37181,"Vance, NC",North Carolina,2350,4,1,0,1,2,0,1.702
+37183,"Wake, NC",North Carolina,50796,64,41,7,12,4,0,1.26
+37185,"Warren, NC",North Carolina,1252,1,0,0,1,0,0,0.799
+37187,"Washington, NC",North Carolina,666,0,0,0,0,0,0,0.0
+37189,"Watauga, NC",North Carolina,2514,1,0,0,0,1,0,0.398
+37191,"Wayne, NC",North Carolina,10978,6,2,1,3,0,0,0.547
+37193,"Wilkes, NC",North Carolina,3630,2,1,0,0,1,0,0.551
+37195,"Wilson, NC",North Carolina,4213,5,2,0,2,1,0,1.187
+37197,"Yadkin, NC",North Carolina,2073,1,0,0,1,0,0,0.482
+37199,"Yancey, NC",North Carolina,1045,2,0,0,2,0,0,1.914
+38001,"Adams, ND",North Dakota,134,0,0,0,0,0,0,0.0
+38003,"Barnes, ND",North Dakota,648,2,0,0,2,0,0,3.086
+38005,"Benson, ND",North Dakota,305,0,0,0,0,0,0,0.0
+38007,"Billings, ND",North Dakota,70,0,0,0,0,0,0,0.0
+38009,"Bottineau, ND",North Dakota,436,1,0,0,0,1,0,2.294
+38011,"Bowman, ND",North Dakota,173,1,0,0,0,1,0,5.78
+38013,"Burke, ND",North Dakota,94,1,0,0,1,0,0,10.638
+38015,"Burleigh, ND",North Dakota,4852,2,0,0,0,2,0,0.412
+38017,"Cass, ND",North Dakota,9965,22,0,0,13,4,5,2.208
+38019,"Cavalier, ND",North Dakota,169,0,0,0,0,0,0,0.0
+38021,"Dickey, ND",North Dakota,229,0,0,0,0,0,0,0.0
+38023,"Divide, ND",North Dakota,138,0,0,0,0,0,0,0.0
+38025,"Dunn, ND",North Dakota,289,1,0,0,0,1,0,3.46
+38027,"Eddy, ND",North Dakota,123,1,0,0,1,0,0,8.13
+38029,"Emmons, ND",North Dakota,210,1,0,0,1,0,0,4.762
+38031,"Foster, ND",North Dakota,161,1,0,0,0,1,0,6.211
+38033,"Golden Valley, ND",North Dakota,110,0,0,0,0,0,0,0.0
+38035,"Grand Forks, ND",North Dakota,4970,2,0,0,0,2,0,0.402
+38037,"Grant, ND",North Dakota,143,0,0,0,0,0,0,0.0
+38039,"Griggs, ND",North Dakota,93,0,0,0,0,0,0,0.0
+38041,"Hettinger, ND",North Dakota,161,0,0,0,0,0,0,0.0
+38043,"Kidder, ND",North Dakota,167,0,0,0,0,0,0,0.0
+38045,"La Moure, ND",North Dakota,238,0,0,0,0,0,0,0.0
+38047,"Logan, ND",North Dakota,97,1,0,0,1,0,0,10.309
+38049,"McHenry, ND",North Dakota,384,1,0,0,0,1,0,2.604
+38051,"McIntosh, ND",North Dakota,163,1,0,0,1,0,0,6.135
+38053,"McKenzie, ND",North Dakota,569,1,0,0,1,0,0,1.757
+38055,"McLean, ND",North Dakota,583,3,0,0,2,1,0,5.146
+38057,"Mercer, ND",North Dakota,474,0,0,0,0,0,0,0.0
+38059,"Morton, ND",North Dakota,1935,2,0,0,0,2,0,1.034
+38061,"Mountrail, ND",North Dakota,495,1,0,0,1,0,0,2.02
+38063,"Nelson, ND",North Dakota,204,0,0,0,0,0,0,0.0
+38065,"Oliver, ND",North Dakota,115,0,0,0,0,0,0,0.0
+38067,"Pembina, ND",North Dakota,419,1,0,0,1,0,0,2.387
+38069,"Pierce, ND",North Dakota,257,1,0,0,1,0,0,3.891
+38071,"Ramsey, ND",North Dakota,742,1,0,0,0,1,0,1.348
+38073,"Ransom, ND",North Dakota,332,0,0,0,0,0,0,0.0
+38075,"Renville, ND",North Dakota,195,1,0,0,1,0,0,5.128
+38077,"Richland, ND",North Dakota,902,2,0,0,1,1,0,2.217
+38079,"Rolette, ND",North Dakota,524,1,0,0,0,1,0,1.908
+38081,"Sargent, ND",North Dakota,222,0,0,0,0,0,0,0.0
+38083,"Sheridan, ND",North Dakota,79,1,0,0,1,0,0,12.658
+38085,"Sioux, ND",North Dakota,175,1,0,0,0,0,1,5.714
+38087,"Slope, ND",North Dakota,38,0,0,0,0,0,0,0.0
+38089,"Stark, ND",North Dakota,1726,3,0,2,0,1,0,1.738
+38091,"Steele, ND",North Dakota,98,1,0,0,1,0,0,10.204
+38093,"Stutsman, ND",North Dakota,1106,2,0,0,1,1,0,1.808
+38095,"Towner, ND",North Dakota,88,0,0,0,0,0,0,0.0
+38097,"Traill, ND",North Dakota,423,1,0,0,1,0,0,2.364
+38099,"Walsh, ND",North Dakota,570,0,0,0,0,0,0,0.0
+38101,"Ward, ND",North Dakota,6533,3,1,0,2,0,0,0.459
+38103,"Wells, ND",North Dakota,217,1,0,1,0,0,0,4.608
+38105,"Williams, ND",North Dakota,1955,1,0,0,0,1,0,0.512
+39001,"Adams, OH",Ohio,1715,1,0,0,0,0,1,0.583
+39003,"Allen, OH",Ohio,5894,5,2,0,0,3,0,0.848
+39005,"Ashland, OH",Ohio,2949,4,1,0,0,3,0,1.356
+39007,"Ashtabula, OH",Ohio,6459,5,0,0,0,4,1,0.774
+39009,"Athens, OH",Ohio,2611,2,0,0,0,2,0,0.766
+39011,"Auglaize, OH",Ohio,2544,4,0,0,0,4,0,1.572
+39013,"Belmont, OH",Ohio,3716,5,0,0,0,5,0,1.346
+39015,"Brown, OH",Ohio,2922,5,1,0,0,1,3,1.711
+39017,"Butler, OH",Ohio,18421,10,2,0,0,8,0,0.543
+39019,"Carroll, OH",Ohio,1668,1,0,0,0,1,0,0.6
+39021,"Champaign, OH",Ohio,2468,1,0,0,0,1,0,0.405
+39023,"Clark, OH",Ohio,9693,6,0,0,1,3,2,0.619
+39025,"Clermont, OH",Ohio,12185,6,1,0,0,4,1,0.492
+39027,"Clinton, OH",Ohio,2940,0,0,0,0,0,0,0.0
+39029,"Columbiana, OH",Ohio,6593,8,0,0,2,6,0,1.213
+39031,"Coshocton, OH",Ohio,2089,2,0,0,0,0,2,0.957
+39033,"Crawford, OH",Ohio,2510,4,0,0,1,1,2,1.594
+39035,"Cuyahoga, OH",Ohio,58542,81,36,2,26,17,0,1.384
+39037,"Darke, OH",Ohio,2484,2,0,0,0,2,0,0.805
+39039,"Defiance, OH",Ohio,2118,3,0,0,0,2,1,1.416
+39041,"Delaware, OH",Ohio,9872,15,3,0,5,4,3,1.519
+39043,"Erie, OH",Ohio,4495,6,1,0,0,3,2,1.335
+39045,"Fairfield, OH",Ohio,9659,13,7,1,0,5,0,1.346
+39047,"Fayette, OH",Ohio,1486,3,0,0,0,3,0,2.019
+39049,"Franklin, OH",Ohio,56725,60,33,1,6,19,1,1.058
+39051,"Fulton, OH",Ohio,2375,4,0,0,1,2,1,1.684
+39053,"Gallia, OH",Ohio,1542,4,0,0,1,2,1,2.594
+39055,"Geauga, OH",Ohio,4087,4,1,0,0,2,1,0.979
+39057,"Greene, OH",Ohio,16501,7,2,0,0,5,0,0.424
+39059,"Guernsey, OH",Ohio,2406,3,0,0,0,3,0,1.247
+39061,"Hamilton, OH",Ohio,36187,36,15,1,11,0,9,0.995
+39063,"Hancock, OH",Ohio,3847,3,0,0,0,3,0,0.78
+39065,"Hardin, OH",Ohio,1539,2,0,0,0,2,0,1.3
+39067,"Harrison, OH",Ohio,934,1,0,0,0,0,1,1.071
+39069,"Henry, OH",Ohio,1581,2,0,0,0,2,0,1.265
+39071,"Highland, OH",Ohio,2525,3,0,0,0,2,1,1.188
+39073,"Hocking, OH",Ohio,1649,2,0,0,0,1,1,1.213
+39075,"Holmes, OH",Ohio,905,1,0,0,0,1,0,1.105
+39077,"Huron, OH",Ohio,3319,4,0,0,0,4,0,1.205
+39079,"Jackson, OH",Ohio,1947,2,0,0,0,1,1,1.027
+39081,"Jefferson, OH",Ohio,3942,6,1,0,0,5,0,1.522
+39083,"Knox, OH",Ohio,3343,4,1,0,0,1,2,1.197
+39085,"Lake, OH",Ohio,12354,9,2,0,0,7,0,0.729
+39087,"Lawrence, OH",Ohio,3697,2,0,0,0,0,2,0.541
+39089,"Licking, OH",Ohio,11387,7,1,0,0,5,1,0.615
+39091,"Logan, OH",Ohio,2821,5,0,0,0,3,2,1.772
+39093,"Lorain, OH",Ohio,17787,9,3,0,0,6,0,0.506
+39095,"Lucas, OH",Ohio,20391,10,5,0,1,4,0,0.49
+39097,"Madison, OH",Ohio,2316,3,1,0,0,2,0,1.295
+39099,"Mahoning, OH",Ohio,11862,7,2,0,0,4,1,0.59
+39101,"Marion, OH",Ohio,3394,2,0,0,0,1,1,0.589
+39103,"Medina, OH",Ohio,9667,6,2,0,0,4,0,0.621
+39105,"Meigs, OH",Ohio,1294,3,0,0,0,1,2,2.318
+39107,"Mercer, OH",Ohio,1970,1,0,0,0,1,0,0.508
+39109,"Miami, OH",Ohio,7213,8,4,0,0,3,1,1.109
+39111,"Monroe, OH",Ohio,820,2,0,0,0,2,0,2.439
+39113,"Montgomery, OH",Ohio,38042,32,24,0,2,3,3,0.841
+39115,"Morgan, OH",Ohio,932,1,0,0,0,1,0,1.073
+39117,"Morrow, OH",Ohio,2053,2,0,0,0,1,1,0.974
+39119,"Muskingum, OH",Ohio,4802,4,1,0,0,0,3,0.833
+39121,"Noble, OH",Ohio,809,2,0,0,0,2,0,2.472
+39123,"Ottawa, OH",Ohio,2683,2,0,0,0,1,1,0.745
+39125,"Paulding, OH",Ohio,1014,1,0,0,0,0,1,0.986
+39127,"Perry, OH",Ohio,2244,1,0,0,0,1,0,0.446
+39129,"Pickaway, OH",Ohio,3588,3,0,0,0,3,0,0.836
+39131,"Pike, OH",Ohio,1759,2,0,1,0,0,1,1.137
+39133,"Portage, OH",Ohio,9024,7,1,0,0,6,0,0.776
+39135,"Preble, OH",Ohio,2414,2,0,0,0,1,1,0.829
+39137,"Putnam, OH",Ohio,1314,3,0,0,0,3,0,2.283
+39139,"Richland, OH",Ohio,7404,4,0,0,0,4,0,0.54
+39141,"Ross, OH",Ohio,5631,4,0,0,2,0,2,0.71
+39143,"Sandusky, OH",Ohio,3469,2,0,0,0,0,2,0.577
+39145,"Scioto, OH",Ohio,4032,2,0,0,0,2,0,0.496
+39147,"Seneca, OH",Ohio,2895,3,0,0,0,3,0,1.036
+39149,"Shelby, OH",Ohio,2627,2,1,0,0,1,0,0.761
+39151,"Stark, OH",Ohio,20312,18,5,1,1,8,3,0.886
+39153,"Summit, OH",Ohio,26807,20,12,0,0,5,3,0.746
+39155,"Trumbull, OH",Ohio,13378,5,0,0,0,3,2,0.374
+39157,"Tuscarawas, OH",Ohio,4700,3,0,0,0,3,0,0.638
+39159,"Union, OH",Ohio,3266,3,0,0,0,3,0,0.919
+39161,"Van Wert, OH",Ohio,1480,2,1,0,0,1,0,1.351
+39163,"Vinton, OH",Ohio,597,1,0,0,0,1,0,1.675
+39165,"Warren, OH",Ohio,11829,6,1,0,0,3,2,0.507
+39167,"Washington, OH",Ohio,4058,4,0,0,1,1,2,0.986
+39169,"Wayne, OH",Ohio,5137,4,0,0,0,2,2,0.779
+39171,"Williams, OH",Ohio,1935,3,0,0,0,3,0,1.55
+39173,"Wood, OH",Ohio,6303,6,1,0,0,5,0,0.952
+39175,"Wyandot, OH",Ohio,1209,2,0,0,0,2,0,1.654
+40001,"Adair, OK",Oklahoma,1109,0,0,0,0,0,0,0.0
+40003,"Alfalfa, OK",Oklahoma,390,0,0,0,0,0,0,0.0
+40005,"Atoka, OK",Oklahoma,925,0,0,0,0,0,0,0.0
+40007,"Beaver, OK",Oklahoma,214,0,0,0,0,0,0,0.0
+40009,"Beckham, OK",Oklahoma,1071,0,0,0,0,0,0,0.0
+40011,"Blaine, OK",Oklahoma,475,0,0,0,0,0,0,0.0
+40013,"Bryan, OK",Oklahoma,2714,6,1,1,3,0,1,2.211
+40015,"Caddo, OK",Oklahoma,1385,3,0,0,0,0,3,2.166
+40017,"Canadian, OK",Oklahoma,11526,4,0,0,2,0,2,0.347
+40019,"Carter, OK",Oklahoma,2822,4,1,0,1,0,2,1.417
+40021,"Cherokee, OK",Oklahoma,2869,3,1,1,0,0,1,1.046
+40023,"Choctaw, OK",Oklahoma,1028,0,0,0,0,0,0,0.0
+40025,"Cimarron, OK",Oklahoma,78,0,0,0,0,0,0,0.0
+40027,"Cleveland, OK",Oklahoma,22362,53,8,3,38,1,3,2.37
+40029,"Coal, OK",Oklahoma,315,0,0,0,0,0,0,0.0
+40031,"Comanche, OK",Oklahoma,24149,17,0,0,10,0,7,0.704
+40033,"Cotton, OK",Oklahoma,398,0,0,0,0,0,0,0.0
+40035,"Craig, OK",Oklahoma,759,0,0,0,0,0,0,0.0
+40037,"Creek, OK",Oklahoma,4580,6,0,0,6,0,0,1.31
+40039,"Custer, OK",Oklahoma,1316,2,0,0,0,0,2,1.52
+40041,"Delaware, OK",Oklahoma,2723,1,0,0,1,0,0,0.367
+40043,"Dewey, OK",Oklahoma,199,0,0,0,0,0,0,0.0
+40045,"Ellis, OK",Oklahoma,194,0,0,0,0,0,0,0.0
+40047,"Garfield, OK",Oklahoma,4059,1,1,0,0,0,0,0.246
+40049,"Garvin, OK",Oklahoma,1398,4,0,0,4,0,0,2.861
+40051,"Grady, OK",Oklahoma,3714,2,0,0,2,0,0,0.539
+40053,"Grant, OK",Oklahoma,218,0,0,0,0,0,0,0.0
+40055,"Greer, OK",Oklahoma,408,0,0,0,0,0,0,0.0
+40057,"Harmon, OK",Oklahoma,91,0,0,0,0,0,0,0.0
+40059,"Harper, OK",Oklahoma,168,0,0,0,0,0,0,0.0
+40061,"Haskell, OK",Oklahoma,757,0,0,0,0,0,0,0.0
+40063,"Hughes, OK",Oklahoma,785,0,0,0,0,0,0,0.0
+40065,"Jackson, OK",Oklahoma,3068,0,0,0,0,0,0,0.0
+40067,"Jefferson, OK",Oklahoma,320,0,0,0,0,0,0,0.0
+40069,"Johnston, OK",Oklahoma,689,2,0,0,2,0,0,2.903
+40071,"Kay, OK",Oklahoma,2822,1,0,0,1,0,0,0.354
+40073,"Kingfisher, OK",Oklahoma,612,0,0,0,0,0,0,0.0
+40075,"Kiowa, OK",Oklahoma,545,0,0,0,0,0,0,0.0
+40077,"Latimer, OK",Oklahoma,834,1,0,0,0,0,1,1.199
+40079,"Le Flore, OK",Oklahoma,3273,0,0,0,0,0,0,0.0
+40081,"Lincoln, OK",Oklahoma,2556,1,0,0,1,0,0,0.391
+40083,"Logan, OK",Oklahoma,3486,2,1,0,1,0,0,0.574
+40085,"Love, OK",Oklahoma,636,0,0,0,0,0,0,0.0
+40087,"McClain, OK",Oklahoma,2802,1,0,1,0,0,0,0.357
+40089,"McCurtain, OK",Oklahoma,1850,0,0,0,0,0,0,0.0
+40091,"McIntosh, OK",Oklahoma,1732,0,0,0,0,0,0,0.0
+40093,"Major, OK",Oklahoma,430,0,0,0,0,0,0,0.0
+40095,"Marshall, OK",Oklahoma,1207,0,0,0,0,0,0,0.0
+40097,"Mayes, OK",Oklahoma,2719,1,0,0,1,0,0,0.368
+40099,"Murray, OK",Oklahoma,920,0,0,0,0,0,0,0.0
+40101,"Muskogee, OK",Oklahoma,5073,56,3,0,17,0,36,11.039
+40103,"Noble, OK",Oklahoma,630,0,0,0,0,0,0,0.0
+40105,"Nowata, OK",Oklahoma,418,0,0,0,0,0,0,0.0
+40107,"Okfuskee, OK",Oklahoma,710,0,0,0,0,0,0,0.0
+40109,"Oklahoma, OK",Oklahoma,52792,50,19,1,22,0,8,0.947
+40111,"Okmulgee, OK",Oklahoma,2391,3,0,0,1,0,2,1.255
+40113,"Osage, OK",Oklahoma,2904,1,0,0,1,0,0,0.344
+40115,"Ottawa, OK",Oklahoma,1893,1,0,0,1,0,0,0.528
+40117,"Pawnee, OK",Oklahoma,1114,1,0,0,1,0,0,0.898
+40119,"Payne, OK",Oklahoma,3962,2,0,0,2,0,0,0.505
+40121,"Pittsburg, OK",Oklahoma,3494,1,0,1,0,0,0,0.286
+40123,"Pontotoc, OK",Oklahoma,2165,0,0,0,0,0,0,0.0
+40125,"Pottawatomie, OK",Oklahoma,5179,2,0,0,2,0,0,0.386
+40127,"Pushmataha, OK",Oklahoma,784,0,0,0,0,0,0,0.0
+40129,"Roger Mills, OK",Oklahoma,137,0,0,0,0,0,0,0.0
+40131,"Rogers, OK",Oklahoma,7006,3,0,0,2,0,1,0.428
+40133,"Seminole, OK",Oklahoma,1592,1,0,0,0,0,1,0.628
+40135,"Sequoyah, OK",Oklahoma,3076,2,0,0,0,0,2,0.65
+40137,"Stephens, OK",Oklahoma,3053,1,0,0,1,0,0,0.328
+40139,"Texas, OK",Oklahoma,538,0,0,0,0,0,0,0.0
+40141,"Tillman, OK",Oklahoma,403,0,0,0,0,0,0,0.0
+40143,"Tulsa, OK",Oklahoma,34937,20,9,3,8,0,0,0.572
+40145,"Wagoner, OK",Oklahoma,5651,1,0,1,0,0,0,0.177
+40147,"Washington, OK",Oklahoma,3197,3,2,0,1,0,0,0.938
+40149,"Washita, OK",Oklahoma,547,0,0,0,0,0,0,0.0
+40151,"Woods, OK",Oklahoma,440,1,0,0,1,0,0,2.273
+40153,"Woodward, OK",Oklahoma,986,0,0,0,0,0,0,0.0
+41001,"Baker, OR",Oregon,1386,1,0,0,0,0,1,0.722
+41003,"Benton, OR",Oregon,5215,2,0,1,0,1,0,0.384
+41005,"Clackamas, OR",Oregon,21767,6,2,0,1,1,2,0.276
+41007,"Clatsop, OR",Oregon,3255,2,1,0,0,0,1,0.614
+41009,"Columbia, OR",Oregon,4162,1,0,0,0,0,1,0.24
+41011,"Coos, OR",Oregon,5739,5,2,0,0,0,3,0.871
+41013,"Crook, OR",Oregon,1911,1,0,0,0,1,0,0.523
+41015,"Curry, OR",Oregon,2171,2,0,0,0,0,2,0.921
+41017,"Deschutes, OR",Oregon,13472,5,1,0,0,3,1,0.371
+41019,"Douglas, OR",Oregon,11285,5,0,0,0,1,4,0.443
+41021,"Gilliam, OR",Oregon,189,0,0,0,0,0,0,0.0
+41023,"Grant, OR",Oregon,664,1,0,0,0,0,1,1.506
+41025,"Harney, OR",Oregon,501,1,0,0,0,0,1,1.996
+41027,"Hood River, OR",Oregon,1003,2,0,0,0,0,2,1.994
+41029,"Jackson, OR",Oregon,15737,8,0,0,1,6,1,0.508
+41031,"Jefferson, OR",Oregon,1304,2,0,0,0,2,0,1.534
+41033,"Josephine, OR",Oregon,7915,3,0,0,0,0,3,0.379
+41035,"Klamath, OR",Oregon,6041,2,0,0,0,1,1,0.331
+41037,"Lake, OR",Oregon,570,1,0,0,0,0,1,1.754
+41039,"Lane, OR",Oregon,25719,7,2,0,0,0,5,0.272
+41041,"Lincoln, OR",Oregon,4405,2,0,0,0,0,2,0.454
+41043,"Linn, OR",Oregon,9880,4,0,0,0,3,1,0.405
+41045,"Malheur, OR",Oregon,1555,1,0,0,0,1,0,0.643
+41047,"Marion, OR",Oregon,18110,25,7,0,0,4,14,1.38
+41049,"Morrow, OR",Oregon,672,1,0,0,0,1,0,1.488
+41051,"Multnomah, OR",Oregon,35188,26,11,1,5,1,8,0.739
+41053,"Polk, OR",Oregon,5738,4,1,0,0,0,3,0.697
+41055,"Sherman, OR",Oregon,158,0,0,0,0,0,0,0.0
+41057,"Tillamook, OR",Oregon,1778,2,0,0,0,0,2,1.125
+41059,"Umatilla, OR",Oregon,4387,4,2,0,0,0,2,0.912
+41061,"Union, OR",Oregon,1760,2,0,0,1,0,1,1.136
+41063,"Wallowa, OR",Oregon,443,1,0,0,0,0,1,2.257
+41065,"Wasco, OR",Oregon,1821,3,0,0,0,2,1,1.647
+41067,"Washington, OR",Oregon,26272,15,4,0,3,0,8,0.571
+41069,"Wheeler, OR",Oregon,170,0,0,0,0,0,0,0.0
+41071,"Yamhill, OR",Oregon,6637,2,0,0,0,0,2,0.301
+42001,"Adams, PA",Pennsylvania,5956,4,0,0,1,0,3,0.672
+42003,"Allegheny, PA",Pennsylvania,58216,88,46,0,20,0,22,1.512
+42005,"Armstrong, PA",Pennsylvania,4468,1,0,0,0,0,1,0.224
+42007,"Beaver, PA",Pennsylvania,10323,4,1,0,1,1,1,0.387
+42009,"Bedford, PA",Pennsylvania,2989,3,0,0,0,0,3,1.004
+42011,"Berks, PA",Pennsylvania,17868,9,1,0,1,0,7,0.504
+42013,"Blair, PA",Pennsylvania,8729,11,1,0,3,0,7,1.26
+42015,"Bradford, PA",Pennsylvania,3767,2,0,0,1,0,1,0.531
+42017,"Bucks, PA",Pennsylvania,27507,18,12,0,0,0,6,0.654
+42019,"Butler, PA",Pennsylvania,10656,9,3,0,1,4,1,0.845
+42021,"Cambria, PA",Pennsylvania,9463,8,1,0,2,0,5,0.845
+42023,"Cameron, PA",Pennsylvania,352,1,0,0,0,0,1,2.841
+42025,"Carbon, PA",Pennsylvania,4043,3,0,0,0,1,2,0.742
+42027,"Centre, PA",Pennsylvania,6796,7,3,0,0,0,4,1.03
+42029,"Chester, PA",Pennsylvania,20258,20,11,2,0,0,7,0.987
+42031,"Clarion, PA",Pennsylvania,2381,2,1,0,0,0,1,0.84
+42033,"Clearfield, PA",Pennsylvania,4955,3,1,0,0,0,2,0.605
+42035,"Clinton, PA",Pennsylvania,2416,8,0,0,4,0,4,3.311
+42037,"Columbia, PA",Pennsylvania,3539,4,3,0,0,1,0,1.13
+42039,"Crawford, PA",Pennsylvania,5913,3,2,0,0,1,0,0.507
+42041,"Cumberland, PA",Pennsylvania,16458,36,8,0,16,0,12,2.187
+42043,"Dauphin, PA",Pennsylvania,15722,18,6,0,8,0,4,1.145
+42045,"Delaware, PA",Pennsylvania,20842,19,14,1,0,0,4,0.912
+42047,"Elk, PA",Pennsylvania,1888,2,0,0,0,0,2,1.059
+42049,"Erie, PA",Pennsylvania,16093,18,3,0,4,0,11,1.118
+42051,"Fayette, PA",Pennsylvania,7527,4,0,0,0,0,4,0.531
+42053,"Forest, PA",Pennsylvania,451,1,0,0,0,0,1,2.217
+42055,"Franklin, PA",Pennsylvania,10152,11,4,1,0,0,6,1.084
+42057,"Fulton, PA",Pennsylvania,818,1,0,0,0,0,1,1.222
+42059,"Greene, PA",Pennsylvania,2361,3,0,0,0,0,3,1.271
+42061,"Huntingdon, PA",Pennsylvania,3025,3,0,0,0,0,3,0.992
+42063,"Indiana, PA",Pennsylvania,4850,2,0,0,0,0,2,0.412
+42065,"Jefferson, PA",Pennsylvania,2567,4,1,0,1,0,2,1.558
+42067,"Juniata, PA",Pennsylvania,1055,2,0,0,0,1,1,1.896
+42069,"Lackawanna, PA",Pennsylvania,11006,14,6,0,0,0,8,1.272
+42071,"Lancaster, PA",Pennsylvania,25057,8,4,0,0,1,3,0.319
+42073,"Lawrence, PA",Pennsylvania,4892,4,1,0,0,0,3,0.818
+42075,"Lebanon, PA",Pennsylvania,9529,37,4,0,6,1,26,3.883
+42077,"Lehigh, PA",Pennsylvania,15170,6,3,0,0,0,3,0.396
+42079,"Luzerne, PA",Pennsylvania,17261,12,2,0,2,0,8,0.695
+42081,"Lycoming, PA",Pennsylvania,7554,9,6,0,0,0,3,1.191
+42083,"McKean, PA",Pennsylvania,2576,5,0,0,0,0,5,1.941
+42085,"Mercer, PA",Pennsylvania,6528,7,2,0,0,0,5,1.072
+42087,"Mifflin, PA",Pennsylvania,2734,3,0,0,0,0,3,1.097
+42089,"Monroe, PA",Pennsylvania,8936,4,0,1,0,0,3,0.448
+42091,"Montgomery, PA",Pennsylvania,29517,26,19,3,0,0,4,0.881
+42093,"Montour, PA",Pennsylvania,981,3,0,0,0,0,3,3.058
+42095,"Northampton, PA",Pennsylvania,14903,4,2,0,0,0,2,0.268
+42097,"Northumberland, PA",Pennsylvania,5707,3,1,0,0,0,2,0.526
+42099,"Perry, PA",Pennsylvania,2853,1,0,0,0,0,1,0.351
+42101,"Philadelphia, PA",Pennsylvania,49154,113,67,3,26,0,17,2.299
+42103,"Pike, PA",Pennsylvania,3625,8,3,1,0,1,3,2.207
+42105,"Potter, PA",Pennsylvania,1293,3,0,0,0,0,3,2.32
+42107,"Schuylkill, PA",Pennsylvania,8411,1,0,0,0,0,1,0.119
+42109,"Snyder, PA",Pennsylvania,1651,1,0,0,0,0,1,0.606
+42111,"Somerset, PA",Pennsylvania,5104,3,0,0,0,0,3,0.588
+42113,"Sullivan, PA",Pennsylvania,439,1,0,0,0,0,1,2.278
+42115,"Susquehanna, PA",Pennsylvania,2702,2,0,0,0,0,2,0.74
+42117,"Tioga, PA",Pennsylvania,3289,2,0,0,0,0,2,0.608
+42119,"Union, PA",Pennsylvania,1976,3,2,0,0,0,1,1.518
+42121,"Venango, PA",Pennsylvania,3627,2,0,0,0,2,0,0.551
+42123,"Warren, PA",Pennsylvania,3123,2,0,0,0,0,2,0.64
+42125,"Washington, PA",Pennsylvania,11598,9,3,0,0,0,6,0.776
+42127,"Wayne, PA",Pennsylvania,3717,2,0,0,0,0,2,0.538
+42129,"Westmoreland, PA",Pennsylvania,20340,14,7,1,0,1,5,0.688
+42131,"Wyoming, PA",Pennsylvania,1641,1,0,0,0,0,1,0.609
+42133,"York, PA",Pennsylvania,26117,12,4,0,1,0,7,0.459
+44001,"Bristol, RI",Rhode Island,2450,2,1,1,0,0,0,0.816
+44003,"Kent, RI",Rhode Island,9568,40,27,7,4,2,0,4.181
+44005,"Newport, RI",Rhode Island,7596,2,2,0,0,0,0,0.263
+44007,"Providence, RI",Rhode Island,23895,128,54,67,7,0,0,5.357
+44009,"Washington, RI",Rhode Island,6503,5,4,1,0,0,0,0.769
+45001,"Abbeville, SC",South Carolina,1578,1,0,0,0,0,1,0.634
+45003,"Aiken, SC",South Carolina,13707,9,3,0,1,2,3,0.657
+45005,"Allendale, SC",South Carolina,398,2,0,0,0,0,2,5.025
+45007,"Anderson, SC",South Carolina,12831,6,3,0,0,1,2,0.468
+45009,"Bamberg, SC",South Carolina,770,1,0,0,0,0,1,1.299
+45011,"Barnwell, SC",South Carolina,1155,1,0,0,0,0,1,0.866
+45013,"Beaufort, SC",South Carolina,27161,13,5,1,0,6,1,0.479
+45015,"Berkeley, SC",South Carolina,24879,12,2,0,2,2,6,0.482
+45017,"Calhoun, SC",South Carolina,930,2,0,0,0,0,2,2.151
+45019,"Charleston, SC",South Carolina,31761,39,29,1,0,1,8,1.228
+45021,"Cherokee, SC",South Carolina,3210,3,0,0,0,0,3,0.935
+45023,"Chester, SC",South Carolina,1966,5,1,0,1,1,2,2.543
+45025,"Chesterfield, SC",South Carolina,2510,2,0,0,0,1,1,0.797
+45027,"Clarendon, SC",South Carolina,2084,1,0,0,0,0,1,0.48
+45029,"Colleton, SC",South Carolina,2973,2,0,0,0,1,1,0.673
+45031,"Darlington, SC",South Carolina,3344,4,2,0,0,0,2,1.196
+45033,"Dillon, SC",South Carolina,1680,2,0,0,0,0,2,1.19
+45035,"Dorchester, SC",South Carolina,17308,8,3,0,1,2,2,0.462
+45037,"Edgefield, SC",South Carolina,1787,2,0,0,0,0,2,1.119
+45039,"Fairfield, SC",South Carolina,1331,2,0,0,0,0,2,1.503
+45041,"Florence, SC",South Carolina,8083,4,1,0,0,1,2,0.495
+45043,"Georgetown, SC",South Carolina,4528,7,2,0,2,0,3,1.546
+45045,"Greenville, SC",South Carolina,28402,18,9,1,0,0,8,0.634
+45047,"Greenwood, SC",South Carolina,3606,7,3,0,0,0,4,1.941
+45049,"Hampton, SC",South Carolina,1110,4,1,0,0,1,2,3.604
+45051,"Horry, SC",South Carolina,27778,12,5,0,0,3,4,0.432
+45053,"Jasper, SC",South Carolina,1930,4,1,0,1,0,2,2.073
+45055,"Kershaw, SC",South Carolina,6164,4,1,1,0,0,2,0.649
+45057,"Lancaster, SC",South Carolina,5740,6,0,1,1,2,2,1.045
+45059,"Laurens, SC",South Carolina,3823,3,0,0,0,0,3,0.785
+45061,"Lee, SC",South Carolina,1018,2,0,0,0,0,2,1.965
+45063,"Lexington, SC",South Carolina,23039,8,2,0,1,1,4,0.347
+45065,"McCormick, SC",South Carolina,860,2,0,0,0,0,2,2.326
+45067,"Marion, SC",South Carolina,1593,2,0,0,0,0,2,1.255
+45069,"Marlboro, SC",South Carolina,1296,2,0,0,0,0,2,1.543
+45071,"Newberry, SC",South Carolina,2270,3,0,0,0,0,3,1.322
+45073,"Oconee, SC",South Carolina,5188,4,2,0,0,0,2,0.771
+45075,"Orangeburg, SC",South Carolina,4884,3,1,0,0,0,2,0.614
+45077,"Pickens, SC",South Carolina,6572,6,1,0,1,1,3,0.913
+45079,"Richland, SC",South Carolina,38679,52,18,4,17,0,13,1.344
+45081,"Saluda, SC",South Carolina,1072,2,1,0,0,0,1,1.866
+45083,"Spartanburg, SC",South Carolina,17923,8,2,1,0,5,0,0.446
+45085,"Sumter, SC",South Carolina,12636,4,1,0,0,0,3,0.317
+45087,"Union, SC",South Carolina,1456,2,0,0,0,1,1,1.374
+45089,"Williamsburg, SC",South Carolina,1629,1,0,0,0,0,1,0.614
+45091,"York, SC",South Carolina,17319,14,7,0,0,0,7,0.808
+46003,"Aurora, SD",South Dakota,130,1,0,0,0,0,1,7.692
+46005,"Beadle, SD",South Dakota,824,1,0,0,0,0,1,1.214
+46007,"Bennett, SD",South Dakota,119,0,0,0,0,0,0,0.0
+46009,"Bon Homme, SD",South Dakota,449,0,0,0,0,0,0,0.0
+46011,"Brookings, SD",South Dakota,1834,1,0,0,0,1,0,0.545
+46013,"Brown, SD",South Dakota,1883,2,0,0,0,0,2,1.062
+46015,"Brule, SD",South Dakota,293,2,0,0,0,0,2,6.826
+46017,"Buffalo, SD",South Dakota,97,0,0,0,0,0,0,0.0
+46019,"Butte, SD",South Dakota,675,1,0,0,0,0,1,1.481
+46021,"Campbell, SD",South Dakota,81,0,0,0,0,0,0,0.0
+46023,"Charles Mix, SD",South Dakota,476,1,0,0,0,0,1,2.101
+46025,"Clark, SD",South Dakota,173,0,0,0,0,0,0,0.0
+46027,"Clay, SD",South Dakota,721,1,1,0,0,0,0,1.387
+46029,"Codington, SD",South Dakota,1731,2,0,0,0,0,2,1.155
+46031,"Corson, SD",South Dakota,222,0,0,0,0,0,0,0.0
+46033,"Custer, SD",South Dakota,919,1,0,0,0,0,1,1.088
+46035,"Davison, SD",South Dakota,1227,3,0,0,0,0,3,2.445
+46037,"Day, SD",South Dakota,409,2,0,0,0,0,2,4.89
+46039,"Deuel, SD",South Dakota,265,0,0,0,0,0,0,0.0
+46041,"Dewey, SD",South Dakota,276,0,0,0,0,0,0,0.0
+46043,"Douglas, SD",South Dakota,166,0,0,0,0,0,0,0.0
+46045,"Edmunds, SD",South Dakota,215,0,0,0,0,0,0,0.0
+46047,"Fall River, SD",South Dakota,983,3,0,0,0,0,3,3.052
+46049,"Faulk, SD",South Dakota,116,0,0,0,0,0,0,0.0
+46051,"Grant, SD",South Dakota,443,1,0,0,0,1,0,2.257
+46053,"Gregory, SD",South Dakota,218,0,0,0,0,0,0,0.0
+46055,"Haakon, SD",South Dakota,95,0,0,0,0,0,0,0.0
+46057,"Hamlin, SD",South Dakota,307,0,0,0,0,0,0,0.0
+46059,"Hand, SD",South Dakota,159,0,0,0,0,0,0,0.0
+46061,"Hanson, SD",South Dakota,187,0,0,0,0,0,0,0.0
+46063,"Harding, SD",South Dakota,85,1,0,0,0,0,1,11.765
+46065,"Hughes, SD",South Dakota,1091,4,1,0,0,0,3,3.666
+46067,"Hutchinson, SD",South Dakota,403,1,0,0,0,0,1,2.481
+46069,"Hyde, SD",South Dakota,60,0,0,0,0,0,0,0.0
+46071,"Jackson, SD",South Dakota,97,1,0,0,0,0,1,10.309
+46073,"Jerauld, SD",South Dakota,113,0,0,0,0,0,0,0.0
+46075,"Jones, SD",South Dakota,57,0,0,0,0,0,0,0.0
+46077,"Kingsbury, SD",South Dakota,286,0,0,0,0,0,0,0.0
+46079,"Lake, SD",South Dakota,793,2,0,0,0,1,1,2.522
+46081,"Lawrence, SD",South Dakota,2627,0,0,0,0,0,0,0.0
+46083,"Lincoln, SD",South Dakota,3534,4,2,0,0,0,2,1.132
+46085,"Lyman, SD",South Dakota,177,0,0,0,0,0,0,0.0
+46087,"McCook, SD",South Dakota,339,1,0,0,0,0,1,2.95
+46089,"McPherson, SD",South Dakota,172,1,0,0,0,0,1,5.814
+46091,"Marshall, SD",South Dakota,212,1,0,0,0,0,1,4.717
+46093,"Meade, SD",South Dakota,3846,2,0,0,0,1,1,0.52
+46095,"Mellette, SD",South Dakota,125,0,0,0,0,0,0,0.0
+46097,"Miner, SD",South Dakota,145,0,0,0,0,0,0,0.0
+46099,"Minnehaha, SD",South Dakota,12744,34,0,1,5,0,28,2.668
+46101,"Moody, SD",South Dakota,369,0,0,0,0,0,0,0.0
+46102,"Oglala Lakota, SD",South Dakota,559,0,0,0,0,0,0,0.0
+46103,"Pennington, SD",South Dakota,12692,5,0,0,0,3,2,0.394
+46105,"Perkins, SD",South Dakota,220,0,0,0,0,0,0,0.0
+46107,"Potter, SD",South Dakota,133,0,0,0,0,0,0,0.0
+46109,"Roberts, SD",South Dakota,532,2,1,0,0,0,1,3.759
+46111,"Sanborn, SD",South Dakota,129,0,0,0,0,0,0,0.0
+46115,"Spink, SD",South Dakota,349,0,0,0,0,0,0,0.0
+46117,"Stanley, SD",South Dakota,175,0,0,0,0,0,0,0.0
+46119,"Sully, SD",South Dakota,62,0,0,0,0,0,0,0.0
+46121,"Todd, SD",South Dakota,371,0,0,0,0,0,0,0.0
+46123,"Tripp, SD",South Dakota,247,0,0,0,0,0,0,0.0
+46125,"Turner, SD",South Dakota,607,2,1,0,0,0,1,3.295
+46127,"Union, SD",South Dakota,1043,0,0,0,0,0,0,0.0
+46129,"Walworth, SD",South Dakota,318,0,0,0,0,0,0,0.0
+46135,"Yankton, SD",South Dakota,1362,2,0,0,1,0,1,1.468
+46137,"Ziebach, SD",South Dakota,72,0,0,0,0,0,0,0.0
+47001,"Anderson, TN",Tennessee,6036,3,1,0,0,0,2,0.497
+47003,"Bedford, TN",Tennessee,2617,2,0,0,0,0,2,0.764
+47005,"Benton, TN",Tennessee,1064,1,0,0,0,0,1,0.94
+47007,"Bledsoe, TN",Tennessee,898,1,0,0,0,0,1,1.114
+47009,"Blount, TN",Tennessee,9562,8,1,0,3,0,4,0.837
+47011,"Bradley, TN",Tennessee,5684,7,4,0,2,0,1,1.232
+47013,"Campbell, TN",Tennessee,2551,2,0,0,0,0,2,0.784
+47015,"Cannon, TN",Tennessee,870,1,0,0,0,0,1,1.149
+47017,"Carroll, TN",Tennessee,1962,3,1,0,1,0,1,1.529
+47019,"Carter, TN",Tennessee,4073,2,0,0,1,0,1,0.491
+47021,"Cheatham, TN",Tennessee,2390,6,2,0,0,4,0,2.51
+47023,"Chester, TN",Tennessee,962,1,0,0,0,0,1,1.04
+47025,"Claiborne, TN",Tennessee,1531,1,0,0,0,0,1,0.653
+47027,"Clay, TN",Tennessee,545,2,0,0,0,0,2,3.67
+47029,"Cocke, TN",Tennessee,2321,1,0,0,0,0,1,0.431
+47031,"Coffee, TN",Tennessee,4183,3,0,0,0,0,3,0.717
+47033,"Crockett, TN",Tennessee,653,2,0,1,0,0,1,3.063
+47035,"Cumberland, TN",Tennessee,5600,5,0,0,1,0,4,0.893
+47037,"Davidson, TN",Tennessee,27693,60,18,1,18,3,20,2.167
+47039,"Decatur, TN",Tennessee,639,1,0,0,0,0,1,1.565
+47041,"De Kalb, TN",Tennessee,1104,1,0,0,0,0,1,0.906
+47043,"Dickson, TN",Tennessee,3528,7,0,2,2,0,3,1.984
+47045,"Dyer, TN",Tennessee,1753,5,3,1,0,0,1,2.852
+47047,"Fayette, TN",Tennessee,2968,1,0,0,1,0,0,0.337
+47049,"Fentress, TN",Tennessee,1429,1,0,0,0,0,1,0.7
+47051,"Franklin, TN",Tennessee,3136,2,0,0,0,0,2,0.638
+47053,"Gibson, TN",Tennessee,3132,1,0,0,0,1,0,0.319
+47055,"Giles, TN",Tennessee,1912,2,1,0,0,0,1,1.046
+47057,"Grainger, TN",Tennessee,1375,1,0,0,0,0,1,0.727
+47059,"Greene, TN",Tennessee,4936,1,0,0,0,0,1,0.203
+47061,"Grundy, TN",Tennessee,823,1,0,0,0,0,1,1.215
+47063,"Hamblen, TN",Tennessee,3869,6,0,1,3,0,2,1.551
+47065,"Hamilton, TN",Tennessee,20751,13,2,1,3,0,7,0.626
+47067,"Hancock, TN",Tennessee,355,0,0,0,0,0,0,0.0
+47069,"Hardeman, TN",Tennessee,1506,3,0,0,1,0,2,1.992
+47071,"Hardin, TN",Tennessee,1526,4,1,0,1,0,2,2.621
+47073,"Hawkins, TN",Tennessee,4071,2,0,0,0,0,2,0.491
+47075,"Haywood, TN",Tennessee,794,1,0,0,0,1,0,1.259
+47077,"Henderson, TN",Tennessee,1751,2,0,0,0,0,2,1.142
+47079,"Henry, TN",Tennessee,2577,1,0,0,0,0,1,0.388
+47081,"Hickman, TN",Tennessee,1470,1,0,0,0,0,1,0.68
+47083,"Houston, TN",Tennessee,682,1,0,0,0,0,1,1.466
+47085,"Humphreys, TN",Tennessee,1144,1,0,0,1,0,0,0.874
+47087,"Jackson, TN",Tennessee,711,0,0,0,0,0,0,0.0
+47089,"Jefferson, TN",Tennessee,3782,3,0,1,0,0,2,0.793
+47091,"Johnson, TN",Tennessee,1261,2,0,0,0,0,2,1.586
+47093,"Knox, TN",Tennessee,27991,28,15,0,4,0,9,1.0
+47095,"Lake, TN",Tennessee,290,0,0,0,0,0,0,0.0
+47097,"Lauderdale, TN",Tennessee,1183,1,0,0,1,0,0,0.845
+47099,"Lawrence, TN",Tennessee,2295,3,0,0,1,0,2,1.307
+47101,"Lewis, TN",Tennessee,857,2,0,0,1,0,1,2.334
+47103,"Lincoln, TN",Tennessee,2195,3,0,1,0,0,2,1.367
+47105,"Loudon, TN",Tennessee,4098,4,0,0,1,0,3,0.976
+47107,"McMinn, TN",Tennessee,3748,2,0,0,0,0,2,0.534
+47109,"McNairy, TN",Tennessee,1379,1,0,0,0,1,0,0.725
+47111,"Macon, TN",Tennessee,1199,1,0,0,0,0,1,0.834
+47113,"Madison, TN",Tennessee,5864,16,6,0,4,1,5,2.729
+47115,"Marion, TN",Tennessee,1731,3,2,0,0,0,1,1.733
+47117,"Marshall, TN",Tennessee,1967,0,0,0,0,0,0,0.0
+47119,"Maury, TN",Tennessee,5854,6,1,0,1,0,4,1.025
+47121,"Meigs, TN",Tennessee,839,1,0,0,0,0,1,1.192
+47123,"Monroe, TN",Tennessee,3084,2,1,0,0,0,1,0.649
+47125,"Montgomery, TN",Tennessee,37590,15,2,0,4,0,9,0.399
+47127,"Moore, TN",Tennessee,445,0,0,0,0,0,0,0.0
+47129,"Morgan, TN",Tennessee,1449,1,0,0,0,0,1,0.69
+47131,"Obion, TN",Tennessee,1768,1,0,0,0,0,1,0.566
+47133,"Overton, TN",Tennessee,1218,0,0,0,0,0,0,0.0
+47135,"Perry, TN",Tennessee,554,2,0,0,0,0,2,3.61
+47137,"Pickett, TN",Tennessee,489,1,0,0,0,0,1,2.045
+47139,"Polk, TN",Tennessee,948,1,0,0,0,0,1,1.055
+47141,"Putnam, TN",Tennessee,4829,9,2,1,0,0,6,1.864
+47143,"Rhea, TN",Tennessee,2066,2,0,0,0,0,2,0.968
+47145,"Roane, TN",Tennessee,4355,2,0,0,0,0,2,0.459
+47147,"Robertson, TN",Tennessee,3839,3,0,0,0,0,3,0.781
+47149,"Rutherford, TN",Tennessee,19817,12,4,0,1,0,7,0.606
+47151,"Scott, TN",Tennessee,1250,1,0,0,0,0,1,0.8
+47153,"Sequatchie, TN",Tennessee,1124,1,0,0,0,1,0,0.89
+47155,"Sevier, TN",Tennessee,7021,4,1,0,0,2,1,0.57
+47157,"Shelby, TN",Tennessee,44711,42,21,5,7,0,9,0.939
+47159,"Smith, TN",Tennessee,1147,2,0,0,1,0,1,1.744
+47161,"Stewart, TN",Tennessee,1680,1,0,0,0,0,1,0.595
+47163,"Sullivan, TN",Tennessee,10877,6,3,0,0,0,3,0.552
+47165,"Sumner, TN",Tennessee,11077,15,10,2,0,0,3,1.354
+47167,"Tipton, TN",Tennessee,4649,3,1,0,0,0,2,0.645
+47169,"Trousdale, TN",Tennessee,576,1,0,0,0,0,1,1.736
+47171,"Unicoi, TN",Tennessee,1526,1,0,0,0,0,1,0.655
+47173,"Union, TN",Tennessee,1065,1,0,0,0,0,1,0.939
+47175,"Van Buren, TN",Tennessee,405,1,0,0,0,0,1,2.469
+47177,"Warren, TN",Tennessee,2243,1,0,0,0,0,1,0.446
+47179,"Washington, TN",Tennessee,10126,5,0,0,1,0,4,0.494
+47181,"Wayne, TN",Tennessee,952,1,0,0,0,0,1,1.05
+47183,"Weakley, TN",Tennessee,1997,2,0,0,0,0,2,1.002
+47185,"White, TN",Tennessee,1776,1,0,0,0,0,1,0.563
+47187,"Williamson, TN",Tennessee,9621,9,2,0,1,0,6,0.935
+47189,"Wilson, TN",Tennessee,9346,8,3,1,0,3,1,0.856
+48001,"Anderson, TX",Texas,3033,3,0,0,0,0,3,0.989
+48003,"Andrews, TX",Texas,616,0,0,0,0,0,0,0.0
+48005,"Angelina, TX",Texas,4596,2,0,0,0,0,2,0.435
+48007,"Aransas, TX",Texas,2171,0,0,0,0,0,0,0.0
+48009,"Archer, TX",Texas,578,0,0,0,0,0,0,0.0
+48011,"Armstrong, TX",Texas,144,0,0,0,0,0,0,0.0
+48013,"Atascosa, TX",Texas,3156,0,0,0,0,0,0,0.0
+48015,"Austin, TX",Texas,1201,0,0,0,0,0,0,0.0
+48017,"Bailey, TX",Texas,159,0,0,0,0,0,0,0.0
+48019,"Bandera, TX",Texas,2432,2,0,1,0,0,1,0.822
+48021,"Bastrop, TX",Texas,6426,2,0,0,1,0,1,0.311
+48023,"Baylor, TX",Texas,217,0,0,0,0,0,0,0.0
+48025,"Bee, TX",Texas,1717,2,0,0,1,0,1,1.165
+48027,"Bell, TX",Texas,64726,16,7,1,0,2,6,0.247
+48029,"Bexar, TX",Texas,170782,90,29,8,15,9,29,0.527
+48031,"Blanco, TX",Texas,756,1,0,0,0,0,1,1.323
+48033,"Borden, TX",Texas,39,0,0,0,0,0,0,0.0
+48035,"Bosque, TX",Texas,1262,0,0,0,0,0,0,0.0
+48037,"Bowie, TX",Texas,6645,3,3,0,0,0,0,0.451
+48039,"Brazoria, TX",Texas,18115,7,4,0,1,2,0,0.386
+48041,"Brazos, TX",Texas,9137,5,3,0,0,1,1,0.547
+48043,"Brewster, TX",Texas,594,0,0,0,0,0,0,0.0
+48045,"Briscoe, TX",Texas,91,0,0,0,0,0,0,0.0
+48047,"Brooks, TX",Texas,316,0,0,0,0,0,0,0.0
+48049,"Brown, TX",Texas,2488,1,0,0,0,1,0,0.402
+48051,"Burleson, TX",Texas,958,0,0,0,0,0,0,0.0
+48053,"Burnet, TX",Texas,3578,4,0,0,2,0,2,1.118
+48055,"Caldwell, TX",Texas,2407,1,0,0,0,1,0,0.415
+48057,"Calhoun, TX",Texas,1283,0,0,0,0,0,0,0.0
+48059,"Callahan, TX",Texas,949,1,0,0,0,0,1,1.054
+48061,"Cameron, TX",Texas,14028,7,2,0,0,0,5,0.499
+48063,"Camp, TX",Texas,724,1,0,0,0,0,1,1.381
+48065,"Carson, TX",Texas,358,0,0,0,0,0,0,0.0
+48067,"Cass, TX",Texas,2410,4,1,0,0,0,3,1.66
+48069,"Castro, TX",Texas,217,0,0,0,0,0,0,0.0
+48071,"Chambers, TX",Texas,2474,0,0,0,0,0,0,0.0
+48073,"Cherokee, TX",Texas,2637,0,0,0,0,0,0,0.0
+48075,"Childress, TX",Texas,245,0,0,0,0,0,0,0.0
+48077,"Clay, TX",Texas,771,0,0,0,0,0,0,0.0
+48079,"Cochran, TX",Texas,90,0,0,0,0,0,0,0.0
+48081,"Coke, TX",Texas,246,0,0,0,0,0,0,0.0
+48083,"Coleman, TX",Texas,614,0,0,0,0,0,0,0.0
+48085,"Collin, TX",Texas,43371,17,10,2,4,1,0,0.392
+48087,"Collingsworth, TX",Texas,148,1,0,0,0,0,1,6.757
+48089,"Colorado, TX",Texas,1117,1,0,0,0,0,1,0.895
+48091,"Comal, TX",Texas,18137,2,2,0,0,0,0,0.11
+48093,"Comanche, TX",Texas,859,2,1,0,0,0,1,2.328
+48095,"Concho, TX",Texas,200,0,0,0,0,0,0,0.0
+48097,"Cooke, TX",Texas,2192,1,0,0,0,0,1,0.456
+48099,"Coryell, TX",Texas,16124,4,0,0,4,0,0,0.248
+48101,"Cottle, TX",Texas,49,0,0,0,0,0,0,0.0
+48103,"Crane, TX",Texas,165,0,0,0,0,0,0,0.0
+48105,"Crockett, TX",Texas,150,1,0,0,0,0,1,6.667
+48107,"Crosby, TX",Texas,223,0,0,0,0,0,0,0.0
+48109,"Culberson, TX",Texas,127,0,0,0,0,0,0,0.0
+48111,"Dallam, TX",Texas,284,0,0,0,0,0,0,0.0
+48113,"Dallas, TX",Texas,82512,98,81,3,4,2,8,1.188
+48115,"Dawson, TX",Texas,372,0,0,0,0,0,0,0.0
+48117,"Deaf Smith, TX",Texas,463,0,0,0,0,0,0,0.0
+48119,"Delta, TX",Texas,343,1,0,0,0,0,1,2.915
+48121,"Denton, TX",Texas,40600,14,8,1,1,1,3,0.345
+48123,"De Witt, TX",Texas,919,0,0,0,0,0,0,0.0
+48125,"Dickens, TX",Texas,106,0,0,0,0,0,0,0.0
+48127,"Dimmit, TX",Texas,357,0,0,0,0,0,0,0.0
+48129,"Donley, TX",Texas,181,0,0,0,0,0,0,0.0
+48131,"Duval, TX",Texas,362,1,0,0,0,0,1,2.762
+48133,"Eastland, TX",Texas,1194,0,0,0,0,0,0,0.0
+48135,"Ector, TX",Texas,5243,1,0,0,0,0,1,0.191
+48137,"Edwards, TX",Texas,81,0,0,0,0,0,0,0.0
+48139,"Ellis, TX",Texas,12128,1,0,0,0,0,1,0.082
+48141,"El Paso, TX",Texas,60499,11,5,1,2,0,3,0.182
+48143,"Erath, TX",Texas,1827,0,0,0,0,0,0,0.0
+48145,"Falls, TX",Texas,985,0,0,0,0,0,0,0.0
+48147,"Fannin, TX",Texas,2601,0,0,0,0,0,0,0.0
+48149,"Fayette, TX",Texas,1343,0,0,0,0,0,0,0.0
+48151,"Fisher, TX",Texas,209,0,0,0,0,0,0,0.0
+48153,"Floyd, TX",Texas,240,1,0,0,0,0,1,4.167
+48155,"Foard, TX",Texas,57,0,0,0,0,0,0,0.0
+48157,"Fort Bend, TX",Texas,27989,11,8,2,0,0,1,0.393
+48159,"Franklin, TX",Texas,569,0,0,0,0,0,0,0.0
+48161,"Freestone, TX",Texas,1115,1,0,0,0,0,1,0.897
+48163,"Frio, TX",Texas,679,1,0,0,0,0,1,1.473
+48165,"Gaines, TX",Texas,403,0,0,0,0,0,0,0.0
+48167,"Galveston, TX",Texas,18889,9,4,2,0,1,2,0.476
+48169,"Garza, TX",Texas,207,0,0,0,0,0,0,0.0
+48171,"Gillespie, TX",Texas,2010,3,0,0,0,3,0,1.493
+48173,"Glasscock, TX",Texas,28,0,0,0,0,0,0,0.0
+48175,"Goliad, TX",Texas,442,0,0,0,0,0,0,0.0
+48177,"Gonzales, TX",Texas,873,0,0,0,0,0,0,0.0
+48179,"Gray, TX",Texas,989,0,0,0,0,0,0,0.0
+48181,"Grayson, TX",Texas,8411,2,1,0,0,0,1,0.238
+48183,"Gregg, TX",Texas,6466,3,3,0,0,0,0,0.464
+48185,"Grimes, TX",Texas,1739,0,0,0,0,0,0,0.0
+48187,"Guadalupe, TX",Texas,21352,13,6,1,0,0,6,0.609
+48189,"Hale, TX",Texas,1081,1,0,0,0,0,1,0.925
+48191,"Hall, TX",Texas,141,0,0,0,0,0,0,0.0
+48193,"Hamilton, TX",Texas,506,0,0,0,0,0,0,0.0
+48195,"Hansford, TX",Texas,140,0,0,0,0,0,0,0.0
+48197,"Hardeman, TX",Texas,155,0,0,0,0,0,0,0.0
+48199,"Hardin, TX",Texas,3482,1,0,0,0,0,1,0.287
+48201,"Harris, TX",Texas,162836,227,98,2,18,12,97,1.394
+48203,"Harrison, TX",Texas,3859,2,0,0,0,0,2,0.518
+48205,"Hartley, TX",Texas,181,0,0,0,0,0,0,0.0
+48207,"Haskell, TX",Texas,238,0,0,0,0,0,0,0.0
+48209,"Hays, TX",Texas,12567,3,1,0,0,1,1,0.239
+48211,"Hemphill, TX",Texas,114,0,0,0,0,0,0,0.0
+48213,"Henderson, TX",Texas,5469,0,0,0,0,0,0,0.0
+48215,"Hidalgo, TX",Texas,22551,9,3,0,1,2,3,0.399
+48217,"Hill, TX",Texas,2223,0,0,0,0,0,0,0.0
+48219,"Hockley, TX",Texas,862,0,0,0,0,0,0,0.0
+48221,"Hood, TX",Texas,5444,0,0,0,0,0,0,0.0
+48223,"Hopkins, TX",Texas,1881,0,0,0,0,0,0,0.0
+48225,"Houston, TX",Texas,1537,1,0,0,0,0,1,0.651
+48227,"Howard, TX",Texas,1912,1,0,0,0,0,1,0.523
+48229,"Hudspeth, TX",Texas,157,0,0,0,0,0,0,0.0
+48231,"Hunt, TX",Texas,7205,3,2,0,0,0,1,0.416
+48233,"Hutchinson, TX",Texas,1257,2,0,0,0,0,2,1.591
+48235,"Irion, TX",Texas,65,0,0,0,0,0,0,0.0
+48237,"Jack, TX",Texas,380,1,0,1,0,0,0,2.632
+48239,"Jackson, TX",Texas,748,0,0,0,0,0,0,0.0
+48241,"Jasper, TX",Texas,2003,0,0,0,0,0,0,0.0
+48243,"Jeff Davis, TX",Texas,137,0,0,0,0,0,0,0.0
+48245,"Jefferson, TX",Texas,12536,8,3,2,0,1,2,0.638
+48247,"Jim Hogg, TX",Texas,110,0,0,0,0,0,0,0.0
+48249,"Jim Wells, TX",Texas,1628,1,0,0,0,0,1,0.614
+48251,"Johnson, TX",Texas,10647,6,1,1,0,4,0,0.564
+48253,"Jones, TX",Texas,974,0,0,0,0,0,0,0.0
+48255,"Karnes, TX",Texas,658,1,0,0,0,0,1,1.52
+48257,"Kaufman, TX",Texas,8478,1,1,0,0,0,0,0.118
+48259,"Kendall, TX",Texas,3671,3,2,0,0,0,1,0.817
+48261,"Kenedy, TX",Texas,20,0,0,0,0,0,0,0.0
+48263,"Kent, TX",Texas,41,0,0,0,0,0,0,0.0
+48265,"Kerr, TX",Texas,4809,6,1,0,1,0,4,1.248
+48267,"Kimble, TX",Texas,264,1,0,0,0,0,1,3.788
+48269,"King, TX",Texas,26,0,0,0,0,0,0,0.0
+48271,"Kinney, TX",Texas,304,0,0,0,0,0,0,0.0
+48273,"Kleberg, TX",Texas,2076,2,1,0,0,0,1,0.963
+48275,"Knox, TX",Texas,136,0,0,0,0,0,0,0.0
+48277,"Lamar, TX",Texas,3068,8,4,0,0,0,4,2.608
+48279,"Lamb, TX",Texas,588,0,0,0,0,0,0,0.0
+48281,"Lampasas, TX",Texas,3419,0,0,0,0,0,0,0.0
+48283,"La Salle, TX",Texas,362,1,0,0,0,0,1,2.762
+48285,"Lavaca, TX",Texas,1011,0,0,0,0,0,0,0.0
+48287,"Lee, TX",Texas,870,1,0,0,0,0,1,1.149
+48289,"Leon, TX",Texas,1101,1,0,0,0,0,1,0.908
+48291,"Liberty, TX",Texas,4471,1,0,0,0,0,1,0.224
+48293,"Limestone, TX",Texas,1427,1,0,0,0,0,1,0.701
+48295,"Lipscomb, TX",Texas,116,0,0,0,0,0,0,0.0
+48297,"Live Oak, TX",Texas,589,1,0,0,0,0,1,1.698
+48299,"Llano, TX",Texas,1920,2,0,0,0,0,2,1.042
+48301,"Loving, TX",Texas,13,0,0,0,0,0,0,0.0
+48303,"Lubbock, TX",Texas,14197,9,6,0,0,0,3,0.634
+48305,"Lynn, TX",Texas,200,0,0,0,0,0,0,0.0
+48307,"McCulloch, TX",Texas,488,0,0,0,0,0,0,0.0
+48309,"McLennan, TX",Texas,16101,173,10,1,21,8,133,10.745
+48311,"McMullen, TX",Texas,45,0,0,0,0,0,0,0.0
+48313,"Madison, TX",Texas,647,1,0,0,0,0,1,1.546
+48315,"Marion, TX",Texas,849,0,0,0,0,0,0,0.0
+48317,"Martin, TX",Texas,131,4,1,0,0,0,3,30.534
+48319,"Mason, TX",Texas,247,0,0,0,0,0,0,0.0
+48321,"Matagorda, TX",Texas,1828,0,0,0,0,0,0,0.0
+48323,"Maverick, TX",Texas,1033,1,0,0,0,0,1,0.968
+48325,"Medina, TX",Texas,5115,0,0,0,0,0,0,0.0
+48327,"Menard, TX",Texas,166,0,0,0,0,0,0,0.0
+48329,"Midland, TX",Texas,6435,2,1,1,0,0,0,0.311
+48331,"Milam, TX",Texas,1321,2,0,0,0,2,0,1.514
+48333,"Mills, TX",Texas,319,1,0,0,0,0,1,3.135
+48335,"Mitchell, TX",Texas,293,0,0,0,0,0,0,0.0
+48337,"Montague, TX",Texas,1390,2,1,0,0,0,1,1.439
+48339,"Montgomery, TX",Texas,35482,23,11,6,2,3,1,0.648
+48341,"Moore, TX",Texas,637,0,0,0,0,0,0,0.0
+48343,"Morris, TX",Texas,798,1,0,0,0,0,1,1.253
+48345,"Motley, TX",Texas,96,0,0,0,0,0,0,0.0
+48347,"Nacogdoches, TX",Texas,3099,0,0,0,0,0,0,0.0
+48349,"Navarro, TX",Texas,2546,0,0,0,0,0,0,0.0
+48351,"Newton, TX",Texas,766,1,0,0,0,0,1,1.305
+48353,"Nolan, TX",Texas,758,1,0,0,0,0,1,1.319
+48355,"Nueces, TX",Texas,23882,9,2,0,0,0,7,0.377
+48357,"Ochiltree, TX",Texas,285,0,0,0,0,0,0,0.0
+48359,"Oldham, TX",Texas,104,1,0,0,0,0,1,9.615
+48361,"Orange, TX",Texas,4666,1,0,0,0,0,1,0.214
+48363,"Palo Pinto, TX",Texas,1865,2,0,0,1,0,1,1.072
+48365,"Panola, TX",Texas,1481,0,0,0,0,0,0,0.0
+48367,"Parker, TX",Texas,13018,1,0,0,0,0,1,0.077
+48369,"Parmer, TX",Texas,208,0,0,0,0,0,0,0.0
+48371,"Pecos, TX",Texas,468,1,0,0,0,1,0,2.137
+48373,"Polk, TX",Texas,4124,1,1,0,0,0,0,0.242
+48375,"Potter, TX",Texas,5281,1,0,0,0,0,1,0.189
+48377,"Presidio, TX",Texas,157,0,0,0,0,0,0,0.0
+48379,"Rains, TX",Texas,1111,1,0,0,0,1,0,0.9
+48381,"Randall, TX",Texas,8204,1,1,0,0,0,0,0.122
+48383,"Reagan, TX",Texas,81,0,0,0,0,0,0,0.0
+48385,"Real, TX",Texas,208,0,0,0,0,0,0,0.0
+48387,"Red River, TX",Texas,774,0,0,0,0,0,0,0.0
+48389,"Reeves, TX",Texas,426,0,0,0,0,0,0,0.0
+48391,"Refugio, TX",Texas,458,2,1,0,0,0,1,4.367
+48393,"Roberts, TX",Texas,32,0,0,0,0,0,0,0.0
+48395,"Robertson, TX",Texas,877,0,0,0,0,0,0,0.0
+48397,"Rockwall, TX",Texas,6806,2,1,0,0,1,0,0.294
+48399,"Runnels, TX",Texas,565,0,0,0,0,0,0,0.0
+48401,"Rusk, TX",Texas,2788,1,0,0,0,0,1,0.359
+48403,"Sabine, TX",Texas,994,0,0,0,0,0,0,0.0
+48405,"San Augustine, TX",Texas,541,0,0,0,0,0,0,0.0
+48407,"San Jacinto, TX",Texas,1969,0,0,0,0,0,0,0.0
+48409,"San Patricio, TX",Texas,4783,3,0,0,0,0,3,0.627
+48411,"San Saba, TX",Texas,313,0,0,0,0,0,0,0.0
+48413,"Schleicher, TX",Texas,146,0,0,0,0,0,0,0.0
+48415,"Scurry, TX",Texas,716,0,0,0,0,0,0,0.0
+48417,"Shackelford, TX",Texas,175,0,0,0,0,0,0,0.0
+48419,"Shelby, TX",Texas,1074,0,0,0,0,0,0,0.0
+48421,"Sherman, TX",Texas,78,0,0,0,0,0,0,0.0
+48423,"Smith, TX",Texas,12446,4,3,0,0,0,1,0.321
+48425,"Somervell, TX",Texas,521,0,0,0,0,0,0,0.0
+48427,"Starr, TX",Texas,722,0,0,0,0,0,0,0.0
+48429,"Stephens, TX",Texas,436,1,0,0,0,0,1,2.294
+48431,"Sterling, TX",Texas,46,0,0,0,0,0,0,0.0
+48433,"Stonewall, TX",Texas,67,0,0,0,0,0,0,0.0
+48435,"Sutton, TX",Texas,142,0,0,0,0,0,0,0.0
+48437,"Swisher, TX",Texas,245,0,0,0,0,0,0,0.0
+48439,"Tarrant, TX",Texas,109279,32,20,4,0,4,4,0.293
+48441,"Taylor, TX",Texas,11494,5,0,0,0,5,0,0.435
+48443,"Terrell, TX",Texas,46,0,0,0,0,0,0,0.0
+48445,"Terry, TX",Texas,359,0,0,0,0,0,0,0.0
+48447,"Throckmorton, TX",Texas,103,0,0,0,0,0,0,0.0
+48449,"Titus, TX",Texas,1406,2,1,0,0,0,1,1.422
+48451,"Tom Green, TX",Texas,8922,4,0,1,0,2,1,0.448
+48453,"Travis, TX",Texas,48577,55,34,2,3,6,10,1.132
+48455,"Trinity, TX",Texas,1065,1,0,0,0,0,1,0.939
+48457,"Tyler, TX",Texas,1375,1,0,0,0,0,1,0.727
+48459,"Upshur, TX",Texas,2951,0,0,0,0,0,0,0.0
+48461,"Upton, TX",Texas,134,0,0,0,0,0,0,0.0
+48463,"Uvalde, TX",Texas,1207,1,0,0,0,0,1,0.829
+48465,"Val Verde, TX",Texas,2990,3,0,0,0,0,3,1.003
+48467,"Van Zandt, TX",Texas,3873,1,0,0,0,0,1,0.258
+48469,"Victoria, TX",Texas,4514,4,0,0,0,0,4,0.886
+48471,"Walker, TX",Texas,3709,2,0,0,0,0,2,0.539
+48473,"Waller, TX",Texas,2512,2,1,0,0,0,1,0.796
+48475,"Ward, TX",Texas,469,0,0,0,0,0,0,0.0
+48477,"Washington, TX",Texas,1705,1,0,0,0,0,1,0.587
+48479,"Webb, TX",Texas,5275,6,0,0,1,0,5,1.137
+48481,"Wharton, TX",Texas,1703,1,0,0,0,0,1,0.587
+48483,"Wheeler, TX",Texas,260,0,0,0,0,0,0,0.0
+48485,"Wichita, TX",Texas,13709,6,2,0,1,0,3,0.438
+48487,"Wilbarger, TX",Texas,622,0,0,0,0,0,0,0.0
+48489,"Willacy, TX",Texas,721,0,0,0,0,0,0,0.0
+48491,"Williamson, TX",Texas,38847,15,7,3,0,2,3,0.386
+48493,"Wilson, TX",Texas,5176,2,0,0,0,1,1,0.386
+48495,"Winkler, TX",Texas,230,0,0,0,0,0,0,0.0
+48497,"Wise, TX",Texas,4518,3,0,0,0,3,0,0.664
+48499,"Wood, TX",Texas,3539,1,0,0,0,0,1,0.283
+48501,"Yoakum, TX",Texas,152,0,0,0,0,0,0,0.0
+48503,"Young, TX",Texas,905,0,0,0,0,0,0,0.0
+48505,"Zapata, TX",Texas,335,1,0,0,0,0,1,2.985
+48507,"Zavala, TX",Texas,284,1,0,0,0,0,1,3.521
+49001,"Beaver, UT",Utah,262,0,0,0,0,0,0,0.0
+49003,"Box Elder, UT",Utah,2294,0,0,0,0,0,0,0.0
+49005,"Cache, UT",Utah,3743,1,0,0,0,0,1,0.267
+49007,"Carbon, UT",Utah,1001,0,0,0,0,0,0,0.0
+49009,"Daggett, UT",Utah,45,0,0,0,0,0,0,0.0
+49011,"Davis, UT",Utah,18568,11,8,3,0,0,0,0.592
+49013,"Duchesne, UT",Utah,647,0,0,0,0,0,0,0.0
+49015,"Emery, UT",Utah,367,0,0,0,0,0,0,0.0
+49017,"Garfield, UT",Utah,196,0,0,0,0,0,0,0.0
+49019,"Grand, UT",Utah,386,0,0,0,0,0,0,0.0
+49021,"Iron, UT",Utah,2529,2,0,1,0,0,1,0.791
+49023,"Juab, UT",Utah,384,0,0,0,0,0,0,0.0
+49025,"Kane, UT",Utah,501,0,0,0,0,0,0,0.0
+49027,"Millard, UT",Utah,546,0,0,0,0,0,0,0.0
+49029,"Morgan, UT",Utah,536,0,0,0,0,0,0,0.0
+49031,"Piute, UT",Utah,105,0,0,0,0,0,0,0.0
+49033,"Rich, UT",Utah,114,0,0,0,0,0,0,0.0
+49035,"Salt Lake, UT",Utah,39787,41,17,0,14,0,10,1.03
+49037,"San Juan, UT",Utah,538,0,0,0,0,0,0,0.0
+49039,"Sanpete, UT",Utah,1160,0,0,0,0,0,0,0.0
+49041,"Sevier, UT",Utah,1057,1,0,0,0,1,0,0.946
+49043,"Summit, UT",Utah,1376,0,0,0,0,0,0,0.0
+49045,"Tooele, UT",Utah,3826,0,0,0,0,0,0,0.0
+49047,"Uintah, UT",Utah,1265,0,0,0,0,0,0,0.0
+49049,"Utah, UT",Utah,17598,19,16,1,0,0,2,1.08
+49051,"Wasatch, UT",Utah,1048,0,0,0,0,0,0,0.0
+49053,"Washington, UT",Utah,9670,8,4,1,0,0,3,0.827
+49055,"Wayne, UT",Utah,144,0,0,0,0,0,0,0.0
+49057,"Weber, UT",Utah,14834,3,1,0,0,0,2,0.202
+50001,"Addison, VT",Vermont,1898,0,0,0,0,0,0,0.0
+50003,"Bennington, VT",Vermont,2231,1,0,0,1,0,0,0.448
+50005,"Caledonia, VT",Vermont,1848,0,0,0,0,0,0,0.0
+50007,"Chittenden, VT",Vermont,6669,1,1,0,0,0,0,0.15
+50009,"Essex, VT",Vermont,471,0,0,0,0,0,0,0.0
+50011,"Franklin, VT",Vermont,3367,0,0,0,0,0,0,0.0
+50013,"Grand Isle, VT",Vermont,512,0,0,0,0,0,0,0.0
+50015,"Lamoille, VT",Vermont,1374,0,0,0,0,0,0,0.0
+50017,"Orange, VT",Vermont,1775,1,1,0,0,0,0,0.563
+50019,"Orleans, VT",Vermont,1818,0,0,0,0,0,0,0.0
+50021,"Rutland, VT",Vermont,3945,3,1,1,1,0,0,0.76
+50023,"Washington, VT",Vermont,2949,6,0,0,1,5,0,2.035
+50025,"Windham, VT",Vermont,2770,0,0,0,0,0,0,0.0
+50027,"Windsor, VT",Vermont,3644,5,3,0,2,0,0,1.372
+51001,"Accomack, VA",Virginia,2365,2,0,1,0,0,1,0.846
+51003,"Albemarle, VA",Virginia,5248,12,8,1,1,0,2,2.287
+51005,"Alleghany, VA",Virginia,936,1,1,0,0,0,0,1.068
+51007,"Amelia, VA",Virginia,1089,0,0,0,0,0,0,0.0
+51009,"Amherst, VA",Virginia,1952,0,0,0,0,0,0,0.0
+51011,"Appomattox, VA",Virginia,1026,0,0,0,0,0,0,0.0
+51013,"Arlington, VA",Virginia,13035,105,42,0,15,0,48,8.055
+51015,"Augusta, VA",Virginia,4651,4,1,0,0,0,3,0.86
+51017,"Bath, VA",Virginia,336,0,0,0,0,0,0,0.0
+51019,"Bedford, VA",Virginia,5544,0,0,0,0,0,0,0.0
+51021,"Bland, VA",Virginia,347,0,0,0,0,0,0,0.0
+51023,"Botetourt, VA",Virginia,2489,0,0,0,0,0,0,0.0
+51025,"Brunswick, VA",Virginia,998,1,0,0,1,0,0,1.002
+51027,"Buchanan, VA",Virginia,699,1,1,0,0,0,0,1.431
+51029,"Buckingham, VA",Virginia,938,0,0,0,0,0,0,0.0
+51031,"Campbell, VA",Virginia,3238,1,1,0,0,0,0,0.309
+51033,"Caroline, VA",Virginia,2617,0,0,0,0,0,0,0.0
+51035,"Carroll, VA",Virginia,1744,0,0,0,0,0,0,0.0
+51036,"Charles City, VA",Virginia,553,0,0,0,0,0,0,0.0
+51037,"Charlotte, VA",Virginia,716,0,0,0,0,0,0,0.0
+51041,"Chesterfield, VA",Virginia,25633,4,2,0,2,0,0,0.156
+51043,"Clarke, VA",Virginia,1123,0,0,0,0,0,0,0.0
+51045,"Craig, VA",Virginia,290,0,0,0,0,0,0,0.0
+51047,"Culpeper, VA",Virginia,3631,2,1,0,1,0,0,0.551
+51049,"Cumberland, VA",Virginia,650,0,0,0,0,0,0,0.0
+51051,"Dickenson, VA",Virginia,605,0,0,0,0,0,0,0.0
+51053,"Dinwiddie, VA",Virginia,2422,7,0,0,2,0,5,2.89
+51057,"Essex, VA",Virginia,727,0,0,0,0,0,0,0.0
+51059,"Fairfax, VA",Virginia,68298,45,30,3,6,0,6,0.659
+51061,"Fauquier, VA",Virginia,5173,1,0,0,0,0,1,0.193
+51063,"Floyd, VA",Virginia,849,0,0,0,0,0,0,0.0
+51065,"Fluvanna, VA",Virginia,1844,1,1,0,0,0,0,0.542
+51067,"Franklin, VA",Virginia,3506,0,0,0,0,0,0,0.0
+51069,"Frederick, VA",Virginia,6336,1,1,0,0,0,0,0.158
+51071,"Giles, VA",Virginia,874,0,0,0,0,0,0,0.0
+51073,"Gloucester, VA",Virginia,4057,1,0,0,1,0,0,0.246
+51075,"Goochland, VA",Virginia,1386,1,1,0,0,0,0,0.722
+51077,"Grayson, VA",Virginia,891,0,0,0,0,0,0,0.0
+51079,"Greene, VA",Virginia,1549,0,0,0,0,0,0,0.0
+51081,"Greensville, VA",Virginia,649,0,0,0,0,0,0,0.0
+51083,"Halifax, VA",Virginia,2182,0,0,0,0,0,0,0.0
+51085,"Hanover, VA",Virginia,6063,1,0,0,1,0,0,0.165
+51087,"Henrico, VA",Virginia,15998,55,6,1,47,0,1,3.438
+51089,"Henry, VA",Virginia,2902,1,0,1,0,0,0,0.345
+51091,"Highland, VA",Virginia,194,0,0,0,0,0,0,0.0
+51093,"Isle Of Wight, VA",Virginia,4554,0,0,0,0,0,0,0.0
+51095,"James City, VA",Virginia,9183,9,6,1,0,0,2,0.98
+51097,"King And Queen, VA",Virginia,357,0,0,0,0,0,0,0.0
+51099,"King George, VA",Virginia,3149,0,0,0,0,0,0,0.0
+51101,"King William, VA",Virginia,1024,0,0,0,0,0,0,0.0
+51103,"Lancaster, VA",Virginia,842,0,0,0,0,0,0,0.0
+51105,"Lee, VA",Virginia,1166,0,0,0,0,0,0,0.0
+51107,"Loudoun, VA",Virginia,21852,13,9,2,0,0,2,0.595
+51109,"Louisa, VA",Virginia,2677,0,0,0,0,0,0,0.0
+51111,"Lunenburg, VA",Virginia,790,0,0,0,0,0,0,0.0
+51113,"Madison, VA",Virginia,789,0,0,0,0,0,0,0.0
+51115,"Mathews, VA",Virginia,853,1,0,1,0,0,0,1.172
+51117,"Mecklenburg, VA",Virginia,2124,2,0,0,1,0,1,0.942
+51119,"Middlesex, VA",Virginia,888,0,0,0,0,0,0,0.0
+51121,"Montgomery, VA",Virginia,3614,0,0,0,0,0,0,0.0
+51125,"Nelson, VA",Virginia,882,0,0,0,0,0,0,0.0
+51127,"New Kent, VA",Virginia,2164,1,1,0,0,0,0,0.462
+51131,"Northampton, VA",Virginia,829,0,0,0,0,0,0,0.0
+51133,"Northumberland, VA",Virginia,952,0,0,0,0,0,0,0.0
+51135,"Nottoway, VA",Virginia,1066,0,0,0,0,0,0,0.0
+51137,"Orange, VA",Virginia,2839,0,0,0,0,0,0,0.0
+51139,"Page, VA",Virginia,1498,0,0,0,0,0,0,0.0
+51141,"Patrick, VA",Virginia,958,0,0,0,0,0,0,0.0
+51143,"Pittsylvania, VA",Virginia,3614,5,0,0,0,0,5,1.384
+51145,"Powhatan, VA",Virginia,2192,0,0,0,0,0,0,0.0
+51147,"Prince Edward, VA",Virginia,1157,0,0,0,0,0,0,0.0
+51149,"Prince George, VA",Virginia,6312,6,1,0,3,0,2,0.951
+51153,"Prince William, VA",Virginia,40685,7,5,2,0,0,0,0.172
+51155,"Pulaski, VA",Virginia,2375,0,0,0,0,0,0,0.0
+51157,"Rappahannock, VA",Virginia,568,0,0,0,0,0,0,0.0
+51159,"Richmond, VA",Virginia,403,0,0,0,0,0,0,0.0
+51161,"Roanoke, VA",Virginia,5767,7,1,0,0,0,6,1.214
+51163,"Rockbridge, VA",Virginia,1512,0,0,0,0,0,0,0.0
+51165,"Rockingham, VA",Virginia,3880,0,0,0,0,0,0,0.0
+51167,"Russell, VA",Virginia,1043,0,0,0,0,0,0,0.0
+51169,"Scott, VA",Virginia,1177,1,1,0,0,0,0,0.85
+51171,"Shenandoah, VA",Virginia,3085,1,0,0,0,0,1,0.324
+51173,"Smyth, VA",Virginia,1689,0,0,0,0,0,0,0.0
+51175,"Southampton, VA",Virginia,1443,0,0,0,0,0,0,0.0
+51177,"Spotsylvania, VA",Virginia,13838,9,2,2,0,0,5,0.65
+51179,"Stafford, VA",Virginia,22204,12,1,2,5,0,4,0.54
+51181,"Surry, VA",Virginia,676,0,0,0,0,0,0,0.0
+51183,"Sussex, VA",Virginia,734,0,0,0,0,0,0,0.0
+51185,"Tazewell, VA",Virginia,2294,2,0,0,0,0,2,0.872
+51187,"Warren, VA",Virginia,2769,3,1,0,1,0,1,1.083
+51191,"Washington, VA",Virginia,3558,2,1,0,0,0,1,0.562
+51193,"Westmoreland, VA",Virginia,1492,0,0,0,0,0,0,0.0
+51195,"Wise, VA",Virginia,1858,3,1,0,0,0,2,1.615
+51197,"Wythe, VA",Virginia,1641,4,0,0,1,0,3,2.438
+51199,"York, VA",Virginia,9863,2,2,0,0,0,0,0.203
+51510,"Alexandria City, VA",Virginia,11666,30,6,1,23,0,0,2.572
+51520,"Bristol, VA",Virginia,1063,1,0,0,0,0,1,0.941
+51530,"Buena Vista City, VA",Virginia,334,0,0,0,0,0,0,0.0
+51540,"Charlottesville City, VA",Virginia,1513,1,1,0,0,0,0,0.661
+51550,"Chesapeake City, VA",Virginia,30858,12,6,0,5,0,1,0.389
+51570,"Colonial Heights City, VA",Virginia,1567,0,0,0,0,0,0,0.0
+51580,"Covington City, VA",Virginia,365,0,0,0,0,0,0,0.0
+51590,"Danville City, VA",Virginia,2586,0,0,0,0,0,0,0.0
+51595,"Emporia City, VA",Virginia,341,0,0,0,0,0,0,0.0
+51600,"Fairfax City, VA",Virginia,1375,5,4,0,1,0,0,3.636
+51610,"Falls Church City, VA",Virginia,621,0,0,0,0,0,0,0.0
+51620,"Franklin City, VA",Virginia,521,0,0,0,0,0,0,0.0
+51630,"Fredericksburg City, VA",Virginia,2477,3,1,0,2,0,0,1.211
+51640,"Galax City, VA",Virginia,383,0,0,0,0,0,0,0.0
+51650,"Hampton City, VA",Virginia,18815,15,0,1,7,0,7,0.797
+51660,"Harrisonburg City, VA",Virginia,1327,0,0,0,0,0,0,0.0
+51670,"Hopewell City, VA",Virginia,1932,0,0,0,0,0,0,0.0
+51678,"Lexington City, VA",Virginia,237,0,0,0,0,0,0,0.0
+51680,"Lynchburg City, VA",Virginia,4291,4,0,0,0,0,4,0.932
+51683,"Manassas City, VA",Virginia,2179,2,0,0,0,0,2,0.918
+51685,"Manassas Park City, VA",Virginia,834,0,0,0,0,0,0,0.0
+51690,"Martinsville City, VA",Virginia,674,0,0,0,0,0,0,0.0
+51700,"Newport News City, VA",Virginia,22037,7,4,0,0,0,3,0.318
+51710,"Norfolk City, VA",Virginia,30115,31,11,1,12,0,7,1.029
+51720,"Norton City, VA",Virginia,233,0,0,0,0,0,0,0.0
+51730,"Petersburg City, VA",Virginia,2811,0,0,0,0,0,0,0.0
+51735,"Poquoson City, VA",Virginia,1542,0,0,0,0,0,0,0.0
+51740,"Portsmouth City, VA",Virginia,10348,3,0,0,1,0,2,0.29
+51750,"Radford City, VA",Virginia,622,0,0,0,0,0,0,0.0
+51760,"Richmond City, VA",Virginia,10949,36,10,0,5,0,21,3.288
+51770,"Roanoke City, VA",Virginia,5538,21,2,0,10,0,9,3.792
+51775,"Salem City, VA",Virginia,1714,0,0,0,0,0,0,0.0
+51790,"Staunton City, VA",Virginia,1515,0,0,0,0,0,0,0.0
+51800,"Suffolk City, VA",Virginia,12456,1,1,0,0,0,0,0.08
+51810,"Virginia Beach City, VA",Virginia,62377,32,19,2,7,0,4,0.513
+51820,"Waynesboro City, VA",Virginia,1412,0,0,0,0,0,0,0.0
+51830,"Williamsburg City, VA",Virginia,1151,4,1,0,0,0,3,3.475
+51840,"Winchester City, VA",Virginia,1452,3,3,0,0,0,0,2.066
+53001,"Adams, WA",Washington,520,0,0,0,0,0,0,0.0
+53003,"Asotin, WA",Washington,1757,1,0,0,0,0,1,0.569
+53005,"Benton, WA",Washington,11932,2,0,1,0,0,1,0.168
+53007,"Chelan, WA",Washington,4543,4,1,0,0,0,3,0.88
+53009,"Clallam, WA",Washington,7336,5,0,0,1,0,4,0.682
+53011,"Clark, WA",Washington,33065,9,4,0,5,0,0,0.272
+53013,"Columbia, WA",Washington,324,0,0,0,0,0,0,0.0
+53015,"Cowlitz, WA",Washington,8094,0,0,0,0,0,0,0.0
+53017,"Douglas, WA",Washington,2081,1,0,0,0,0,1,0.481
+53019,"Ferry, WA",Washington,679,0,0,0,0,0,0,0.0
+53021,"Franklin, WA",Washington,3391,1,0,0,0,0,1,0.295
+53023,"Garfield, WA",Washington,242,0,0,0,0,0,0,0.0
+53025,"Grant, WA",Washington,4080,2,0,0,0,0,2,0.49
+53027,"Grays Harbor, WA",Washington,5756,2,0,0,2,0,0,0.347
+53029,"Island, WA",Washington,11982,5,1,0,3,0,1,0.417
+53031,"Jefferson, WA",Washington,2916,0,0,0,0,0,0,0.0
+53033,"King, WA",Washington,85540,66,37,3,18,0,8,0.772
+53035,"Kitsap, WA",Washington,33858,16,4,2,4,0,6,0.473
+53037,"Kittitas, WA",Washington,2430,4,1,0,0,0,3,1.646
+53039,"Klickitat, WA",Washington,1787,1,0,0,0,0,1,0.56
+53041,"Lewis, WA",Washington,5986,3,1,0,1,0,1,0.501
+53043,"Lincoln, WA",Washington,942,0,0,0,0,0,0,0.0
+53045,"Mason, WA",Washington,6544,0,0,0,0,0,0,0.0
+53047,"Okanogan, WA",Washington,2852,5,0,1,0,0,4,1.753
+53049,"Pacific, WA",Washington,2209,2,0,0,0,0,2,0.905
+53051,"Pend Oreille, WA",Washington,1211,0,0,0,0,0,0,0.0
+53053,"Pierce, WA",Washington,85986,53,16,5,20,0,12,0.616
+53055,"San Juan, WA",Washington,1068,0,0,0,0,0,0,0.0
+53057,"Skagit, WA",Washington,9098,2,0,0,0,0,2,0.22
+53059,"Skamania, WA",Washington,948,2,0,0,0,0,2,2.11
+53061,"Snohomish, WA",Washington,43727,10,5,0,2,0,3,0.229
+53063,"Spokane, WA",Washington,41018,23,7,0,4,0,12,0.561
+53065,"Stevens, WA",Washington,4419,4,1,0,0,0,3,0.905
+53067,"Thurston, WA",Washington,30683,35,10,2,2,0,21,1.141
+53069,"Wahkiakum, WA",Washington,458,0,0,0,0,0,0,0.0
+53071,"Walla Walla, WA",Washington,3904,6,0,0,2,0,4,1.537
+53073,"Whatcom, WA",Washington,12213,4,1,0,0,0,3,0.328
+53075,"Whitman, WA",Washington,2011,1,0,0,0,0,1,0.497
+53077,"Yakima, WA",Washington,9160,4,0,0,1,0,3,0.437
+54001,"Barbour, WV",West Virginia,899,0,0,0,0,0,0,0.0
+54003,"Berkeley, WV",West Virginia,10652,4,0,0,4,0,0,0.376
+54005,"Boone, WV",West Virginia,1220,0,0,0,0,0,0,0.0
+54007,"Braxton, WV",West Virginia,842,0,0,0,0,0,0,0.0
+54009,"Brooke, WV",West Virginia,1414,0,0,0,0,0,0,0.0
+54011,"Cabell, WV",West Virginia,5502,14,1,0,13,0,0,2.545
+54013,"Calhoun, WV",West Virginia,349,0,0,0,0,0,0,0.0
+54015,"Clay, WV",West Virginia,570,0,0,0,0,0,0,0.0
+54017,"Doddridge, WV",West Virginia,508,0,0,0,0,0,0,0.0
+54019,"Fayette, WV",West Virginia,2632,0,0,0,0,0,0,0.0
+54021,"Gilmer, WV",West Virginia,370,0,0,0,0,0,0,0.0
+54023,"Grant, WV",West Virginia,723,0,0,0,0,0,0,0.0
+54025,"Greenbrier, WV",West Virginia,2311,2,0,0,2,0,0,0.865
+54027,"Hampshire, WV",West Virginia,1746,1,1,0,0,0,0,0.573
+54029,"Hancock, WV",West Virginia,2085,0,0,0,0,0,0,0.0
+54031,"Hardy, WV",West Virginia,1139,2,0,0,2,0,0,1.756
+54033,"Harrison, WV",West Virginia,4564,7,3,0,4,0,0,1.534
+54035,"Jackson, WV",West Virginia,1954,0,0,0,0,0,0,0.0
+54037,"Jefferson, WV",West Virginia,4797,1,1,0,0,0,0,0.208
+54039,"Kanawha, WV",West Virginia,10423,16,6,0,10,0,0,1.535
+54041,"Lewis, WV",West Virginia,1307,0,0,0,0,0,0,0.0
+54043,"Lincoln, WV",West Virginia,892,0,0,0,0,0,0,0.0
+54045,"Logan, WV",West Virginia,1421,3,0,0,3,0,0,2.111
+54047,"McDowell, WV",West Virginia,892,0,0,0,0,0,0,0.0
+54049,"Marion, WV",West Virginia,3738,1,0,0,1,0,0,0.268
+54051,"Marshall, WV",West Virginia,1684,1,1,0,0,0,0,0.594
+54053,"Mason, WV",West Virginia,1522,0,0,0,0,0,0,0.0
+54055,"Mercer, WV",West Virginia,3473,2,0,0,2,0,0,0.576
+54057,"Mineral, WV",West Virginia,1830,0,0,0,0,0,0,0.0
+54059,"Mingo, WV",West Virginia,861,0,0,0,0,0,0,0.0
+54061,"Monongalia, WV",West Virginia,4657,4,3,1,0,0,0,0.859
+54063,"Monroe, WV",West Virginia,966,0,0,0,0,0,0,0.0
+54065,"Morgan, WV",West Virginia,1428,0,0,0,0,0,0,0.0
+54067,"Nicholas, WV",West Virginia,1483,2,0,0,2,0,0,1.349
+54069,"Ohio, WV",West Virginia,2558,5,1,0,4,0,0,1.955
+54071,"Pendleton, WV",West Virginia,501,0,0,0,0,0,0,0.0
+54073,"Pleasants, WV",West Virginia,496,0,0,0,0,0,0,0.0
+54075,"Pocahontas, WV",West Virginia,637,0,0,0,0,0,0,0.0
+54077,"Preston, WV",West Virginia,2092,1,0,1,0,0,0,0.478
+54079,"Putnam, WV",West Virginia,3784,2,1,0,1,0,0,0.529
+54081,"Raleigh, WV",West Virginia,4836,5,0,1,4,0,0,1.034
+54083,"Randolph, WV",West Virginia,1867,2,0,0,2,0,0,1.071
+54085,"Ritchie, WV",West Virginia,606,0,0,0,0,0,0,0.0
+54087,"Roane, WV",West Virginia,896,2,1,0,1,0,0,2.232
+54089,"Summers, WV",West Virginia,794,0,0,0,0,0,0,0.0
+54091,"Taylor, WV",West Virginia,1183,0,0,0,0,0,0,0.0
+54093,"Tucker, WV",West Virginia,469,0,0,0,0,0,0,0.0
+54095,"Tyler, WV",West Virginia,590,0,0,0,0,0,0,0.0
+54097,"Upshur, WV",West Virginia,1623,0,0,0,0,0,0,0.0
+54099,"Wayne, WV",West Virginia,2549,0,0,0,0,0,0,0.0
+54101,"Webster, WV",West Virginia,511,0,0,0,0,0,0,0.0
+54103,"Wetzel, WV",West Virginia,831,0,0,0,0,0,0,0.0
+54105,"Wirt, WV",West Virginia,415,0,0,0,0,0,0,0.0
+54107,"Wood, WV",West Virginia,5993,12,6,0,6,0,0,2.002
+54109,"Wyoming, WV",West Virginia,977,1,0,0,1,0,0,1.024
+55001,"Adams, WI",Wisconsin,1802,2,0,0,0,1,1,1.11
+55003,"Ashland, WI",Wisconsin,987,3,0,0,0,2,1,3.04
+55005,"Barron, WI",Wisconsin,3131,3,0,0,0,1,2,0.958
+55007,"Bayfield, WI",Wisconsin,1291,2,0,0,0,0,2,1.549
+55009,"Brown, WI",Wisconsin,13557,13,3,1,0,6,3,0.959
+55011,"Buffalo, WI",Wisconsin,876,4,0,0,0,2,2,4.566
+55013,"Burnett, WI",Wisconsin,1463,1,0,0,0,1,0,0.684
+55015,"Calumet, WI",Wisconsin,2545,2,0,0,0,2,0,0.786
+55017,"Chippewa, WI",Wisconsin,4463,2,0,0,0,1,1,0.448
+55019,"Clark, WI",Wisconsin,1595,2,0,0,0,1,1,1.254
+55021,"Columbia, WI",Wisconsin,3548,1,0,0,0,1,0,0.282
+55023,"Crawford, WI",Wisconsin,1065,1,0,0,0,1,0,0.939
+55025,"Dane, WI",Wisconsin,22417,24,10,0,0,11,3,1.071
+55027,"Dodge, WI",Wisconsin,4871,3,0,0,0,2,1,0.616
+55029,"Door, WI",Wisconsin,1900,2,0,0,0,0,2,1.053
+55031,"Douglas, WI",Wisconsin,3115,3,0,0,0,0,3,0.963
+55033,"Dunn, WI",Wisconsin,2134,2,0,0,0,2,0,0.937
+55035,"Eau Claire, WI",Wisconsin,5381,3,0,0,0,1,2,0.558
+55037,"Florence, WI",Wisconsin,456,1,0,0,0,1,0,2.193
+55039,"Fond Du Lac, WI",Wisconsin,5499,3,0,0,0,3,0,0.546
+55041,"Forest, WI",Wisconsin,718,2,0,0,0,1,1,2.786
+55043,"Grant, WI",Wisconsin,2409,3,0,1,0,2,0,1.245
+55045,"Green, WI",Wisconsin,1990,3,1,0,0,2,0,1.508
+55047,"Green Lake, WI",Wisconsin,1170,2,0,0,0,2,0,1.709
+55049,"Iowa, WI",Wisconsin,1162,1,0,0,0,0,1,0.861
+55051,"Iron, WI",Wisconsin,481,2,0,0,1,0,1,4.158
+55053,"Jackson, WI",Wisconsin,1531,5,0,0,0,0,5,3.266
+55055,"Jefferson, WI",Wisconsin,4592,6,1,0,1,4,0,1.307
+55057,"Juneau, WI",Wisconsin,2197,4,1,0,1,1,1,1.821
+55059,"Kenosha, WI",Wisconsin,9034,5,0,0,0,5,0,0.553
+55061,"Kewaunee, WI",Wisconsin,1027,2,0,0,0,2,0,1.947
+55063,"La Crosse, WI",Wisconsin,6820,6,0,0,1,5,0,0.88
+55065,"Lafayette, WI",Wisconsin,772,2,1,0,0,0,1,2.591
+55067,"Langlade, WI",Wisconsin,1552,4,1,0,0,2,1,2.577
+55069,"Lincoln, WI",Wisconsin,1729,2,0,0,0,2,0,1.157
+55071,"Manitowoc, WI",Wisconsin,4760,6,3,0,0,1,2,1.261
+55073,"Marathon, WI",Wisconsin,7501,8,5,0,0,3,0,1.067
+55075,"Marinette, WI",Wisconsin,3176,2,0,0,0,2,0,0.63
+55077,"Marquette, WI",Wisconsin,1292,3,0,0,0,3,0,2.322
+55078,"Menominee, WI",Wisconsin,242,1,0,0,0,0,1,4.132
+55079,"Milwaukee, WI",Wisconsin,35093,42,13,1,15,0,13,1.197
+55081,"Monroe, WI",Wisconsin,5283,2,0,0,0,2,0,0.379
+55083,"Oconto, WI",Wisconsin,2581,2,0,0,0,0,2,0.775
+55085,"Oneida, WI",Wisconsin,2854,4,0,0,0,2,2,1.402
+55087,"Outagamie, WI",Wisconsin,9763,11,4,1,0,4,2,1.127
+55089,"Ozaukee, WI",Wisconsin,3539,5,1,0,2,0,2,1.413
+55091,"Pepin, WI",Wisconsin,442,1,0,0,0,0,1,2.262
+55093,"Pierce, WI",Wisconsin,2101,3,0,0,0,3,0,1.428
+55095,"Polk, WI",Wisconsin,3019,2,0,0,0,2,0,0.662
+55097,"Portage, WI",Wisconsin,3973,2,0,0,0,2,0,0.503
+55099,"Price, WI",Wisconsin,1215,3,2,0,0,0,1,2.469
+55101,"Racine, WI",Wisconsin,9922,13,10,0,0,3,0,1.31
+55103,"Richland, WI",Wisconsin,970,2,0,0,0,1,1,2.062
+55105,"Rock, WI",Wisconsin,9711,5,1,0,0,4,0,0.515
+55107,"Rusk, WI",Wisconsin,1033,3,0,0,0,2,1,2.904
+55109,"Saint Croix, WI",Wisconsin,5222,3,0,0,0,0,3,0.574
+55111,"Sauk, WI",Wisconsin,3515,6,0,0,1,4,1,1.707
+55113,"Sawyer, WI",Wisconsin,1260,2,0,0,0,2,0,1.587
+55115,"Shawano, WI",Wisconsin,2485,3,0,0,0,2,1,1.207
+55117,"Sheboygan, WI",Wisconsin,5619,3,0,0,0,2,1,0.534
+55119,"Taylor, WI",Wisconsin,1176,3,0,0,0,2,1,2.551
+55121,"Trempealeau, WI",Wisconsin,1725,2,0,0,0,1,1,1.159
+55123,"Vernon, WI",Wisconsin,1690,3,0,0,0,1,2,1.775
+55125,"Vilas, WI",Wisconsin,1905,3,0,0,0,0,3,1.575
+55127,"Walworth, WI",Wisconsin,4718,4,1,0,0,2,1,0.848
+55129,"Washburn, WI",Wisconsin,1391,2,0,0,0,2,0,1.438
+55131,"Washington, WI",Wisconsin,6982,3,1,0,0,0,2,0.43
+55133,"Waukesha, WI",Wisconsin,17828,7,2,0,1,1,3,0.393
+55135,"Waupaca, WI",Wisconsin,3619,6,0,0,0,3,3,1.658
+55137,"Waushara, WI",Wisconsin,1632,2,0,0,0,2,0,1.225
+55139,"Winnebago, WI",Wisconsin,10092,10,0,0,1,7,2,0.991
+55141,"Wood, WI",Wisconsin,5096,5,1,0,0,4,0,0.981
+56001,"Albany, WY",Wyoming,2225,5,3,0,0,0,2,2.247
+56003,"Big Horn, WY",Wyoming,826,0,0,0,0,0,0,0.0
+56005,"Campbell, WY",Wyoming,2669,4,0,0,2,0,2,1.499
+56007,"Carbon, WY",Wyoming,922,0,0,0,0,0,0,0.0
+56009,"Converse, WY",Wyoming,948,0,0,0,0,0,0,0.0
+56011,"Crook, WY",Wyoming,586,0,0,0,0,0,0,0.0
+56013,"Fremont, WY",Wyoming,2341,1,0,0,0,0,1,0.427
+56015,"Goshen, WY",Wyoming,1025,0,0,0,0,0,0,0.0
+56017,"Hot Springs, WY",Wyoming,333,0,0,0,0,0,0,0.0
+56019,"Johnson, WY",Wyoming,700,1,0,0,1,0,0,1.429
+56021,"Laramie, WY",Wyoming,12884,12,3,0,5,2,2,0.931
+56023,"Lincoln, WY",Wyoming,1247,1,0,0,0,1,0,0.802
+56025,"Natrona, WY",Wyoming,4797,4,0,1,0,0,3,0.834
+56027,"Niobrara, WY",Wyoming,132,0,0,0,0,0,0,0.0
+56029,"Park, WY",Wyoming,2156,2,0,0,0,0,2,0.928
+56031,"Platte, WY",Wyoming,798,0,0,0,0,0,0,0.0
+56033,"Sheridan, WY",Wyoming,2967,0,0,0,0,0,0,0.0
+56035,"Sublette, WY",Wyoming,720,2,1,0,0,1,0,2.778
+56037,"Sweetwater, WY",Wyoming,2522,1,0,0,0,1,0,0.397
+56039,"Teton, WY",Wyoming,652,0,0,0,0,0,0,0.0
+56041,"Uinta, WY",Wyoming,1100,0,0,0,0,0,0,0.0
+56043,"Washakie, WY",Wyoming,523,0,0,0,0,0,0,0.0
+56045,"Weston, WY",Wyoming,537,0,0,0,0,0,0,0.0
+72000,"Puerto Rico, PR",Puerto Rico,69435,67,46,4,17,0,0,0.965
+90060,American Samoa,Island Areas & Foreign,1418,4,0,0,4,0,0,2.821
+90066,Guam,Island Areas & Foreign,10537,11,5,0,6,0,0,1.044
+90069,Northern Mariana Islands,Island Areas & Foreign,815,0,0,0,0,0,0,0.0
+90078,Virgin Islands,Island Areas & Foreign,3657,1,0,0,1,0,0,0.273
+99000,Foreign Countries,Island Areas & Foreign,77176,355,70,5,176,25,78,4.6
