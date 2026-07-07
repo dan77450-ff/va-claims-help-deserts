@@ -1,3 +1,9 @@
 .DS_Store
 __pycache__/
 *.pyc
+# large/static pipeline inputs — cached on the VM, not versioned
+data/VetPop2023_County_Data__9L.csv
+data/tab20_zcta520_county20_natl.txt
+data/ZIP-to-PlanningRegion.xlsx
+data/MMWR-*.xls*
+data/ogc-rosters/
