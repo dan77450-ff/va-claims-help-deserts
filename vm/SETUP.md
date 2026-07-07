@@ -29,7 +29,7 @@ EOF
 ## 3. Clone
 
 ```bash
-git clone git@github-va-deserts:<YOUR_GITHUB_USERNAME>/va-claims-help-deserts.git ~/va-claims-help-deserts
+git clone git@github-va-deserts:dan77450-ff/va-claims-help-deserts.git ~/va-claims-help-deserts
 cd ~/va-claims-help-deserts
 git config user.name "va-deserts-bot"
 git config user.email "dan77450@hotmail.com"

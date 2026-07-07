@@ -14,7 +14,7 @@ The CVSO Act (§302 of the Dole Act, signed January 2025) requires VA to priorit
 
 ## The map
 
-Interactive county choropleth: **[view the map](https://YOURUSERNAME.github.io/va-claims-help-deserts/)** (enable GitHub Pages → `docs/` to activate).
+Interactive county choropleth: **[view the map](https://dan77450-ff.github.io/va-claims-help-deserts/)** (live once GitHub Pages is enabled).
 
 ## The data
 
