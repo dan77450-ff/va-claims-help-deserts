@@ -72,7 +72,7 @@ def zip_to_county(reps):
     cache = {}
     fips_list, counties, states = [], [], []
     for z in reps["zip5"]:
-        if z is None:
+        if not isinstance(z, str) or not z:  # None / pd.NA (pandas>=3) / empty
             fips_list.append(None); counties.append(None); states.append(None); continue
         f = zcta.get(z)
         # fallback for non-ZCTA zips (PO boxes etc.): name-based via zipcodes pkg
