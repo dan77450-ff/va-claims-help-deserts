@@ -49,7 +49,9 @@ for i in $(seq 0 13); do
   D=$(date -d "-$i days" +%m-%d-%Y); Y=$(date -d "-$i days" +%Y)
   for ext in xlsx xlsm; do
     URL="https://www.benefits.va.gov/REPORTS/mmwr/$Y/MMWR-$D.$ext"
-    if curl -fsSL -A "$UA" -o "$CACHE_DIR/raw/mmwr.$ext" "$URL" 2>/dev/null; then
+    if curl -fsSL -A "$UA" -o "$CACHE_DIR/raw/mmwr.$ext" "$URL" 2>/dev/null \
+       && [ "$(head -c2 "$CACHE_DIR/raw/mmwr.$ext")" = "PK" ]; then
+      # magic-byte check: va.gov serves HTML error pages with HTTP 200
       MMWR="$CACHE_DIR/raw/mmwr.$ext"; log "got MMWR-$D.$ext"; break 2
     fi
   done
