@@ -55,7 +55,7 @@ Dollars are FY24 VA Compensation &amp; Pension expenditures (GDX) per projected 
 Backlog is state-level only. Sources: VA OGC roster; VBA MMWR; VetPop2023; VA GDX FY24; Census.</div>
 <script>
 const C=__COUNTIES__, B=__BACKLOG__, P=__PROFILES__;
-const W=1000,H=640,svg=d3.select('#map').append('svg').attr('viewBox',`0 0 ${W} ${H}`).attr('width','100%');
+const W=1000,H=675,svg=d3.select('#map').append('svg').attr('viewBox',`0 0 ${W} ${H}`).attr('width','100%');
 const tip=d3.select('#tip'), panel=d3.select('#panel');
 const fmt=n=>n.toLocaleString();
 const color=v=>v==null?'#eee':v[3]===0?(v[2]>=1000?'#b2182b':'#f4a582'):v[7]<0.25?'#fddbc7':v[7]<0.5?'#d1e5f0':v[7]<1?'#67a9cf':'#2166ac';
@@ -94,9 +94,10 @@ d3.json('https://cdn.jsdelivr.net/npm/us-atlas@3/counties-albers-10m.json').then
       showPanel(d.id);});
   svg.append('path').datum(topojson.mesh(us,us.objects.states,(a,b)=>a!==b))
     .attr('fill','none').attr('stroke','#666').attr('stroke-width',.7).attr('d',d3.geoPath());
+  // legend below the map (grid: 3 cols x 2 rows) so it never overlaps Alaska/Hawaii
   const items=[['#b2182b','0 reps, ≥1,000 vets (desert)'],['#f4a582','0 reps, <1,000 vets'],['#fddbc7','<0.25 per 1k'],['#d1e5f0','0.25–0.5'],['#67a9cf','0.5–1'],['#2166ac','≥1 per 1k']];
-  const lg=svg.append('g').attr('class','legend').attr('transform','translate(15,540)');
-  items.forEach((it,i)=>{const g=lg.append('g').attr('transform',`translate(0,${i*17})`);
+  const lg=svg.append('g').attr('class','legend').attr('transform','translate(15,632)');
+  items.forEach((it,i)=>{const g=lg.append('g').attr('transform',`translate(${(i%3)*230},${Math.floor(i/3)*19})`);
     g.append('rect').attr('width',13).attr('height',13).attr('fill',it[0]);
     g.append('text').attr('x',18).attr('y',11).text(it[1]);});
 });
