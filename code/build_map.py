@@ -46,7 +46,7 @@ a{color:#1c5f9e} path.county{cursor:pointer}
 </style></head><body>
 <h1>VA Claims-Help Deserts</h1>
 <p class="sub">Accredited representatives per 1,000 veterans by county &middot; roster __RSNAP__ &middot; backlog __RDATE__ &middot;
-hover for quick stats, <b>click a county for the full picture</b> &middot; <a href="trends.html">trends</a> &middot; <a href="https://github.com/dan77450-ff/va-claims-help-deserts">data &amp; methodology</a></p>
+hover for quick stats, <b>click a county for the full picture</b> &middot; <a href="about.html">about</a> &middot; <a href="trends.html">trends</a> &middot; <a href="https://github.com/dan77450-ff/va-claims-help-deserts">data &amp; methodology</a></p>
 <div id="wrap"><div id="map"></div><div id="panel"><span class="muted">Click a county to see its profile: distance to nearest help, benefit dollars vs. state average, and whose district it is.</span></div></div>
 <div id="tip"></div>
 <div class="note"><b>Read this before citing:</b> "0 accredited reps" means no rep has a registered address in that county —
