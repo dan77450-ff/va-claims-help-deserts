@@ -22,7 +22,13 @@ input{font-size:14px;padding:6px 8px;width:320px;border:1px solid #bbb;border-ra
 <canvas id="cty" height="90"></canvas></div>
 
 <script>
-const csv = t => { const [h,...rows]=t.trim().split('\n').map(l=>l.split(','));
+function splitLine(l){ // handles quoted fields containing commas
+  const out=[]; let cur='',q=false;
+  for(let i=0;i<l.length;i++){const ch=l[i];
+    if(ch==='"'){q=!q;continue;}
+    if(ch===','&&!q){out.push(cur);cur='';}else cur+=ch;}
+  out.push(cur); return out;}
+const csv = t => { const [h,...rows]=t.trim().split('\n').map(splitLine);
   return rows.map(r=>Object.fromEntries(h.map((k,i)=>[k,r[i]]))); };
 let natChart=null, ctyChart=null, trends=[], dates=[];
 
